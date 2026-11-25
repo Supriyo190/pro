@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Therapy Recommendation</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Therapy Recommendation System</h1>
+
+    <!-- Therapy Taken -->
+    <div class="section-label">Have you taken therapy before?</div>
+    <select id="therapyTaken" onchange="toggleFields()">
+        <option value="">Select</option>
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+    </select>
+
+    <!-- Age -->
+    <div class="section-label">Age</div>
+    <select id="age"></select>
+
+    <!-- Gender -->
+    <div class="section-label">Gender</div>
+    <select id="gender">
+        <option>Male</option>
+        <option>Female</option>
+    </select>
+
+    <!-- Symptom -->
+    <div class="section-label">Symptom</div>
+    <select id="symptom">
+        <option>Acidity</option>
+        <option>Back Pain</option>
+        <option>Breathing Issue</option>
+        <option>Fatigue</option>
+        <option>Headache</option>
+        <option>High BP</option>
+        <option>High Sugar</option>
+        <option>Joint Pain</option>
+        <option>Knee Pain</option>
+        <option>Low BP</option>
+        <option>Low Mood</option>
+        <option>Skin Problems</option>
+        <option>Stress</option>
+        <option>Weight Gain</option>
+    </select>
+
+    <!-- Disease -->
+    <div class="section-label">Disease</div>
+    <select id="disease">
+        <option>Anxiety</option>
+        <option>Arthritis</option>
+        <option>Asthma</option>
+        <option>Chronic Fatigue</option>
+        <option>Depression</option>
+        <option>Diabetes Mellitus</option>
+        <option>Gastritis</option>
+        <option>Hypertension</option>
+        <option>Hypotension</option>
+        <option>Migraine Disorder</option>
+        <option>Obesity</option>
+        <option>Osteoarthritis</option>
+        <option>Psoriasis</option>
+        <option>Spondylitis</option>
+    </select>
+
+    <!-- Condition -->
+    <div class="section-label">Condition Type</div>
+    <select id="condition">
+        <option>Acute</option>
+        <option>Chronic</option>
+    </select>
+
+    <!-- CONDITIONAL -->
+    <div id="extraFields">
+
+        <div class="section-label">Severity Level</div>
+        <select id="severity">
+            <option>Mild</option>
+            <option>Moderate</option>
+            <option>Severe</option>
+        </select>
+
+        <div class="section-label">Duration</div>
+        <select id="duration"></select>
+
+        <div class="section-label">Previous Therapy</div>
+        <select id="previous">
+            <option>Abhyanga</option>
+            <option>Basti</option>
+            <option>Janu Basti</option>
+            <option>Kati Basti</option>
+            <option>Nasya</option>
+            <option>Shirodhara</option>
+            <option>Takradhara</option>
+            <option>Udvartana</option>
+            <option>Vamana</option>
+            <option>Virechana</option>
+        </select>
+
+        <div class="section-label">Response to Previous</div>
+        <select id="response">
+            <option>None</option>
+            <option>Partial</option>
+            <option>Good</option>
+            <option>Poor</option>
+        </select>
+
+    </div>
+
+    <!-- Lifestyle -->
+    <div class="section-label">Lifestyle Factor</div>
+    <select id="lifestyle">
+        <option>Sedentary</option>
+        <option>Moderate</option>
+        <option>Active</option>
+        <option>Stressful</option>
+        <option>Irregular</option>
+    </select>
+
+    <button onclick="submitForm()">Best Therapy for You</button>
+
+    <h2 id="result"></h2>
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+</html>

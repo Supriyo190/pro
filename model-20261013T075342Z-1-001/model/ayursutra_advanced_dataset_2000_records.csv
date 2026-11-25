@@ -1,0 +1,2001 @@
+Age,Gender,Symptom,Disease,Condition_Type,Severity_Level,Duration_in_days,Previous_Therapy,Response_to_Previous,Lifestyle_Factor,Therapy
+49,Female,Knee Pain,Osteoarthritis,Chronic,Mild,225,Shirodhara,Improved,Active,Janu Basti
+69,Female,Weight Gain,Obesity,Acute,Moderate,234,Kati Basti,No Change,Stressful,Udvartana
+60,Male,High BP,Hypertension,Acute,Mild,106,Abhyanga,No Change,Stressful,Nasya
+25,Female,High Sugar,Diabetes Mellitus,Chronic,Moderate,12,Vamana,No Change,Stressful,Udvartana
+36,Male,Low Mood,Depression,Chronic,Mild,281,Vamana,Worsened,Stressful,Virechana
+47,Female,Acidity,Gastritis,Acute,Mild,45,Basti,Improved,Sedentary,Virechana
+49,Male,Weight Gain,Obesity,Acute,Mild,285,Udvartana,Improved,Active,Udvartana
+74,Female,Breathing Issue,Asthma,Acute,Moderate,231,Udvartana,Worsened,Active,Vamana
+65,Male,Joint Pain,Arthritis,Acute,Moderate,254,Udvartana,No Change,Stressful,Shirodhara
+54,Female,Joint Pain,Arthritis,Chronic,Mild,174,Nasya,Improved,Active,Basti
+44,Female,High BP,Hypertension,Chronic,Severe,222,Virechana,Worsened,Sedentary,Takradhara
+58,Male,Joint Pain,Arthritis,Chronic,Mild,224,Virechana,Worsened,Active,Nasya
+37,Male,Knee Pain,Osteoarthritis,Chronic,Mild,102,Janu Basti,Worsened,Active,Virechana
+73,Male,Knee Pain,Osteoarthritis,Chronic,Moderate,125,Shirodhara,Improved,Stressful,Janu Basti
+54,Male,Breathing Issue,Asthma,Chronic,Mild,91,Nasya,Improved,Stressful,Nasya
+64,Male,Fatigue,Chronic Fatigue,Chronic,Mild,114,Virechana,Improved,Sedentary,Abhyanga
+57,Male,Acidity,Gastritis,Chronic,Severe,364,Takradhara,Improved,Stressful,Virechana
+65,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,361,Shirodhara,Improved,Sedentary,Vamana
+25,Male,Breathing Issue,Asthma,Acute,Mild,60,Shirodhara,Improved,Stressful,Nasya
+67,Female,Stress,Anxiety,Acute,Mild,103,Nasya,No Change,Stressful,Kati Basti
+41,Female,Knee Pain,Osteoarthritis,Acute,Severe,285,Takradhara,No Change,Active,Takradhara
+68,Male,Stress,Anxiety,Acute,Severe,9,Shirodhara,Improved,Stressful,Shirodhara
+33,Male,Back Pain,Spondylitis,Chronic,Mild,113,Abhyanga,Worsened,Stressful,Nasya
+74,Male,Skin Problems,Psoriasis,Chronic,Severe,295,Shirodhara,Worsened,Sedentary,Virechana
+34,Male,High BP,Hypertension,Chronic,Severe,89,Virechana,Worsened,Sedentary,Takradhara
+18,Male,Weight Gain,Obesity,Chronic,Moderate,91,Vamana,Worsened,Sedentary,Basti
+36,Male,Knee Pain,Osteoarthritis,Chronic,Moderate,339,Virechana,No Change,Active,Nasya
+31,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,358,Takradhara,Worsened,Active,Udvartana
+52,Female,Weight Gain,Obesity,Acute,Severe,357,Basti,Worsened,Stressful,Shirodhara
+61,Female,Stress,Anxiety,Chronic,Mild,187,Abhyanga,No Change,Stressful,Virechana
+60,Male,Skin Problems,Psoriasis,Acute,Moderate,339,Janu Basti,Worsened,Active,Virechana
+70,Male,Headache,Migraine Disorder,Acute,Moderate,144,Abhyanga,No Change,Sedentary,Virechana
+64,Female,Skin Problems,Psoriasis,Acute,Mild,334,Basti,No Change,Stressful,Nasya
+61,Female,Skin Problems,Psoriasis,Chronic,Mild,363,Vamana,Worsened,Sedentary,Kati Basti
+37,Male,Low BP,Hypotension,Chronic,Moderate,248,Abhyanga,No Change,Active,Shirodhara
+49,Male,Knee Pain,Osteoarthritis,Chronic,Severe,196,Virechana,Improved,Stressful,Janu Basti
+52,Female,Back Pain,Spondylitis,Chronic,Mild,165,Basti,Improved,Active,Kati Basti
+48,Female,High Sugar,Diabetes Mellitus,Acute,Severe,79,Abhyanga,Worsened,Stressful,Shirodhara
+75,Male,Headache,Migraine Disorder,Chronic,Moderate,257,Virechana,Worsened,Stressful,Shirodhara
+73,Female,High BP,Hypertension,Acute,Moderate,267,Kati Basti,Improved,Sedentary,Takradhara
+52,Female,Breathing Issue,Asthma,Chronic,Mild,73,Virechana,Improved,Stressful,Nasya
+48,Male,Low BP,Hypotension,Acute,Mild,18,Nasya,Improved,Active,Abhyanga
+73,Male,Weight Gain,Obesity,Acute,Mild,195,Basti,Worsened,Active,Virechana
+75,Male,Knee Pain,Osteoarthritis,Chronic,Severe,269,Takradhara,Worsened,Stressful,Janu Basti
+63,Male,Low BP,Hypotension,Chronic,Mild,10,Nasya,Worsened,Stressful,Kati Basti
+31,Female,High BP,Hypertension,Acute,Mild,268,Abhyanga,Improved,Stressful,Takradhara
+25,Female,Back Pain,Spondylitis,Acute,Mild,7,Abhyanga,No Change,Stressful,Abhyanga
+67,Female,Back Pain,Spondylitis,Chronic,Moderate,346,Abhyanga,No Change,Active,Shirodhara
+29,Female,High BP,Hypertension,Chronic,Mild,289,Virechana,No Change,Active,Udvartana
+69,Female,High Sugar,Diabetes Mellitus,Acute,Severe,56,Kati Basti,Worsened,Stressful,Kati Basti
+43,Male,Low BP,Hypotension,Acute,Moderate,143,Abhyanga,No Change,Stressful,Shirodhara
+30,Male,High BP,Hypertension,Chronic,Severe,125,Vamana,Worsened,Stressful,Takradhara
+69,Male,Acidity,Gastritis,Chronic,Severe,223,Udvartana,Worsened,Stressful,Virechana
+64,Female,High BP,Hypertension,Acute,Moderate,210,Virechana,No Change,Sedentary,Vamana
+27,Female,Low Mood,Depression,Acute,Severe,119,Basti,Worsened,Sedentary,Kati Basti
+43,Female,Weight Gain,Obesity,Chronic,Mild,51,Basti,No Change,Stressful,Kati Basti
+42,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,61,Nasya,Worsened,Active,Vamana
+56,Female,Stress,Anxiety,Chronic,Severe,279,Abhyanga,Worsened,Stressful,Shirodhara
+57,Male,Back Pain,Spondylitis,Acute,Mild,193,Kati Basti,Worsened,Sedentary,Janu Basti
+31,Male,Stress,Anxiety,Chronic,Mild,347,Udvartana,Worsened,Stressful,Nasya
+59,Female,Low Mood,Depression,Acute,Severe,282,Shirodhara,Worsened,Active,Basti
+64,Female,Fatigue,Chronic Fatigue,Chronic,Mild,259,Abhyanga,No Change,Sedentary,Nasya
+66,Female,Breathing Issue,Asthma,Chronic,Severe,263,Virechana,Improved,Active,Nasya
+18,Female,High BP,Hypertension,Acute,Moderate,155,Takradhara,Worsened,Active,Takradhara
+74,Female,Low Mood,Depression,Acute,Mild,20,Abhyanga,No Change,Active,Udvartana
+42,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,271,Udvartana,Improved,Active,Vamana
+35,Female,High BP,Hypertension,Acute,Severe,246,Abhyanga,Improved,Sedentary,Takradhara
+51,Male,Weight Gain,Obesity,Chronic,Moderate,245,Virechana,No Change,Sedentary,Basti
+40,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,333,Janu Basti,Worsened,Stressful,Basti
+34,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,339,Basti,Worsened,Active,Nasya
+49,Female,Low Mood,Depression,Acute,Severe,349,Nasya,Improved,Sedentary,Shirodhara
+24,Male,High BP,Hypertension,Acute,Severe,5,Shirodhara,Worsened,Active,Shirodhara
+71,Female,Acidity,Gastritis,Acute,Moderate,186,Takradhara,Improved,Stressful,Virechana
+42,Male,Skin Problems,Psoriasis,Acute,Moderate,264,Nasya,Worsened,Stressful,Janu Basti
+24,Female,Breathing Issue,Asthma,Acute,Moderate,24,Virechana,Improved,Sedentary,Nasya
+44,Female,Back Pain,Spondylitis,Chronic,Severe,284,Shirodhara,No Change,Sedentary,Kati Basti
+19,Female,Breathing Issue,Asthma,Acute,Mild,229,Nasya,No Change,Active,Basti
+53,Female,Low Mood,Depression,Acute,Moderate,243,Shirodhara,No Change,Stressful,Kati Basti
+43,Female,Low Mood,Depression,Chronic,Severe,151,Nasya,Worsened,Sedentary,Shirodhara
+48,Female,High BP,Hypertension,Acute,Severe,128,Vamana,No Change,Stressful,Takradhara
+50,Female,Weight Gain,Obesity,Chronic,Mild,167,Vamana,No Change,Stressful,Kati Basti
+43,Female,High BP,Hypertension,Acute,Severe,109,Virechana,Worsened,Active,Udvartana
+20,Female,Joint Pain,Arthritis,Chronic,Severe,307,Janu Basti,No Change,Sedentary,Basti
+66,Male,Fatigue,Chronic Fatigue,Acute,Severe,118,Shirodhara,No Change,Active,Abhyanga
+70,Female,Joint Pain,Arthritis,Chronic,Mild,130,Nasya,Worsened,Active,Janu Basti
+50,Male,High BP,Hypertension,Acute,Severe,209,Takradhara,Improved,Active,Takradhara
+27,Male,Weight Gain,Obesity,Chronic,Severe,45,Kati Basti,Improved,Stressful,Udvartana
+42,Female,Weight Gain,Obesity,Acute,Mild,113,Virechana,Worsened,Active,Virechana
+66,Female,Headache,Migraine Disorder,Acute,Mild,286,Udvartana,No Change,Sedentary,Vamana
+23,Male,Joint Pain,Arthritis,Chronic,Moderate,11,Shirodhara,Worsened,Stressful,Abhyanga
+20,Male,Knee Pain,Osteoarthritis,Chronic,Moderate,210,Udvartana,No Change,Sedentary,Nasya
+46,Male,Stress,Anxiety,Acute,Moderate,357,Janu Basti,Worsened,Sedentary,Janu Basti
+74,Male,Low BP,Hypotension,Chronic,Mild,219,Virechana,Worsened,Stressful,Kati Basti
+18,Male,Acidity,Gastritis,Acute,Moderate,211,Virechana,No Change,Stressful,Janu Basti
+34,Female,Weight Gain,Obesity,Chronic,Severe,254,Vamana,No Change,Stressful,Udvartana
+70,Male,Joint Pain,Arthritis,Chronic,Mild,365,Virechana,Improved,Sedentary,Basti
+55,Male,Breathing Issue,Asthma,Acute,Mild,239,Takradhara,Improved,Stressful,Nasya
+53,Male,Low Mood,Depression,Acute,Mild,357,Virechana,Worsened,Stressful,Janu Basti
+35,Male,Back Pain,Spondylitis,Chronic,Moderate,316,Abhyanga,Improved,Active,Kati Basti
+34,Male,High BP,Hypertension,Chronic,Mild,206,Abhyanga,Improved,Sedentary,Takradhara
+55,Female,Low Mood,Depression,Acute,Mild,339,Abhyanga,Improved,Stressful,Shirodhara
+57,Male,Joint Pain,Arthritis,Chronic,Moderate,119,Virechana,Worsened,Active,Nasya
+74,Male,Fatigue,Chronic Fatigue,Acute,Severe,102,Shirodhara,Improved,Active,Abhyanga
+66,Male,Stress,Anxiety,Acute,Mild,284,Udvartana,No Change,Stressful,Vamana
+53,Female,Knee Pain,Osteoarthritis,Chronic,Severe,234,Virechana,Improved,Active,Janu Basti
+66,Female,Acidity,Gastritis,Acute,Mild,56,Abhyanga,No Change,Active,Janu Basti
+54,Male,High BP,Hypertension,Acute,Mild,155,Shirodhara,Improved,Active,Takradhara
+47,Female,Low Mood,Depression,Acute,Severe,266,Virechana,Improved,Active,Shirodhara
+72,Male,Fatigue,Chronic Fatigue,Acute,Severe,242,Abhyanga,Worsened,Active,Abhyanga
+41,Female,High BP,Hypertension,Chronic,Mild,72,Abhyanga,No Change,Active,Kati Basti
+60,Male,Low BP,Hypotension,Chronic,Mild,127,Takradhara,No Change,Stressful,Virechana
+26,Female,Low BP,Hypotension,Chronic,Severe,80,Abhyanga,No Change,Stressful,Abhyanga
+49,Female,Breathing Issue,Asthma,Chronic,Severe,321,Udvartana,Improved,Active,Nasya
+30,Female,Weight Gain,Obesity,Acute,Moderate,263,Takradhara,Worsened,Sedentary,Nasya
+73,Female,Skin Problems,Psoriasis,Chronic,Mild,37,Abhyanga,Worsened,Stressful,Shirodhara
+35,Male,Low BP,Hypotension,Chronic,Severe,150,Nasya,Improved,Active,Abhyanga
+43,Male,Low BP,Hypotension,Chronic,Mild,101,Vamana,No Change,Stressful,Takradhara
+35,Female,Back Pain,Spondylitis,Acute,Moderate,217,Abhyanga,No Change,Active,Udvartana
+46,Male,Skin Problems,Psoriasis,Chronic,Mild,259,Virechana,Worsened,Active,Shirodhara
+71,Male,Fatigue,Chronic Fatigue,Chronic,Mild,77,Udvartana,No Change,Sedentary,Basti
+69,Female,High Sugar,Diabetes Mellitus,Acute,Mild,129,Takradhara,Improved,Sedentary,Vamana
+27,Male,Skin Problems,Psoriasis,Acute,Severe,247,Nasya,No Change,Sedentary,Takradhara
+42,Male,Stress,Anxiety,Chronic,Severe,124,Kati Basti,Improved,Sedentary,Shirodhara
+27,Male,Acidity,Gastritis,Chronic,Moderate,20,Basti,Improved,Sedentary,Virechana
+41,Male,Weight Gain,Obesity,Chronic,Moderate,256,Takradhara,Worsened,Active,Udvartana
+70,Female,Skin Problems,Psoriasis,Acute,Severe,344,Basti,No Change,Sedentary,Basti
+45,Male,Stress,Anxiety,Chronic,Moderate,237,Shirodhara,No Change,Active,Basti
+19,Female,Stress,Anxiety,Chronic,Mild,160,Kati Basti,Improved,Sedentary,Shirodhara
+23,Male,Stress,Anxiety,Acute,Mild,356,Janu Basti,Improved,Active,Shirodhara
+37,Male,Fatigue,Chronic Fatigue,Acute,Mild,254,Udvartana,Worsened,Active,Shirodhara
+18,Female,Stress,Anxiety,Chronic,Moderate,215,Shirodhara,Improved,Sedentary,Shirodhara
+47,Female,Weight Gain,Obesity,Acute,Severe,25,Takradhara,No Change,Stressful,Nasya
+37,Male,Breathing Issue,Asthma,Acute,Moderate,285,Shirodhara,Improved,Stressful,Nasya
+38,Male,Knee Pain,Osteoarthritis,Acute,Mild,130,Abhyanga,Improved,Sedentary,Janu Basti
+57,Male,Skin Problems,Psoriasis,Acute,Moderate,35,Nasya,Improved,Stressful,Virechana
+39,Male,Knee Pain,Osteoarthritis,Chronic,Moderate,281,Virechana,Worsened,Stressful,Takradhara
+36,Male,Skin Problems,Psoriasis,Acute,Severe,202,Takradhara,Worsened,Active,Virechana
+51,Male,Stress,Anxiety,Chronic,Moderate,20,Virechana,Improved,Sedentary,Shirodhara
+52,Female,Acidity,Gastritis,Chronic,Severe,282,Basti,Improved,Sedentary,Virechana
+68,Female,High Sugar,Diabetes Mellitus,Chronic,Severe,81,Virechana,Improved,Stressful,Vamana
+56,Male,Breathing Issue,Asthma,Chronic,Severe,107,Takradhara,No Change,Active,Nasya
+73,Male,Knee Pain,Osteoarthritis,Chronic,Mild,75,Abhyanga,No Change,Active,Virechana
+58,Male,Skin Problems,Psoriasis,Acute,Severe,320,Virechana,Worsened,Sedentary,Virechana
+64,Female,Headache,Migraine Disorder,Chronic,Moderate,219,Kati Basti,Worsened,Active,Shirodhara
+59,Female,Weight Gain,Obesity,Chronic,Moderate,56,Shirodhara,Worsened,Active,Abhyanga
+40,Female,Breathing Issue,Asthma,Acute,Mild,294,Abhyanga,No Change,Active,Nasya
+67,Female,Stress,Anxiety,Acute,Moderate,273,Takradhara,Improved,Sedentary,Shirodhara
+33,Male,Weight Gain,Obesity,Acute,Mild,149,Virechana,Worsened,Active,Shirodhara
+24,Male,Back Pain,Spondylitis,Chronic,Mild,296,Vamana,No Change,Active,Janu Basti
+45,Female,Low Mood,Depression,Chronic,Severe,58,Shirodhara,Improved,Sedentary,Shirodhara
+50,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,157,Takradhara,Worsened,Active,Udvartana
+71,Male,Acidity,Gastritis,Acute,Severe,72,Vamana,Worsened,Sedentary,Virechana
+41,Male,Breathing Issue,Asthma,Chronic,Moderate,188,Udvartana,Improved,Active,Nasya
+57,Female,Fatigue,Chronic Fatigue,Chronic,Mild,231,Vamana,Improved,Active,Abhyanga
+23,Female,Low BP,Hypotension,Chronic,Severe,74,Vamana,No Change,Sedentary,Abhyanga
+43,Male,Knee Pain,Osteoarthritis,Chronic,Mild,156,Nasya,Worsened,Stressful,Shirodhara
+28,Female,Low Mood,Depression,Chronic,Mild,330,Janu Basti,Improved,Active,Shirodhara
+48,Female,Stress,Anxiety,Acute,Mild,139,Takradhara,Worsened,Active,Nasya
+70,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,293,Shirodhara,Worsened,Stressful,Vamana
+72,Female,Fatigue,Chronic Fatigue,Acute,Moderate,6,Shirodhara,Worsened,Stressful,Shirodhara
+31,Male,Low BP,Hypotension,Acute,Mild,178,Virechana,Improved,Sedentary,Abhyanga
+72,Male,Weight Gain,Obesity,Acute,Mild,252,Abhyanga,Improved,Sedentary,Udvartana
+67,Male,Stress,Anxiety,Chronic,Severe,42,Shirodhara,Worsened,Sedentary,Shirodhara
+21,Female,Weight Gain,Obesity,Acute,Moderate,21,Janu Basti,Improved,Active,Udvartana
+51,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,140,Nasya,Improved,Active,Vamana
+32,Male,Weight Gain,Obesity,Acute,Mild,53,Kati Basti,Improved,Stressful,Udvartana
+52,Female,Knee Pain,Osteoarthritis,Acute,Severe,228,Vamana,Worsened,Active,Nasya
+45,Female,Joint Pain,Arthritis,Acute,Severe,252,Shirodhara,Improved,Sedentary,Basti
+38,Female,Knee Pain,Osteoarthritis,Acute,Mild,240,Abhyanga,Worsened,Sedentary,Janu Basti
+49,Female,High BP,Hypertension,Chronic,Mild,217,Udvartana,Improved,Sedentary,Takradhara
+32,Male,Breathing Issue,Asthma,Acute,Mild,174,Udvartana,Improved,Stressful,Nasya
+37,Female,Acidity,Gastritis,Chronic,Moderate,152,Basti,Worsened,Active,Janu Basti
+55,Female,Back Pain,Spondylitis,Chronic,Moderate,116,Nasya,Worsened,Active,Nasya
+64,Male,Weight Gain,Obesity,Acute,Mild,125,Basti,Worsened,Stressful,Basti
+57,Female,Joint Pain,Arthritis,Chronic,Severe,363,Vamana,No Change,Active,Basti
+75,Male,Breathing Issue,Asthma,Chronic,Moderate,33,Vamana,No Change,Stressful,Shirodhara
+19,Male,Low BP,Hypotension,Acute,Moderate,13,Nasya,No Change,Sedentary,Shirodhara
+18,Male,Acidity,Gastritis,Acute,Mild,267,Basti,Worsened,Stressful,Basti
+39,Male,Stress,Anxiety,Chronic,Mild,224,Janu Basti,Worsened,Active,Vamana
+26,Female,Stress,Anxiety,Acute,Mild,329,Vamana,Worsened,Sedentary,Nasya
+39,Female,Breathing Issue,Asthma,Acute,Mild,259,Nasya,Improved,Stressful,Nasya
+23,Male,Acidity,Gastritis,Acute,Moderate,132,Shirodhara,No Change,Active,Abhyanga
+40,Male,Acidity,Gastritis,Chronic,Severe,109,Kati Basti,No Change,Stressful,Virechana
+65,Female,Low Mood,Depression,Chronic,Mild,92,Vamana,Worsened,Stressful,Abhyanga
+60,Male,Low BP,Hypotension,Acute,Mild,293,Abhyanga,Improved,Active,Abhyanga
+27,Male,Low BP,Hypotension,Chronic,Mild,257,Janu Basti,Worsened,Sedentary,Nasya
+60,Female,Breathing Issue,Asthma,Chronic,Severe,321,Shirodhara,Improved,Sedentary,Nasya
+63,Male,Headache,Migraine Disorder,Chronic,Mild,215,Virechana,Improved,Active,Nasya
+54,Female,Breathing Issue,Asthma,Chronic,Severe,230,Shirodhara,Improved,Stressful,Nasya
+58,Female,Skin Problems,Psoriasis,Chronic,Severe,26,Abhyanga,Worsened,Active,Virechana
+28,Male,Headache,Migraine Disorder,Chronic,Moderate,359,Kati Basti,Worsened,Active,Shirodhara
+38,Female,High BP,Hypertension,Acute,Mild,274,Udvartana,No Change,Active,Takradhara
+46,Female,Low Mood,Depression,Acute,Severe,62,Abhyanga,Worsened,Stressful,Shirodhara
+30,Male,Low BP,Hypotension,Acute,Moderate,156,Janu Basti,Improved,Sedentary,Abhyanga
+46,Male,Stress,Anxiety,Chronic,Severe,356,Shirodhara,Improved,Sedentary,Shirodhara
+55,Female,Weight Gain,Obesity,Chronic,Moderate,81,Vamana,Improved,Active,Udvartana
+67,Female,High BP,Hypertension,Chronic,Moderate,232,Abhyanga,Improved,Stressful,Takradhara
+21,Female,Weight Gain,Obesity,Acute,Moderate,291,Shirodhara,No Change,Active,Vamana
+52,Male,Fatigue,Chronic Fatigue,Acute,Moderate,286,Udvartana,Worsened,Sedentary,Udvartana
+49,Female,Breathing Issue,Asthma,Chronic,Severe,187,Abhyanga,No Change,Stressful,Nasya
+20,Male,Low BP,Hypotension,Acute,Severe,9,Nasya,No Change,Stressful,Abhyanga
+32,Female,Back Pain,Spondylitis,Chronic,Moderate,72,Nasya,No Change,Sedentary,Takradhara
+56,Female,Fatigue,Chronic Fatigue,Acute,Moderate,55,Abhyanga,Improved,Sedentary,Abhyanga
+31,Female,High Sugar,Diabetes Mellitus,Acute,Severe,139,Vamana,No Change,Sedentary,Janu Basti
+30,Male,Acidity,Gastritis,Acute,Moderate,191,Abhyanga,No Change,Sedentary,Takradhara
+68,Male,Fatigue,Chronic Fatigue,Acute,Moderate,318,Nasya,Improved,Stressful,Abhyanga
+51,Male,Stress,Anxiety,Chronic,Severe,208,Vamana,No Change,Stressful,Shirodhara
+54,Female,Fatigue,Chronic Fatigue,Chronic,Mild,364,Nasya,Improved,Stressful,Abhyanga
+23,Female,Weight Gain,Obesity,Chronic,Mild,69,Shirodhara,Improved,Sedentary,Udvartana
+30,Female,Skin Problems,Psoriasis,Acute,Severe,182,Shirodhara,Worsened,Stressful,Janu Basti
+71,Male,Skin Problems,Psoriasis,Chronic,Mild,116,Basti,Worsened,Stressful,Udvartana
+46,Female,Weight Gain,Obesity,Acute,Moderate,241,Virechana,Improved,Sedentary,Udvartana
+29,Female,Back Pain,Spondylitis,Chronic,Moderate,296,Nasya,Improved,Sedentary,Kati Basti
+63,Male,Breathing Issue,Asthma,Chronic,Mild,178,Kati Basti,No Change,Sedentary,Virechana
+45,Male,Fatigue,Chronic Fatigue,Acute,Severe,319,Shirodhara,No Change,Stressful,Takradhara
+19,Female,Stress,Anxiety,Acute,Mild,67,Virechana,Worsened,Stressful,Kati Basti
+28,Female,High BP,Hypertension,Acute,Severe,29,Shirodhara,Improved,Sedentary,Takradhara
+63,Male,Low BP,Hypotension,Chronic,Severe,52,Janu Basti,Worsened,Stressful,Abhyanga
+34,Male,Knee Pain,Osteoarthritis,Chronic,Moderate,304,Takradhara,Worsened,Stressful,Janu Basti
+61,Male,Acidity,Gastritis,Acute,Moderate,299,Abhyanga,Improved,Active,Virechana
+43,Female,Joint Pain,Arthritis,Acute,Mild,288,Nasya,Improved,Stressful,Basti
+31,Male,Back Pain,Spondylitis,Acute,Mild,283,Nasya,No Change,Stressful,Virechana
+69,Female,Joint Pain,Arthritis,Acute,Moderate,216,Virechana,No Change,Stressful,Vamana
+23,Male,Breathing Issue,Asthma,Acute,Moderate,127,Virechana,Worsened,Sedentary,Shirodhara
+42,Female,Skin Problems,Psoriasis,Acute,Mild,101,Basti,Improved,Sedentary,Virechana
+74,Male,Stress,Anxiety,Acute,Mild,316,Udvartana,Worsened,Stressful,Virechana
+61,Female,Fatigue,Chronic Fatigue,Chronic,Mild,278,Basti,Worsened,Sedentary,Janu Basti
+33,Male,Skin Problems,Psoriasis,Chronic,Mild,185,Nasya,Worsened,Stressful,Basti
+38,Female,High Sugar,Diabetes Mellitus,Chronic,Moderate,155,Abhyanga,Worsened,Sedentary,Virechana
+42,Male,Breathing Issue,Asthma,Chronic,Mild,8,Basti,No Change,Stressful,Virechana
+54,Male,Low Mood,Depression,Acute,Moderate,279,Kati Basti,Worsened,Sedentary,Udvartana
+24,Female,Fatigue,Chronic Fatigue,Chronic,Mild,130,Shirodhara,Worsened,Stressful,Udvartana
+28,Male,High Sugar,Diabetes Mellitus,Acute,Mild,14,Shirodhara,Improved,Stressful,Vamana
+22,Male,High BP,Hypertension,Acute,Mild,23,Udvartana,No Change,Sedentary,Virechana
+33,Male,Joint Pain,Arthritis,Acute,Mild,155,Virechana,Improved,Active,Basti
+75,Female,Stress,Anxiety,Chronic,Moderate,284,Abhyanga,Improved,Sedentary,Shirodhara
+52,Male,Low BP,Hypotension,Chronic,Moderate,217,Udvartana,Worsened,Active,Janu Basti
+60,Male,Acidity,Gastritis,Chronic,Mild,264,Virechana,No Change,Active,Janu Basti
+49,Female,Acidity,Gastritis,Acute,Moderate,178,Janu Basti,Improved,Active,Virechana
+74,Female,High BP,Hypertension,Chronic,Moderate,297,Nasya,Worsened,Active,Abhyanga
+25,Male,High BP,Hypertension,Chronic,Severe,324,Kati Basti,No Change,Active,Takradhara
+63,Male,Stress,Anxiety,Acute,Moderate,174,Shirodhara,No Change,Stressful,Basti
+51,Male,Stress,Anxiety,Chronic,Severe,118,Basti,Improved,Sedentary,Shirodhara
+65,Female,Stress,Anxiety,Acute,Mild,99,Abhyanga,Improved,Sedentary,Shirodhara
+31,Male,Back Pain,Spondylitis,Acute,Mild,356,Abhyanga,Improved,Active,Kati Basti
+24,Female,Low Mood,Depression,Acute,Severe,217,Vamana,Improved,Sedentary,Shirodhara
+39,Female,High BP,Hypertension,Chronic,Moderate,340,Vamana,Worsened,Sedentary,Abhyanga
+24,Female,Stress,Anxiety,Acute,Mild,170,Basti,Worsened,Sedentary,Janu Basti
+73,Female,Fatigue,Chronic Fatigue,Acute,Mild,89,Nasya,Improved,Stressful,Abhyanga
+39,Female,Breathing Issue,Asthma,Acute,Moderate,307,Virechana,Worsened,Active,Shirodhara
+73,Male,Joint Pain,Arthritis,Acute,Moderate,189,Janu Basti,Improved,Active,Basti
+51,Female,Acidity,Gastritis,Acute,Mild,210,Janu Basti,Improved,Sedentary,Virechana
+53,Female,Headache,Migraine Disorder,Chronic,Moderate,196,Abhyanga,Improved,Stressful,Nasya
+54,Female,Knee Pain,Osteoarthritis,Chronic,Mild,290,Udvartana,Worsened,Sedentary,Udvartana
+37,Female,High Sugar,Diabetes Mellitus,Chronic,Moderate,23,Takradhara,Improved,Sedentary,Vamana
+21,Male,Joint Pain,Arthritis,Acute,Severe,76,Janu Basti,No Change,Sedentary,Janu Basti
+55,Female,High BP,Hypertension,Acute,Severe,247,Nasya,No Change,Stressful,Basti
+34,Female,Joint Pain,Arthritis,Chronic,Severe,186,Virechana,No Change,Sedentary,Basti
+74,Male,Joint Pain,Arthritis,Chronic,Mild,180,Abhyanga,Improved,Stressful,Basti
+70,Female,Low Mood,Depression,Acute,Severe,293,Kati Basti,No Change,Stressful,Virechana
+44,Male,Skin Problems,Psoriasis,Chronic,Severe,241,Abhyanga,Improved,Sedentary,Virechana
+30,Male,Weight Gain,Obesity,Chronic,Moderate,294,Takradhara,No Change,Active,Nasya
+26,Male,Low Mood,Depression,Chronic,Mild,177,Virechana,No Change,Stressful,Virechana
+42,Female,Headache,Migraine Disorder,Chronic,Mild,335,Nasya,Improved,Stressful,Nasya
+66,Male,Breathing Issue,Asthma,Chronic,Moderate,93,Vamana,Worsened,Sedentary,Abhyanga
+33,Female,Fatigue,Chronic Fatigue,Acute,Mild,209,Shirodhara,Worsened,Sedentary,Shirodhara
+67,Female,Stress,Anxiety,Chronic,Moderate,75,Shirodhara,Worsened,Active,Janu Basti
+41,Female,Low BP,Hypotension,Acute,Mild,296,Abhyanga,No Change,Sedentary,Janu Basti
+18,Male,Breathing Issue,Asthma,Acute,Mild,166,Virechana,Worsened,Active,Virechana
+26,Female,Knee Pain,Osteoarthritis,Chronic,Mild,114,Abhyanga,Improved,Sedentary,Janu Basti
+58,Male,Breathing Issue,Asthma,Acute,Mild,3,Virechana,No Change,Stressful,Udvartana
+45,Female,Stress,Anxiety,Chronic,Moderate,171,Janu Basti,Worsened,Sedentary,Janu Basti
+74,Male,High BP,Hypertension,Chronic,Severe,237,Janu Basti,Improved,Stressful,Takradhara
+44,Male,Fatigue,Chronic Fatigue,Acute,Severe,297,Nasya,No Change,Active,Nasya
+43,Male,Low BP,Hypotension,Chronic,Mild,91,Vamana,Improved,Sedentary,Abhyanga
+64,Male,Skin Problems,Psoriasis,Chronic,Mild,198,Kati Basti,Improved,Active,Virechana
+40,Male,High Sugar,Diabetes Mellitus,Acute,Mild,350,Takradhara,Worsened,Active,Shirodhara
+48,Male,Breathing Issue,Asthma,Acute,Severe,132,Abhyanga,Worsened,Active,Vamana
+36,Male,Joint Pain,Arthritis,Acute,Mild,332,Vamana,Improved,Sedentary,Basti
+75,Female,Low BP,Hypotension,Chronic,Moderate,91,Shirodhara,Improved,Sedentary,Abhyanga
+73,Male,Low Mood,Depression,Acute,Mild,170,Janu Basti,Worsened,Stressful,Udvartana
+25,Female,Low BP,Hypotension,Chronic,Severe,156,Shirodhara,Improved,Active,Abhyanga
+45,Male,Acidity,Gastritis,Acute,Severe,242,Basti,No Change,Active,Kati Basti
+39,Female,Joint Pain,Arthritis,Chronic,Mild,111,Udvartana,Improved,Stressful,Basti
+55,Female,Breathing Issue,Asthma,Chronic,Moderate,288,Nasya,Worsened,Stressful,Janu Basti
+67,Male,Weight Gain,Obesity,Acute,Moderate,133,Nasya,No Change,Stressful,Vamana
+74,Female,Back Pain,Spondylitis,Chronic,Moderate,197,Virechana,No Change,Active,Shirodhara
+57,Male,Low BP,Hypotension,Chronic,Severe,350,Janu Basti,Improved,Sedentary,Abhyanga
+74,Female,Fatigue,Chronic Fatigue,Chronic,Moderate,243,Abhyanga,Worsened,Stressful,Takradhara
+69,Female,Breathing Issue,Asthma,Chronic,Moderate,328,Abhyanga,Worsened,Sedentary,Takradhara
+62,Female,Breathing Issue,Asthma,Chronic,Moderate,20,Virechana,Improved,Active,Nasya
+61,Male,Back Pain,Spondylitis,Acute,Severe,8,Nasya,Worsened,Sedentary,Abhyanga
+32,Female,Low Mood,Depression,Chronic,Moderate,227,Udvartana,No Change,Sedentary,Shirodhara
+46,Female,Weight Gain,Obesity,Acute,Mild,343,Abhyanga,Improved,Sedentary,Udvartana
+55,Male,Headache,Migraine Disorder,Chronic,Moderate,5,Abhyanga,Improved,Stressful,Nasya
+59,Male,Low BP,Hypotension,Acute,Severe,315,Nasya,No Change,Sedentary,Abhyanga
+72,Female,Acidity,Gastritis,Acute,Mild,282,Shirodhara,Improved,Sedentary,Virechana
+42,Female,Fatigue,Chronic Fatigue,Chronic,Severe,251,Janu Basti,No Change,Sedentary,Abhyanga
+30,Female,Headache,Migraine Disorder,Acute,Severe,16,Udvartana,Worsened,Sedentary,Abhyanga
+20,Male,Fatigue,Chronic Fatigue,Chronic,Moderate,133,Udvartana,Improved,Active,Abhyanga
+46,Male,High BP,Hypertension,Chronic,Moderate,67,Shirodhara,Worsened,Stressful,Nasya
+28,Female,Weight Gain,Obesity,Acute,Moderate,330,Abhyanga,Improved,Active,Udvartana
+50,Male,Headache,Migraine Disorder,Acute,Severe,30,Kati Basti,Improved,Stressful,Nasya
+53,Male,Knee Pain,Osteoarthritis,Acute,Severe,94,Virechana,No Change,Active,Virechana
+73,Female,Breathing Issue,Asthma,Chronic,Mild,157,Janu Basti,Worsened,Active,Nasya
+56,Male,High BP,Hypertension,Chronic,Moderate,248,Nasya,Worsened,Sedentary,Basti
+29,Male,Joint Pain,Arthritis,Chronic,Mild,5,Kati Basti,Worsened,Stressful,Virechana
+45,Female,Knee Pain,Osteoarthritis,Chronic,Severe,233,Abhyanga,Improved,Stressful,Janu Basti
+24,Male,Weight Gain,Obesity,Acute,Moderate,142,Virechana,Worsened,Stressful,Shirodhara
+68,Male,Skin Problems,Psoriasis,Acute,Mild,211,Abhyanga,Worsened,Sedentary,Shirodhara
+39,Male,Acidity,Gastritis,Acute,Moderate,295,Shirodhara,Worsened,Sedentary,Abhyanga
+24,Male,Knee Pain,Osteoarthritis,Acute,Mild,129,Basti,Improved,Active,Janu Basti
+71,Male,Fatigue,Chronic Fatigue,Chronic,Severe,112,Kati Basti,No Change,Sedentary,Abhyanga
+40,Male,Knee Pain,Osteoarthritis,Chronic,Severe,218,Nasya,No Change,Sedentary,Janu Basti
+18,Male,High Sugar,Diabetes Mellitus,Chronic,Moderate,29,Shirodhara,Worsened,Sedentary,Abhyanga
+57,Male,Headache,Migraine Disorder,Acute,Mild,111,Virechana,Worsened,Sedentary,Vamana
+75,Male,Acidity,Gastritis,Chronic,Severe,170,Janu Basti,Improved,Sedentary,Virechana
+62,Male,High BP,Hypertension,Acute,Severe,195,Vamana,Worsened,Sedentary,Virechana
+57,Male,Fatigue,Chronic Fatigue,Chronic,Mild,316,Janu Basti,Worsened,Active,Udvartana
+47,Female,Skin Problems,Psoriasis,Chronic,Severe,90,Nasya,No Change,Stressful,Virechana
+22,Female,Joint Pain,Arthritis,Acute,Mild,196,Basti,No Change,Active,Shirodhara
+27,Female,High Sugar,Diabetes Mellitus,Acute,Severe,168,Vamana,Worsened,Stressful,Takradhara
+48,Male,Acidity,Gastritis,Acute,Moderate,94,Virechana,No Change,Stressful,Kati Basti
+70,Male,Knee Pain,Osteoarthritis,Chronic,Severe,192,Nasya,Improved,Active,Janu Basti
+30,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,162,Udvartana,No Change,Active,Basti
+47,Male,Headache,Migraine Disorder,Chronic,Moderate,133,Nasya,Worsened,Active,Janu Basti
+67,Male,Stress,Anxiety,Chronic,Moderate,3,Kati Basti,Worsened,Sedentary,Abhyanga
+25,Female,Joint Pain,Arthritis,Chronic,Severe,312,Abhyanga,No Change,Active,Basti
+53,Male,Stress,Anxiety,Acute,Moderate,60,Abhyanga,Improved,Sedentary,Shirodhara
+42,Male,Weight Gain,Obesity,Chronic,Severe,59,Abhyanga,No Change,Stressful,Udvartana
+44,Female,Stress,Anxiety,Acute,Severe,267,Nasya,Improved,Sedentary,Shirodhara
+61,Male,Weight Gain,Obesity,Acute,Mild,354,Kati Basti,No Change,Stressful,Takradhara
+28,Female,Acidity,Gastritis,Chronic,Severe,63,Nasya,No Change,Active,Virechana
+60,Male,Headache,Migraine Disorder,Acute,Moderate,259,Kati Basti,Worsened,Sedentary,Virechana
+60,Female,Low Mood,Depression,Acute,Moderate,341,Abhyanga,No Change,Sedentary,Takradhara
+34,Male,Stress,Anxiety,Acute,Severe,180,Vamana,No Change,Sedentary,Nasya
+66,Male,Fatigue,Chronic Fatigue,Chronic,Mild,278,Shirodhara,Improved,Sedentary,Abhyanga
+64,Male,High BP,Hypertension,Chronic,Moderate,189,Abhyanga,No Change,Active,Udvartana
+39,Female,Acidity,Gastritis,Acute,Mild,342,Nasya,Improved,Active,Virechana
+25,Male,High Sugar,Diabetes Mellitus,Chronic,Moderate,225,Shirodhara,Worsened,Active,Virechana
+19,Female,Stress,Anxiety,Acute,Moderate,151,Virechana,No Change,Active,Virechana
+67,Female,High Sugar,Diabetes Mellitus,Acute,Severe,302,Vamana,Worsened,Active,Kati Basti
+41,Female,High BP,Hypertension,Chronic,Mild,247,Shirodhara,No Change,Active,Takradhara
+56,Male,Weight Gain,Obesity,Acute,Severe,292,Takradhara,Worsened,Active,Abhyanga
+24,Female,Weight Gain,Obesity,Acute,Moderate,281,Nasya,Improved,Sedentary,Udvartana
+75,Male,Weight Gain,Obesity,Chronic,Moderate,30,Kati Basti,Improved,Stressful,Udvartana
+39,Female,Low BP,Hypotension,Chronic,Mild,63,Virechana,Improved,Stressful,Abhyanga
+66,Male,Knee Pain,Osteoarthritis,Acute,Mild,36,Nasya,No Change,Active,Janu Basti
+67,Female,High BP,Hypertension,Chronic,Moderate,214,Vamana,No Change,Sedentary,Janu Basti
+61,Male,High BP,Hypertension,Chronic,Mild,238,Virechana,No Change,Active,Takradhara
+23,Female,Acidity,Gastritis,Chronic,Severe,249,Shirodhara,Improved,Stressful,Virechana
+29,Female,Low Mood,Depression,Chronic,Moderate,121,Virechana,No Change,Sedentary,Takradhara
+24,Female,Headache,Migraine Disorder,Chronic,Mild,133,Virechana,Improved,Stressful,Nasya
+31,Female,Skin Problems,Psoriasis,Acute,Severe,210,Janu Basti,Improved,Stressful,Virechana
+19,Female,Back Pain,Spondylitis,Acute,Severe,69,Abhyanga,Improved,Active,Kati Basti
+65,Male,Stress,Anxiety,Chronic,Severe,5,Takradhara,Improved,Active,Shirodhara
+20,Female,High BP,Hypertension,Chronic,Severe,320,Abhyanga,No Change,Stressful,Takradhara
+47,Female,Weight Gain,Obesity,Acute,Severe,281,Shirodhara,Worsened,Active,Basti
+40,Female,Headache,Migraine Disorder,Acute,Moderate,246,Udvartana,Improved,Stressful,Nasya
+22,Female,Weight Gain,Obesity,Acute,Moderate,164,Nasya,Improved,Active,Udvartana
+32,Male,Stress,Anxiety,Acute,Mild,151,Shirodhara,Improved,Stressful,Shirodhara
+36,Female,Stress,Anxiety,Chronic,Mild,246,Shirodhara,No Change,Sedentary,Shirodhara
+61,Male,High BP,Hypertension,Chronic,Severe,294,Kati Basti,Improved,Active,Takradhara
+60,Female,Headache,Migraine Disorder,Acute,Moderate,289,Virechana,Worsened,Stressful,Basti
+43,Male,Low Mood,Depression,Chronic,Mild,165,Basti,Improved,Stressful,Shirodhara
+32,Female,Back Pain,Spondylitis,Chronic,Severe,228,Nasya,No Change,Stressful,Kati Basti
+33,Female,Skin Problems,Psoriasis,Chronic,Mild,45,Nasya,Worsened,Active,Virechana
+22,Female,Breathing Issue,Asthma,Chronic,Severe,125,Kati Basti,Improved,Sedentary,Nasya
+42,Male,Breathing Issue,Asthma,Chronic,Moderate,174,Virechana,Improved,Sedentary,Nasya
+49,Female,Joint Pain,Arthritis,Acute,Moderate,63,Basti,Worsened,Stressful,Virechana
+28,Male,High BP,Hypertension,Acute,Moderate,199,Janu Basti,Worsened,Stressful,Vamana
+29,Male,Low BP,Hypotension,Acute,Moderate,46,Basti,Worsened,Sedentary,Virechana
+32,Female,High BP,Hypertension,Acute,Severe,346,Basti,Improved,Active,Takradhara
+64,Female,Fatigue,Chronic Fatigue,Acute,Moderate,299,Virechana,Improved,Active,Abhyanga
+57,Female,Low Mood,Depression,Chronic,Moderate,61,Takradhara,Worsened,Stressful,Virechana
+43,Female,High Sugar,Diabetes Mellitus,Acute,Mild,138,Abhyanga,Worsened,Sedentary,Virechana
+72,Male,High BP,Hypertension,Acute,Moderate,234,Takradhara,Improved,Active,Takradhara
+45,Male,Fatigue,Chronic Fatigue,Acute,Severe,189,Janu Basti,Worsened,Active,Vamana
+41,Male,Stress,Anxiety,Chronic,Moderate,90,Shirodhara,Worsened,Sedentary,Udvartana
+64,Male,Headache,Migraine Disorder,Chronic,Mild,360,Basti,Worsened,Stressful,Kati Basti
+33,Male,Breathing Issue,Asthma,Acute,Mild,160,Kati Basti,Improved,Sedentary,Nasya
+42,Male,Skin Problems,Psoriasis,Acute,Moderate,351,Janu Basti,Improved,Stressful,Virechana
+43,Male,Breathing Issue,Asthma,Chronic,Mild,181,Takradhara,Improved,Stressful,Nasya
+33,Female,Low BP,Hypotension,Chronic,Moderate,167,Abhyanga,No Change,Active,Kati Basti
+70,Female,Knee Pain,Osteoarthritis,Acute,Severe,185,Abhyanga,Improved,Active,Janu Basti
+35,Female,Back Pain,Spondylitis,Chronic,Moderate,83,Virechana,Worsened,Stressful,Nasya
+65,Male,Acidity,Gastritis,Chronic,Mild,91,Shirodhara,Worsened,Stressful,Takradhara
+60,Male,Knee Pain,Osteoarthritis,Chronic,Mild,42,Kati Basti,Improved,Sedentary,Janu Basti
+49,Male,Weight Gain,Obesity,Chronic,Moderate,157,Udvartana,Worsened,Stressful,Shirodhara
+27,Male,Acidity,Gastritis,Chronic,Moderate,131,Udvartana,Improved,Active,Virechana
+22,Male,Acidity,Gastritis,Acute,Severe,95,Nasya,No Change,Stressful,Udvartana
+41,Male,High BP,Hypertension,Acute,Severe,217,Udvartana,Improved,Sedentary,Takradhara
+69,Male,Fatigue,Chronic Fatigue,Chronic,Mild,139,Janu Basti,No Change,Stressful,Vamana
+74,Male,Skin Problems,Psoriasis,Chronic,Mild,184,Abhyanga,Worsened,Active,Abhyanga
+32,Male,Weight Gain,Obesity,Acute,Moderate,344,Takradhara,No Change,Active,Abhyanga
+34,Male,High BP,Hypertension,Chronic,Moderate,235,Vamana,No Change,Sedentary,Basti
+73,Female,Low Mood,Depression,Acute,Severe,176,Takradhara,Improved,Sedentary,Shirodhara
+41,Male,Fatigue,Chronic Fatigue,Acute,Mild,102,Basti,No Change,Sedentary,Nasya
+42,Male,Joint Pain,Arthritis,Chronic,Severe,336,Nasya,Improved,Active,Basti
+18,Female,Weight Gain,Obesity,Chronic,Severe,78,Nasya,Worsened,Active,Udvartana
+64,Male,Breathing Issue,Asthma,Chronic,Moderate,212,Nasya,Improved,Sedentary,Nasya
+75,Male,Acidity,Gastritis,Acute,Moderate,311,Vamana,Improved,Stressful,Virechana
+55,Female,Acidity,Gastritis,Chronic,Mild,81,Nasya,Worsened,Sedentary,Kati Basti
+41,Female,Skin Problems,Psoriasis,Acute,Severe,239,Janu Basti,No Change,Sedentary,Janu Basti
+36,Female,Low BP,Hypotension,Chronic,Mild,98,Virechana,Improved,Stressful,Abhyanga
+22,Female,Skin Problems,Psoriasis,Chronic,Moderate,141,Takradhara,No Change,Stressful,Basti
+62,Female,Knee Pain,Osteoarthritis,Chronic,Mild,202,Shirodhara,Improved,Active,Janu Basti
+44,Female,Acidity,Gastritis,Acute,Moderate,41,Nasya,No Change,Sedentary,Nasya
+65,Female,Skin Problems,Psoriasis,Acute,Mild,17,Basti,Worsened,Stressful,Abhyanga
+67,Male,Fatigue,Chronic Fatigue,Acute,Moderate,199,Abhyanga,Worsened,Active,Kati Basti
+47,Female,Stress,Anxiety,Chronic,Mild,216,Abhyanga,Worsened,Active,Virechana
+32,Female,Knee Pain,Osteoarthritis,Chronic,Mild,137,Udvartana,No Change,Stressful,Abhyanga
+53,Female,Low Mood,Depression,Chronic,Moderate,340,Udvartana,Worsened,Active,Kati Basti
+26,Male,Back Pain,Spondylitis,Chronic,Severe,330,Nasya,Worsened,Sedentary,Kati Basti
+72,Male,Acidity,Gastritis,Chronic,Severe,43,Vamana,Improved,Sedentary,Virechana
+63,Male,Joint Pain,Arthritis,Chronic,Mild,232,Udvartana,Improved,Stressful,Basti
+60,Female,Back Pain,Spondylitis,Acute,Severe,151,Janu Basti,Improved,Sedentary,Kati Basti
+34,Male,Breathing Issue,Asthma,Chronic,Moderate,191,Virechana,No Change,Sedentary,Nasya
+56,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,182,Takradhara,No Change,Stressful,Kati Basti
+35,Female,Weight Gain,Obesity,Chronic,Moderate,351,Abhyanga,Worsened,Active,Nasya
+62,Female,Acidity,Gastritis,Acute,Mild,309,Shirodhara,No Change,Stressful,Abhyanga
+31,Male,Low Mood,Depression,Chronic,Moderate,14,Virechana,Worsened,Active,Kati Basti
+59,Male,Back Pain,Spondylitis,Chronic,Severe,192,Janu Basti,Improved,Stressful,Kati Basti
+27,Female,Breathing Issue,Asthma,Chronic,Mild,49,Nasya,Improved,Active,Nasya
+47,Male,Skin Problems,Psoriasis,Acute,Mild,59,Udvartana,Worsened,Active,Nasya
+66,Male,Joint Pain,Arthritis,Acute,Moderate,227,Nasya,Improved,Sedentary,Basti
+27,Female,High Sugar,Diabetes Mellitus,Chronic,Severe,246,Abhyanga,No Change,Stressful,Vamana
+62,Male,Fatigue,Chronic Fatigue,Acute,Moderate,232,Nasya,Worsened,Sedentary,Shirodhara
+25,Female,Knee Pain,Osteoarthritis,Chronic,Mild,176,Virechana,No Change,Sedentary,Nasya
+40,Male,Fatigue,Chronic Fatigue,Acute,Moderate,237,Nasya,Worsened,Stressful,Shirodhara
+68,Female,Low Mood,Depression,Chronic,Severe,256,Kati Basti,Worsened,Stressful,Shirodhara
+66,Female,Back Pain,Spondylitis,Acute,Severe,356,Virechana,No Change,Stressful,Udvartana
+57,Female,Joint Pain,Arthritis,Acute,Mild,297,Abhyanga,Worsened,Active,Nasya
+39,Female,Headache,Migraine Disorder,Chronic,Severe,4,Kati Basti,No Change,Stressful,Nasya
+69,Male,High BP,Hypertension,Acute,Severe,86,Udvartana,Improved,Active,Takradhara
+74,Female,Low BP,Hypotension,Acute,Mild,311,Nasya,Worsened,Active,Takradhara
+74,Male,Joint Pain,Arthritis,Chronic,Mild,152,Basti,No Change,Sedentary,Udvartana
+36,Female,Knee Pain,Osteoarthritis,Chronic,Mild,148,Kati Basti,No Change,Sedentary,Virechana
+36,Female,Breathing Issue,Asthma,Chronic,Severe,71,Virechana,Improved,Sedentary,Nasya
+71,Male,Acidity,Gastritis,Chronic,Severe,11,Basti,Improved,Active,Virechana
+39,Female,Stress,Anxiety,Chronic,Mild,303,Nasya,Improved,Stressful,Shirodhara
+53,Male,Joint Pain,Arthritis,Acute,Mild,348,Kati Basti,Worsened,Stressful,Virechana
+64,Female,Back Pain,Spondylitis,Chronic,Moderate,322,Basti,No Change,Stressful,Abhyanga
+46,Male,Headache,Migraine Disorder,Acute,Moderate,174,Udvartana,No Change,Sedentary,Takradhara
+38,Male,High BP,Hypertension,Acute,Severe,128,Janu Basti,Improved,Stressful,Takradhara
+44,Male,Acidity,Gastritis,Acute,Severe,290,Basti,Worsened,Sedentary,Janu Basti
+59,Female,Back Pain,Spondylitis,Chronic,Severe,107,Vamana,Worsened,Stressful,Kati Basti
+20,Female,High BP,Hypertension,Chronic,Mild,265,Abhyanga,No Change,Active,Nasya
+70,Male,Stress,Anxiety,Chronic,Severe,287,Shirodhara,No Change,Active,Shirodhara
+69,Female,Skin Problems,Psoriasis,Acute,Moderate,147,Abhyanga,Worsened,Sedentary,Abhyanga
+50,Male,Low BP,Hypotension,Chronic,Severe,140,Basti,No Change,Sedentary,Abhyanga
+43,Male,Fatigue,Chronic Fatigue,Chronic,Moderate,273,Kati Basti,Worsened,Stressful,Takradhara
+56,Female,Breathing Issue,Asthma,Chronic,Severe,67,Nasya,Worsened,Active,Nasya
+49,Male,Stress,Anxiety,Chronic,Mild,142,Janu Basti,Worsened,Stressful,Nasya
+46,Female,Acidity,Gastritis,Chronic,Moderate,96,Udvartana,Worsened,Stressful,Abhyanga
+69,Male,Back Pain,Spondylitis,Acute,Mild,76,Basti,No Change,Active,Shirodhara
+55,Female,Joint Pain,Arthritis,Acute,Mild,178,Virechana,Improved,Sedentary,Basti
+40,Female,Acidity,Gastritis,Acute,Mild,241,Takradhara,Worsened,Stressful,Nasya
+54,Male,Back Pain,Spondylitis,Chronic,Mild,103,Virechana,Worsened,Sedentary,Abhyanga
+59,Male,Headache,Migraine Disorder,Acute,Moderate,50,Basti,Improved,Active,Nasya
+47,Female,Skin Problems,Psoriasis,Acute,Mild,212,Basti,Worsened,Active,Nasya
+46,Male,Breathing Issue,Asthma,Chronic,Severe,363,Shirodhara,Worsened,Sedentary,Nasya
+61,Female,Headache,Migraine Disorder,Chronic,Moderate,48,Kati Basti,Worsened,Active,Shirodhara
+48,Female,Back Pain,Spondylitis,Chronic,Moderate,24,Nasya,Worsened,Sedentary,Shirodhara
+48,Male,Breathing Issue,Asthma,Acute,Mild,41,Virechana,Improved,Sedentary,Nasya
+51,Male,Acidity,Gastritis,Chronic,Mild,353,Nasya,No Change,Active,Virechana
+69,Female,Joint Pain,Arthritis,Acute,Severe,49,Abhyanga,Improved,Stressful,Basti
+49,Male,Headache,Migraine Disorder,Acute,Moderate,293,Takradhara,No Change,Stressful,Udvartana
+46,Female,Skin Problems,Psoriasis,Chronic,Mild,279,Vamana,Improved,Stressful,Virechana
+28,Male,Back Pain,Spondylitis,Acute,Mild,57,Basti,Worsened,Active,Virechana
+35,Male,Low Mood,Depression,Acute,Moderate,51,Nasya,No Change,Stressful,Nasya
+71,Female,Knee Pain,Osteoarthritis,Acute,Moderate,351,Shirodhara,Worsened,Active,Virechana
+43,Female,Low Mood,Depression,Acute,Severe,144,Takradhara,Worsened,Active,Nasya
+32,Female,Stress,Anxiety,Chronic,Moderate,69,Basti,Improved,Stressful,Shirodhara
+67,Male,Low Mood,Depression,Chronic,Mild,147,Takradhara,Improved,Stressful,Shirodhara
+26,Male,Low Mood,Depression,Acute,Severe,78,Nasya,Improved,Active,Shirodhara
+18,Female,Weight Gain,Obesity,Acute,Severe,277,Shirodhara,No Change,Sedentary,Shirodhara
+50,Male,Low Mood,Depression,Chronic,Severe,142,Abhyanga,No Change,Sedentary,Shirodhara
+59,Female,Joint Pain,Arthritis,Chronic,Mild,312,Nasya,Worsened,Active,Nasya
+45,Female,Low Mood,Depression,Acute,Mild,82,Shirodhara,Worsened,Active,Vamana
+43,Female,Low Mood,Depression,Chronic,Severe,36,Nasya,Worsened,Stressful,Shirodhara
+23,Male,Stress,Anxiety,Chronic,Moderate,23,Takradhara,Improved,Stressful,Shirodhara
+52,Male,Knee Pain,Osteoarthritis,Chronic,Mild,302,Vamana,No Change,Stressful,Abhyanga
+61,Male,Headache,Migraine Disorder,Chronic,Severe,272,Vamana,Worsened,Active,Nasya
+34,Male,Back Pain,Spondylitis,Chronic,Mild,49,Takradhara,No Change,Sedentary,Takradhara
+72,Female,Breathing Issue,Asthma,Chronic,Moderate,273,Shirodhara,Worsened,Sedentary,Nasya
+31,Female,Low Mood,Depression,Chronic,Severe,164,Shirodhara,No Change,Sedentary,Shirodhara
+72,Female,Knee Pain,Osteoarthritis,Chronic,Severe,132,Kati Basti,Improved,Active,Janu Basti
+30,Male,Low BP,Hypotension,Chronic,Severe,144,Shirodhara,Worsened,Sedentary,Abhyanga
+52,Male,Fatigue,Chronic Fatigue,Acute,Mild,302,Shirodhara,Improved,Stressful,Abhyanga
+20,Male,Acidity,Gastritis,Acute,Severe,292,Shirodhara,Improved,Active,Virechana
+20,Female,Skin Problems,Psoriasis,Acute,Mild,300,Udvartana,No Change,Sedentary,Abhyanga
+71,Male,Headache,Migraine Disorder,Acute,Severe,273,Kati Basti,No Change,Active,Kati Basti
+34,Male,Stress,Anxiety,Chronic,Mild,8,Virechana,No Change,Active,Abhyanga
+45,Male,Acidity,Gastritis,Chronic,Moderate,342,Shirodhara,Improved,Stressful,Virechana
+67,Male,Low Mood,Depression,Acute,Severe,231,Nasya,Improved,Active,Shirodhara
+71,Male,Headache,Migraine Disorder,Chronic,Mild,165,Takradhara,Improved,Stressful,Nasya
+59,Male,Low Mood,Depression,Acute,Moderate,8,Nasya,Worsened,Active,Vamana
+22,Female,Low Mood,Depression,Acute,Moderate,290,Janu Basti,Improved,Active,Shirodhara
+74,Female,Joint Pain,Arthritis,Acute,Severe,245,Basti,No Change,Active,Nasya
+63,Male,Back Pain,Spondylitis,Acute,Mild,61,Abhyanga,No Change,Active,Nasya
+43,Male,Knee Pain,Osteoarthritis,Acute,Severe,191,Abhyanga,Improved,Sedentary,Janu Basti
+67,Male,Fatigue,Chronic Fatigue,Acute,Mild,343,Abhyanga,Improved,Sedentary,Abhyanga
+67,Male,Breathing Issue,Asthma,Acute,Moderate,58,Vamana,No Change,Sedentary,Nasya
+51,Female,High BP,Hypertension,Acute,Mild,38,Shirodhara,No Change,Sedentary,Abhyanga
+66,Female,High BP,Hypertension,Chronic,Moderate,150,Virechana,Improved,Active,Takradhara
+35,Female,Weight Gain,Obesity,Chronic,Moderate,225,Abhyanga,Improved,Active,Udvartana
+71,Male,Stress,Anxiety,Acute,Moderate,206,Udvartana,No Change,Stressful,Shirodhara
+27,Male,Knee Pain,Osteoarthritis,Acute,Moderate,243,Takradhara,No Change,Active,Kati Basti
+38,Female,Weight Gain,Obesity,Acute,Severe,328,Vamana,No Change,Stressful,Abhyanga
+27,Male,Joint Pain,Arthritis,Chronic,Moderate,42,Nasya,Improved,Sedentary,Basti
+23,Female,Joint Pain,Arthritis,Acute,Moderate,338,Abhyanga,Improved,Sedentary,Basti
+61,Male,Stress,Anxiety,Acute,Severe,42,Nasya,No Change,Stressful,Nasya
+25,Male,Low BP,Hypotension,Chronic,Mild,84,Takradhara,Improved,Active,Abhyanga
+35,Female,High BP,Hypertension,Chronic,Moderate,200,Takradhara,Improved,Sedentary,Takradhara
+51,Female,Knee Pain,Osteoarthritis,Acute,Mild,266,Shirodhara,Improved,Active,Janu Basti
+68,Female,Low BP,Hypotension,Acute,Moderate,224,Virechana,Improved,Sedentary,Abhyanga
+24,Male,Skin Problems,Psoriasis,Chronic,Severe,103,Nasya,No Change,Stressful,Virechana
+46,Female,Headache,Migraine Disorder,Chronic,Mild,333,Basti,No Change,Sedentary,Vamana
+19,Male,High BP,Hypertension,Chronic,Severe,60,Vamana,No Change,Active,Takradhara
+31,Male,Breathing Issue,Asthma,Chronic,Mild,276,Virechana,No Change,Stressful,Nasya
+27,Female,Fatigue,Chronic Fatigue,Acute,Moderate,110,Basti,Worsened,Stressful,Virechana
+54,Female,Weight Gain,Obesity,Chronic,Mild,43,Janu Basti,Improved,Sedentary,Udvartana
+54,Male,Headache,Migraine Disorder,Chronic,Moderate,228,Udvartana,Improved,Stressful,Nasya
+31,Female,Knee Pain,Osteoarthritis,Acute,Mild,146,Basti,Worsened,Stressful,Nasya
+29,Female,Joint Pain,Arthritis,Acute,Moderate,13,Vamana,Worsened,Sedentary,Abhyanga
+40,Male,Skin Problems,Psoriasis,Acute,Severe,275,Virechana,No Change,Active,Abhyanga
+25,Female,Breathing Issue,Asthma,Acute,Severe,304,Shirodhara,Worsened,Sedentary,Udvartana
+74,Female,Joint Pain,Arthritis,Chronic,Mild,164,Takradhara,Improved,Sedentary,Basti
+25,Female,High Sugar,Diabetes Mellitus,Chronic,Severe,61,Kati Basti,No Change,Sedentary,Vamana
+40,Male,Back Pain,Spondylitis,Chronic,Moderate,297,Shirodhara,No Change,Active,Nasya
+23,Male,Low Mood,Depression,Acute,Severe,17,Kati Basti,Improved,Sedentary,Shirodhara
+38,Female,Breathing Issue,Asthma,Acute,Severe,89,Shirodhara,No Change,Active,Takradhara
+34,Female,Headache,Migraine Disorder,Acute,Severe,300,Vamana,No Change,Sedentary,Shirodhara
+23,Male,High BP,Hypertension,Acute,Moderate,231,Shirodhara,Improved,Active,Takradhara
+65,Female,Headache,Migraine Disorder,Chronic,Severe,208,Virechana,No Change,Active,Nasya
+21,Male,Headache,Migraine Disorder,Acute,Moderate,81,Takradhara,Improved,Stressful,Nasya
+65,Female,Acidity,Gastritis,Chronic,Moderate,278,Basti,Improved,Active,Virechana
+62,Male,Headache,Migraine Disorder,Chronic,Severe,47,Shirodhara,No Change,Sedentary,Nasya
+58,Male,Breathing Issue,Asthma,Acute,Severe,313,Takradhara,Improved,Stressful,Nasya
+34,Male,Skin Problems,Psoriasis,Acute,Severe,178,Kati Basti,Improved,Active,Virechana
+24,Female,Low BP,Hypotension,Acute,Severe,91,Udvartana,No Change,Stressful,Virechana
+37,Female,Low Mood,Depression,Chronic,Mild,96,Shirodhara,No Change,Sedentary,Kati Basti
+36,Female,Back Pain,Spondylitis,Chronic,Severe,143,Nasya,No Change,Active,Kati Basti
+47,Female,High BP,Hypertension,Chronic,Severe,299,Abhyanga,Worsened,Stressful,Takradhara
+45,Male,Knee Pain,Osteoarthritis,Acute,Mild,337,Shirodhara,Worsened,Active,Janu Basti
+31,Male,Weight Gain,Obesity,Chronic,Mild,126,Nasya,No Change,Sedentary,Abhyanga
+41,Male,Breathing Issue,Asthma,Chronic,Severe,333,Shirodhara,Improved,Stressful,Nasya
+31,Male,Low BP,Hypotension,Chronic,Moderate,237,Nasya,Improved,Sedentary,Abhyanga
+26,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,326,Udvartana,Worsened,Sedentary,Janu Basti
+68,Female,Low Mood,Depression,Acute,Moderate,363,Vamana,No Change,Sedentary,Virechana
+20,Female,High BP,Hypertension,Acute,Severe,191,Nasya,Worsened,Sedentary,Basti
+73,Female,Back Pain,Spondylitis,Chronic,Severe,187,Kati Basti,No Change,Stressful,Kati Basti
+39,Female,Knee Pain,Osteoarthritis,Acute,Moderate,13,Shirodhara,Improved,Stressful,Janu Basti
+34,Male,Skin Problems,Psoriasis,Acute,Severe,292,Shirodhara,Worsened,Active,Janu Basti
+64,Female,Low BP,Hypotension,Acute,Moderate,204,Nasya,Improved,Sedentary,Abhyanga
+45,Female,Weight Gain,Obesity,Acute,Severe,280,Virechana,Worsened,Active,Shirodhara
+42,Female,High BP,Hypertension,Acute,Severe,118,Nasya,Worsened,Stressful,Nasya
+37,Female,Headache,Migraine Disorder,Acute,Mild,317,Abhyanga,Improved,Stressful,Nasya
+45,Female,Breathing Issue,Asthma,Chronic,Mild,338,Vamana,No Change,Active,Udvartana
+38,Male,Fatigue,Chronic Fatigue,Acute,Severe,225,Virechana,No Change,Stressful,Udvartana
+66,Female,Low BP,Hypotension,Chronic,Mild,215,Takradhara,Worsened,Stressful,Nasya
+55,Male,Fatigue,Chronic Fatigue,Chronic,Mild,284,Shirodhara,Improved,Sedentary,Abhyanga
+62,Male,Fatigue,Chronic Fatigue,Chronic,Severe,157,Basti,Worsened,Sedentary,Abhyanga
+25,Female,Fatigue,Chronic Fatigue,Chronic,Moderate,323,Takradhara,No Change,Stressful,Basti
+47,Male,Breathing Issue,Asthma,Chronic,Mild,251,Nasya,No Change,Sedentary,Abhyanga
+34,Male,Skin Problems,Psoriasis,Chronic,Moderate,124,Shirodhara,No Change,Sedentary,Takradhara
+69,Male,Fatigue,Chronic Fatigue,Chronic,Severe,347,Kati Basti,Worsened,Sedentary,Abhyanga
+50,Male,Low BP,Hypotension,Chronic,Moderate,354,Basti,Worsened,Sedentary,Virechana
+58,Male,Acidity,Gastritis,Chronic,Severe,322,Basti,Worsened,Sedentary,Virechana
+52,Male,Acidity,Gastritis,Chronic,Mild,335,Basti,No Change,Sedentary,Vamana
+49,Female,Back Pain,Spondylitis,Acute,Severe,241,Shirodhara,Improved,Stressful,Kati Basti
+24,Male,Knee Pain,Osteoarthritis,Chronic,Moderate,114,Vamana,Worsened,Active,Takradhara
+45,Male,Low BP,Hypotension,Acute,Moderate,210,Virechana,No Change,Stressful,Kati Basti
+50,Female,Low BP,Hypotension,Chronic,Severe,21,Nasya,Worsened,Active,Abhyanga
+22,Male,Acidity,Gastritis,Chronic,Severe,358,Basti,No Change,Active,Virechana
+31,Male,High Sugar,Diabetes Mellitus,Chronic,Moderate,15,Abhyanga,Worsened,Active,Vamana
+48,Male,Weight Gain,Obesity,Chronic,Moderate,251,Shirodhara,No Change,Sedentary,Abhyanga
+37,Male,Headache,Migraine Disorder,Chronic,Mild,342,Nasya,No Change,Sedentary,Virechana
+38,Male,Acidity,Gastritis,Acute,Mild,322,Takradhara,Worsened,Sedentary,Janu Basti
+67,Female,Breathing Issue,Asthma,Acute,Moderate,151,Kati Basti,Improved,Active,Nasya
+23,Female,High BP,Hypertension,Acute,Moderate,138,Nasya,Improved,Sedentary,Takradhara
+23,Female,Headache,Migraine Disorder,Acute,Mild,337,Shirodhara,Worsened,Sedentary,Nasya
+48,Female,Skin Problems,Psoriasis,Acute,Moderate,340,Janu Basti,Worsened,Sedentary,Virechana
+60,Male,High BP,Hypertension,Chronic,Moderate,312,Kati Basti,Improved,Sedentary,Takradhara
+18,Male,Headache,Migraine Disorder,Acute,Severe,62,Abhyanga,Improved,Sedentary,Nasya
+71,Male,Headache,Migraine Disorder,Acute,Moderate,56,Takradhara,Improved,Stressful,Nasya
+67,Male,Headache,Migraine Disorder,Acute,Mild,231,Shirodhara,Worsened,Stressful,Virechana
+56,Female,High BP,Hypertension,Chronic,Mild,168,Kati Basti,Improved,Active,Takradhara
+70,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,211,Basti,Improved,Sedentary,Vamana
+30,Male,Joint Pain,Arthritis,Chronic,Mild,200,Nasya,Worsened,Active,Udvartana
+19,Male,Fatigue,Chronic Fatigue,Chronic,Mild,276,Takradhara,Worsened,Sedentary,Nasya
+28,Female,Breathing Issue,Asthma,Chronic,Severe,138,Shirodhara,Worsened,Sedentary,Nasya
+49,Female,Joint Pain,Arthritis,Acute,Severe,139,Virechana,Improved,Sedentary,Basti
+45,Male,Low Mood,Depression,Acute,Moderate,183,Shirodhara,Worsened,Sedentary,Virechana
+57,Female,Low Mood,Depression,Acute,Mild,338,Kati Basti,Worsened,Stressful,Abhyanga
+63,Female,Skin Problems,Psoriasis,Acute,Severe,184,Virechana,No Change,Stressful,Shirodhara
+34,Male,Knee Pain,Osteoarthritis,Acute,Mild,209,Virechana,Improved,Sedentary,Janu Basti
+54,Male,Stress,Anxiety,Chronic,Severe,31,Kati Basti,No Change,Active,Shirodhara
+19,Male,Knee Pain,Osteoarthritis,Acute,Severe,132,Virechana,No Change,Stressful,Basti
+73,Female,Back Pain,Spondylitis,Chronic,Severe,140,Kati Basti,Improved,Active,Kati Basti
+69,Male,Joint Pain,Arthritis,Chronic,Severe,186,Abhyanga,Improved,Active,Basti
+45,Female,High Sugar,Diabetes Mellitus,Acute,Moderate,364,Udvartana,No Change,Sedentary,Vamana
+25,Female,Breathing Issue,Asthma,Acute,Mild,205,Takradhara,Worsened,Active,Janu Basti
+62,Male,Back Pain,Spondylitis,Acute,Moderate,204,Abhyanga,Improved,Stressful,Kati Basti
+70,Male,High BP,Hypertension,Acute,Severe,342,Virechana,No Change,Sedentary,Shirodhara
+26,Male,Weight Gain,Obesity,Acute,Mild,360,Shirodhara,Worsened,Stressful,Virechana
+18,Female,High Sugar,Diabetes Mellitus,Acute,Moderate,183,Udvartana,No Change,Stressful,Virechana
+35,Female,Low Mood,Depression,Acute,Mild,28,Abhyanga,No Change,Active,Basti
+63,Male,Low BP,Hypotension,Chronic,Severe,300,Nasya,No Change,Stressful,Abhyanga
+73,Male,Knee Pain,Osteoarthritis,Chronic,Moderate,179,Abhyanga,No Change,Sedentary,Udvartana
+30,Male,Joint Pain,Arthritis,Acute,Moderate,342,Virechana,No Change,Active,Virechana
+48,Male,Fatigue,Chronic Fatigue,Acute,Severe,122,Shirodhara,Worsened,Active,Janu Basti
+57,Female,Headache,Migraine Disorder,Acute,Severe,17,Janu Basti,Improved,Sedentary,Nasya
+44,Male,Breathing Issue,Asthma,Acute,Severe,156,Virechana,No Change,Active,Takradhara
+23,Female,High Sugar,Diabetes Mellitus,Chronic,Moderate,307,Udvartana,Worsened,Active,Shirodhara
+31,Male,Low BP,Hypotension,Acute,Severe,7,Abhyanga,No Change,Stressful,Abhyanga
+21,Male,Breathing Issue,Asthma,Acute,Severe,22,Abhyanga,No Change,Active,Shirodhara
+58,Female,High BP,Hypertension,Acute,Severe,82,Abhyanga,No Change,Stressful,Shirodhara
+54,Female,Fatigue,Chronic Fatigue,Chronic,Severe,61,Shirodhara,Worsened,Sedentary,Abhyanga
+73,Female,Joint Pain,Arthritis,Chronic,Severe,83,Kati Basti,Worsened,Stressful,Basti
+49,Male,Knee Pain,Osteoarthritis,Acute,Mild,88,Takradhara,Worsened,Stressful,Shirodhara
+38,Male,Stress,Anxiety,Chronic,Moderate,76,Janu Basti,Improved,Stressful,Shirodhara
+21,Male,Weight Gain,Obesity,Acute,Severe,321,Shirodhara,Worsened,Active,Nasya
+61,Male,Skin Problems,Psoriasis,Chronic,Severe,321,Takradhara,Worsened,Sedentary,Virechana
+39,Male,Skin Problems,Psoriasis,Acute,Moderate,295,Abhyanga,Improved,Stressful,Virechana
+59,Female,Fatigue,Chronic Fatigue,Chronic,Severe,169,Abhyanga,No Change,Active,Abhyanga
+23,Male,Breathing Issue,Asthma,Acute,Mild,180,Abhyanga,Worsened,Sedentary,Virechana
+47,Female,Knee Pain,Osteoarthritis,Acute,Moderate,168,Kati Basti,Worsened,Stressful,Shirodhara
+42,Female,Back Pain,Spondylitis,Chronic,Mild,190,Janu Basti,Worsened,Active,Virechana
+22,Female,High Sugar,Diabetes Mellitus,Chronic,Moderate,133,Udvartana,Worsened,Active,Abhyanga
+50,Male,High Sugar,Diabetes Mellitus,Chronic,Moderate,257,Abhyanga,Improved,Sedentary,Vamana
+37,Male,Acidity,Gastritis,Chronic,Severe,16,Nasya,No Change,Active,Virechana
+67,Female,Breathing Issue,Asthma,Acute,Mild,117,Kati Basti,Worsened,Active,Janu Basti
+26,Male,Back Pain,Spondylitis,Acute,Moderate,175,Abhyanga,No Change,Active,Basti
+66,Female,Weight Gain,Obesity,Chronic,Severe,246,Virechana,Improved,Stressful,Udvartana
+62,Male,Breathing Issue,Asthma,Acute,Mild,15,Abhyanga,Worsened,Sedentary,Virechana
+74,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,309,Shirodhara,No Change,Active,Shirodhara
+45,Male,Knee Pain,Osteoarthritis,Acute,Moderate,243,Takradhara,Improved,Stressful,Janu Basti
+54,Female,Low Mood,Depression,Acute,Severe,112,Basti,Improved,Sedentary,Shirodhara
+56,Male,Weight Gain,Obesity,Chronic,Moderate,193,Shirodhara,No Change,Sedentary,Nasya
+71,Female,Low BP,Hypotension,Chronic,Mild,314,Udvartana,No Change,Stressful,Kati Basti
+67,Male,Fatigue,Chronic Fatigue,Acute,Mild,42,Virechana,Improved,Stressful,Abhyanga
+52,Male,Headache,Migraine Disorder,Chronic,Moderate,19,Shirodhara,Improved,Stressful,Nasya
+46,Female,Headache,Migraine Disorder,Acute,Moderate,43,Janu Basti,No Change,Stressful,Kati Basti
+22,Male,Headache,Migraine Disorder,Acute,Moderate,166,Kati Basti,No Change,Stressful,Kati Basti
+57,Male,High BP,Hypertension,Acute,Severe,306,Nasya,Improved,Sedentary,Takradhara
+28,Female,Knee Pain,Osteoarthritis,Chronic,Severe,63,Shirodhara,Improved,Stressful,Janu Basti
+25,Female,Joint Pain,Arthritis,Acute,Severe,348,Shirodhara,No Change,Active,Janu Basti
+22,Female,Back Pain,Spondylitis,Acute,Severe,312,Virechana,No Change,Sedentary,Udvartana
+75,Male,Low BP,Hypotension,Acute,Mild,348,Virechana,Worsened,Active,Basti
+67,Male,Weight Gain,Obesity,Chronic,Mild,260,Abhyanga,Worsened,Active,Vamana
+27,Female,Knee Pain,Osteoarthritis,Chronic,Mild,291,Abhyanga,No Change,Active,Kati Basti
+18,Female,Skin Problems,Psoriasis,Acute,Severe,20,Abhyanga,No Change,Stressful,Abhyanga
+53,Female,Back Pain,Spondylitis,Acute,Mild,333,Abhyanga,Worsened,Stressful,Shirodhara
+44,Female,Back Pain,Spondylitis,Acute,Severe,359,Basti,Improved,Sedentary,Kati Basti
+69,Male,Acidity,Gastritis,Acute,Severe,77,Virechana,No Change,Sedentary,Virechana
+25,Female,Joint Pain,Arthritis,Acute,Moderate,124,Virechana,No Change,Stressful,Takradhara
+31,Female,Breathing Issue,Asthma,Acute,Mild,288,Virechana,Improved,Sedentary,Nasya
+28,Female,Back Pain,Spondylitis,Acute,Mild,100,Shirodhara,No Change,Stressful,Nasya
+18,Female,Low Mood,Depression,Acute,Mild,57,Janu Basti,Worsened,Sedentary,Nasya
+65,Female,Joint Pain,Arthritis,Chronic,Severe,237,Shirodhara,No Change,Stressful,Basti
+54,Female,Skin Problems,Psoriasis,Acute,Severe,158,Udvartana,Worsened,Sedentary,Vamana
+66,Female,Low Mood,Depression,Chronic,Severe,303,Abhyanga,Improved,Active,Shirodhara
+55,Female,Knee Pain,Osteoarthritis,Chronic,Severe,210,Basti,No Change,Stressful,Janu Basti
+28,Male,High BP,Hypertension,Acute,Mild,302,Nasya,No Change,Active,Nasya
+41,Female,High Sugar,Diabetes Mellitus,Chronic,Severe,284,Udvartana,Improved,Stressful,Vamana
+18,Male,High Sugar,Diabetes Mellitus,Acute,Moderate,285,Abhyanga,Worsened,Stressful,Virechana
+74,Female,Fatigue,Chronic Fatigue,Acute,Severe,268,Virechana,Worsened,Sedentary,Nasya
+59,Female,Fatigue,Chronic Fatigue,Acute,Severe,222,Basti,No Change,Active,Virechana
+57,Female,Joint Pain,Arthritis,Chronic,Severe,263,Nasya,Worsened,Stressful,Basti
+70,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,199,Kati Basti,Improved,Sedentary,Vamana
+49,Male,Weight Gain,Obesity,Acute,Mild,213,Virechana,No Change,Sedentary,Shirodhara
+19,Female,Back Pain,Spondylitis,Chronic,Mild,330,Abhyanga,No Change,Stressful,Basti
+56,Male,Headache,Migraine Disorder,Chronic,Moderate,247,Vamana,Worsened,Stressful,Shirodhara
+48,Male,Stress,Anxiety,Acute,Severe,79,Udvartana,No Change,Sedentary,Virechana
+32,Male,Weight Gain,Obesity,Chronic,Moderate,153,Shirodhara,Improved,Stressful,Udvartana
+32,Male,Back Pain,Spondylitis,Chronic,Mild,263,Shirodhara,Worsened,Active,Shirodhara
+53,Male,High Sugar,Diabetes Mellitus,Acute,Mild,232,Nasya,No Change,Stressful,Nasya
+37,Female,Skin Problems,Psoriasis,Acute,Mild,73,Basti,Improved,Sedentary,Virechana
+37,Male,Weight Gain,Obesity,Acute,Severe,18,Shirodhara,Improved,Active,Udvartana
+63,Female,Low Mood,Depression,Chronic,Mild,144,Vamana,Worsened,Sedentary,Nasya
+45,Male,High BP,Hypertension,Chronic,Moderate,19,Vamana,No Change,Stressful,Takradhara
+26,Female,Headache,Migraine Disorder,Acute,Moderate,343,Vamana,No Change,Stressful,Abhyanga
+18,Female,Knee Pain,Osteoarthritis,Acute,Moderate,41,Shirodhara,Improved,Stressful,Janu Basti
+49,Male,Low BP,Hypotension,Acute,Mild,246,Udvartana,Worsened,Stressful,Nasya
+75,Female,Joint Pain,Arthritis,Acute,Moderate,136,Janu Basti,Worsened,Active,Abhyanga
+54,Male,Acidity,Gastritis,Chronic,Moderate,95,Abhyanga,Worsened,Sedentary,Takradhara
+68,Female,Knee Pain,Osteoarthritis,Acute,Severe,70,Virechana,Worsened,Sedentary,Nasya
+60,Male,Knee Pain,Osteoarthritis,Acute,Moderate,34,Takradhara,Improved,Stressful,Janu Basti
+33,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,82,Takradhara,Worsened,Stressful,Nasya
+71,Male,High Sugar,Diabetes Mellitus,Acute,Mild,232,Kati Basti,No Change,Active,Shirodhara
+46,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,109,Virechana,No Change,Active,Virechana
+74,Female,Stress,Anxiety,Chronic,Moderate,307,Virechana,Improved,Active,Shirodhara
+32,Female,High BP,Hypertension,Chronic,Severe,351,Abhyanga,Improved,Stressful,Takradhara
+60,Male,Breathing Issue,Asthma,Acute,Mild,257,Udvartana,Worsened,Active,Virechana
+46,Female,High Sugar,Diabetes Mellitus,Chronic,Severe,11,Basti,No Change,Sedentary,Vamana
+31,Female,Knee Pain,Osteoarthritis,Chronic,Mild,117,Udvartana,No Change,Stressful,Nasya
+66,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,61,Abhyanga,Worsened,Stressful,Vamana
+70,Male,Stress,Anxiety,Acute,Severe,198,Janu Basti,Worsened,Stressful,Kati Basti
+39,Female,High BP,Hypertension,Chronic,Mild,320,Nasya,Worsened,Sedentary,Nasya
+28,Male,Joint Pain,Arthritis,Chronic,Mild,164,Janu Basti,Worsened,Sedentary,Kati Basti
+43,Female,Low BP,Hypotension,Acute,Mild,248,Nasya,Improved,Sedentary,Abhyanga
+71,Male,Skin Problems,Psoriasis,Acute,Moderate,165,Basti,Improved,Stressful,Virechana
+29,Male,Skin Problems,Psoriasis,Chronic,Mild,288,Shirodhara,Worsened,Stressful,Virechana
+20,Male,Breathing Issue,Asthma,Acute,Mild,27,Vamana,Improved,Sedentary,Nasya
+35,Male,Headache,Migraine Disorder,Chronic,Severe,333,Vamana,No Change,Sedentary,Nasya
+69,Male,High Sugar,Diabetes Mellitus,Acute,Mild,287,Abhyanga,Improved,Active,Vamana
+75,Female,Breathing Issue,Asthma,Acute,Severe,316,Abhyanga,Worsened,Active,Nasya
+29,Female,Stress,Anxiety,Chronic,Mild,201,Kati Basti,No Change,Sedentary,Nasya
+36,Male,Back Pain,Spondylitis,Chronic,Severe,233,Abhyanga,Improved,Sedentary,Kati Basti
+71,Female,High BP,Hypertension,Chronic,Mild,209,Abhyanga,Worsened,Sedentary,Takradhara
+55,Male,Low BP,Hypotension,Chronic,Moderate,359,Vamana,No Change,Stressful,Nasya
+18,Female,Skin Problems,Psoriasis,Acute,Severe,263,Nasya,Worsened,Sedentary,Virechana
+45,Male,Stress,Anxiety,Acute,Severe,233,Basti,Improved,Sedentary,Shirodhara
+40,Female,Breathing Issue,Asthma,Acute,Mild,43,Virechana,Improved,Sedentary,Nasya
+46,Male,Joint Pain,Arthritis,Chronic,Mild,122,Takradhara,No Change,Active,Nasya
+66,Female,Low Mood,Depression,Acute,Severe,238,Udvartana,No Change,Active,Takradhara
+26,Female,Acidity,Gastritis,Acute,Moderate,28,Nasya,Worsened,Stressful,Abhyanga
+53,Female,High Sugar,Diabetes Mellitus,Acute,Mild,94,Vamana,No Change,Active,Nasya
+26,Female,Breathing Issue,Asthma,Acute,Severe,138,Vamana,No Change,Sedentary,Vamana
+27,Male,Skin Problems,Psoriasis,Acute,Moderate,345,Shirodhara,No Change,Active,Kati Basti
+63,Female,Headache,Migraine Disorder,Chronic,Moderate,71,Kati Basti,Worsened,Stressful,Abhyanga
+48,Male,Joint Pain,Arthritis,Acute,Mild,238,Shirodhara,No Change,Sedentary,Vamana
+39,Female,Low BP,Hypotension,Chronic,Severe,223,Abhyanga,No Change,Sedentary,Abhyanga
+19,Female,Back Pain,Spondylitis,Acute,Severe,345,Nasya,No Change,Stressful,Nasya
+70,Female,High BP,Hypertension,Acute,Mild,311,Shirodhara,Worsened,Active,Vamana
+62,Female,Back Pain,Spondylitis,Chronic,Mild,159,Virechana,No Change,Active,Virechana
+39,Female,Low BP,Hypotension,Chronic,Mild,90,Takradhara,Improved,Stressful,Abhyanga
+47,Male,Acidity,Gastritis,Chronic,Severe,169,Virechana,Worsened,Active,Virechana
+69,Male,Low BP,Hypotension,Acute,Severe,350,Kati Basti,Improved,Active,Abhyanga
+49,Female,Headache,Migraine Disorder,Chronic,Mild,287,Abhyanga,No Change,Active,Shirodhara
+18,Female,Headache,Migraine Disorder,Chronic,Moderate,10,Nasya,Improved,Active,Nasya
+28,Male,Stress,Anxiety,Chronic,Moderate,295,Shirodhara,Improved,Stressful,Shirodhara
+72,Male,Joint Pain,Arthritis,Chronic,Mild,248,Abhyanga,No Change,Sedentary,Basti
+36,Female,Weight Gain,Obesity,Chronic,Mild,265,Vamana,No Change,Sedentary,Basti
+36,Female,Knee Pain,Osteoarthritis,Acute,Severe,81,Nasya,Worsened,Active,Basti
+43,Male,Headache,Migraine Disorder,Acute,Moderate,218,Vamana,Improved,Sedentary,Nasya
+25,Male,Low BP,Hypotension,Acute,Severe,356,Virechana,Improved,Stressful,Abhyanga
+63,Female,Weight Gain,Obesity,Acute,Moderate,194,Basti,Improved,Stressful,Udvartana
+47,Female,Stress,Anxiety,Chronic,Mild,327,Virechana,Improved,Stressful,Shirodhara
+58,Male,High BP,Hypertension,Chronic,Severe,228,Janu Basti,Worsened,Stressful,Takradhara
+26,Female,Skin Problems,Psoriasis,Chronic,Severe,103,Takradhara,Improved,Active,Virechana
+38,Female,Joint Pain,Arthritis,Acute,Mild,298,Takradhara,Worsened,Active,Nasya
+46,Male,Low Mood,Depression,Chronic,Mild,347,Abhyanga,No Change,Active,Basti
+22,Male,Weight Gain,Obesity,Acute,Moderate,96,Abhyanga,Improved,Stressful,Udvartana
+49,Male,High Sugar,Diabetes Mellitus,Acute,Mild,323,Shirodhara,No Change,Active,Basti
+19,Male,Fatigue,Chronic Fatigue,Acute,Moderate,297,Janu Basti,Improved,Sedentary,Abhyanga
+35,Female,Low BP,Hypotension,Acute,Severe,299,Vamana,No Change,Active,Janu Basti
+41,Female,High Sugar,Diabetes Mellitus,Acute,Severe,163,Shirodhara,Improved,Active,Vamana
+26,Male,Knee Pain,Osteoarthritis,Chronic,Severe,175,Nasya,Improved,Sedentary,Janu Basti
+44,Female,Low BP,Hypotension,Chronic,Moderate,252,Abhyanga,Worsened,Active,Abhyanga
+40,Male,Headache,Migraine Disorder,Acute,Mild,263,Janu Basti,Worsened,Active,Vamana
+63,Female,Knee Pain,Osteoarthritis,Acute,Moderate,212,Janu Basti,Improved,Sedentary,Janu Basti
+34,Male,Breathing Issue,Asthma,Chronic,Severe,228,Abhyanga,No Change,Active,Nasya
+29,Female,Low Mood,Depression,Chronic,Mild,291,Virechana,Improved,Sedentary,Shirodhara
+18,Female,High BP,Hypertension,Chronic,Severe,31,Shirodhara,Worsened,Stressful,Takradhara
+75,Male,Knee Pain,Osteoarthritis,Acute,Mild,289,Nasya,Worsened,Active,Basti
+61,Female,Acidity,Gastritis,Acute,Severe,318,Basti,Improved,Sedentary,Virechana
+62,Male,Knee Pain,Osteoarthritis,Acute,Severe,103,Abhyanga,Improved,Sedentary,Janu Basti
+22,Female,Joint Pain,Arthritis,Chronic,Moderate,64,Kati Basti,No Change,Sedentary,Nasya
+24,Male,Weight Gain,Obesity,Acute,Moderate,70,Abhyanga,Worsened,Active,Virechana
+24,Male,Back Pain,Spondylitis,Chronic,Severe,312,Shirodhara,No Change,Active,Kati Basti
+58,Female,High BP,Hypertension,Acute,Mild,136,Kati Basti,No Change,Stressful,Takradhara
+28,Female,Headache,Migraine Disorder,Acute,Severe,72,Kati Basti,No Change,Stressful,Shirodhara
+60,Male,Breathing Issue,Asthma,Chronic,Moderate,236,Virechana,Worsened,Active,Abhyanga
+30,Male,Low Mood,Depression,Acute,Moderate,31,Vamana,No Change,Sedentary,Shirodhara
+63,Male,Skin Problems,Psoriasis,Chronic,Mild,297,Basti,No Change,Stressful,Abhyanga
+41,Male,High BP,Hypertension,Acute,Mild,115,Vamana,Worsened,Stressful,Virechana
+46,Male,Skin Problems,Psoriasis,Chronic,Moderate,202,Shirodhara,Improved,Sedentary,Virechana
+55,Female,High Sugar,Diabetes Mellitus,Acute,Moderate,95,Virechana,Improved,Stressful,Vamana
+45,Male,Knee Pain,Osteoarthritis,Chronic,Severe,225,Virechana,Improved,Active,Janu Basti
+68,Female,Low Mood,Depression,Chronic,Mild,102,Nasya,Improved,Sedentary,Shirodhara
+60,Female,Back Pain,Spondylitis,Chronic,Mild,304,Takradhara,No Change,Stressful,Vamana
+42,Male,Weight Gain,Obesity,Acute,Mild,295,Shirodhara,Improved,Active,Udvartana
+72,Female,Acidity,Gastritis,Acute,Severe,114,Shirodhara,No Change,Sedentary,Kati Basti
+30,Male,High Sugar,Diabetes Mellitus,Chronic,Mild,335,Abhyanga,Worsened,Stressful,Virechana
+48,Male,Headache,Migraine Disorder,Chronic,Mild,158,Vamana,Worsened,Active,Udvartana
+68,Male,Low Mood,Depression,Chronic,Mild,26,Nasya,Worsened,Active,Shirodhara
+49,Female,Headache,Migraine Disorder,Chronic,Moderate,355,Udvartana,Worsened,Active,Takradhara
+18,Female,Low BP,Hypotension,Chronic,Moderate,74,Nasya,Improved,Stressful,Abhyanga
+48,Female,Weight Gain,Obesity,Acute,Severe,92,Abhyanga,Worsened,Sedentary,Shirodhara
+21,Female,Headache,Migraine Disorder,Acute,Mild,128,Vamana,Improved,Stressful,Nasya
+73,Female,Back Pain,Spondylitis,Acute,Mild,299,Abhyanga,No Change,Active,Abhyanga
+38,Female,Breathing Issue,Asthma,Chronic,Severe,90,Janu Basti,Improved,Stressful,Nasya
+47,Male,Back Pain,Spondylitis,Chronic,Severe,176,Abhyanga,No Change,Active,Kati Basti
+48,Female,Stress,Anxiety,Chronic,Moderate,34,Nasya,Improved,Active,Shirodhara
+19,Female,Joint Pain,Arthritis,Acute,Mild,202,Shirodhara,Worsened,Active,Udvartana
+60,Male,Skin Problems,Psoriasis,Acute,Severe,310,Nasya,No Change,Active,Nasya
+27,Male,Stress,Anxiety,Acute,Mild,172,Virechana,Improved,Active,Shirodhara
+29,Male,Back Pain,Spondylitis,Acute,Moderate,348,Shirodhara,Improved,Active,Kati Basti
+19,Female,Headache,Migraine Disorder,Acute,Moderate,204,Janu Basti,No Change,Stressful,Vamana
+24,Male,High BP,Hypertension,Chronic,Mild,13,Nasya,No Change,Active,Janu Basti
+24,Male,Low BP,Hypotension,Acute,Severe,306,Udvartana,Improved,Sedentary,Abhyanga
+51,Female,Back Pain,Spondylitis,Acute,Severe,55,Basti,Worsened,Stressful,Virechana
+51,Male,Breathing Issue,Asthma,Chronic,Mild,225,Abhyanga,Worsened,Active,Virechana
+75,Male,Skin Problems,Psoriasis,Chronic,Severe,142,Shirodhara,Worsened,Active,Virechana
+50,Male,Fatigue,Chronic Fatigue,Chronic,Severe,363,Virechana,Worsened,Stressful,Abhyanga
+42,Male,Skin Problems,Psoriasis,Acute,Mild,355,Abhyanga,No Change,Active,Shirodhara
+70,Female,Back Pain,Spondylitis,Chronic,Moderate,117,Udvartana,No Change,Active,Nasya
+31,Male,Skin Problems,Psoriasis,Chronic,Severe,138,Virechana,No Change,Stressful,Virechana
+20,Male,Stress,Anxiety,Chronic,Severe,223,Virechana,Improved,Stressful,Shirodhara
+62,Male,Skin Problems,Psoriasis,Chronic,Mild,167,Kati Basti,No Change,Stressful,Virechana
+25,Female,Low BP,Hypotension,Acute,Mild,176,Virechana,Improved,Stressful,Abhyanga
+25,Female,Back Pain,Spondylitis,Acute,Moderate,310,Virechana,Improved,Sedentary,Kati Basti
+61,Male,Back Pain,Spondylitis,Acute,Severe,115,Abhyanga,Worsened,Sedentary,Virechana
+68,Female,Knee Pain,Osteoarthritis,Acute,Severe,115,Takradhara,Worsened,Stressful,Vamana
+23,Male,Skin Problems,Psoriasis,Acute,Severe,210,Janu Basti,Worsened,Sedentary,Janu Basti
+31,Female,Low BP,Hypotension,Acute,Mild,168,Vamana,No Change,Stressful,Abhyanga
+54,Male,High Sugar,Diabetes Mellitus,Acute,Mild,279,Abhyanga,Improved,Stressful,Vamana
+66,Male,Acidity,Gastritis,Acute,Severe,71,Kati Basti,Worsened,Sedentary,Kati Basti
+32,Female,Weight Gain,Obesity,Acute,Severe,41,Vamana,Improved,Active,Udvartana
+41,Male,Low Mood,Depression,Acute,Mild,335,Vamana,Improved,Stressful,Shirodhara
+55,Male,Headache,Migraine Disorder,Acute,Moderate,239,Nasya,Improved,Active,Nasya
+18,Female,Acidity,Gastritis,Acute,Mild,197,Shirodhara,No Change,Active,Nasya
+23,Male,Breathing Issue,Asthma,Chronic,Mild,248,Nasya,No Change,Active,Shirodhara
+43,Female,Stress,Anxiety,Acute,Mild,44,Shirodhara,Worsened,Stressful,Vamana
+61,Male,Weight Gain,Obesity,Chronic,Mild,112,Abhyanga,No Change,Stressful,Udvartana
+32,Female,Back Pain,Spondylitis,Acute,Severe,181,Shirodhara,Worsened,Stressful,Nasya
+32,Female,Stress,Anxiety,Chronic,Severe,340,Nasya,Improved,Stressful,Shirodhara
+46,Female,Stress,Anxiety,Chronic,Moderate,34,Abhyanga,No Change,Sedentary,Shirodhara
+37,Male,Stress,Anxiety,Acute,Moderate,259,Udvartana,Worsened,Sedentary,Janu Basti
+74,Male,Low BP,Hypotension,Acute,Severe,204,Udvartana,No Change,Sedentary,Janu Basti
+60,Female,Breathing Issue,Asthma,Acute,Mild,142,Virechana,No Change,Active,Nasya
+58,Female,Stress,Anxiety,Acute,Severe,321,Abhyanga,No Change,Active,Virechana
+57,Female,Breathing Issue,Asthma,Acute,Moderate,299,Shirodhara,No Change,Sedentary,Abhyanga
+41,Male,Stress,Anxiety,Chronic,Moderate,36,Takradhara,Improved,Sedentary,Shirodhara
+49,Female,Headache,Migraine Disorder,Chronic,Severe,310,Nasya,No Change,Sedentary,Nasya
+42,Male,Fatigue,Chronic Fatigue,Chronic,Mild,278,Vamana,Worsened,Stressful,Abhyanga
+42,Female,Back Pain,Spondylitis,Chronic,Mild,358,Shirodhara,No Change,Stressful,Shirodhara
+62,Female,Weight Gain,Obesity,Acute,Mild,18,Janu Basti,Worsened,Active,Janu Basti
+41,Female,Joint Pain,Arthritis,Acute,Severe,315,Abhyanga,Worsened,Active,Abhyanga
+30,Male,Headache,Migraine Disorder,Acute,Severe,299,Shirodhara,No Change,Stressful,Kati Basti
+70,Male,Knee Pain,Osteoarthritis,Chronic,Moderate,353,Janu Basti,No Change,Stressful,Abhyanga
+75,Male,Low BP,Hypotension,Acute,Mild,23,Virechana,No Change,Sedentary,Shirodhara
+41,Female,Knee Pain,Osteoarthritis,Acute,Moderate,59,Virechana,No Change,Active,Takradhara
+58,Female,High BP,Hypertension,Acute,Mild,187,Shirodhara,Worsened,Active,Vamana
+68,Female,Acidity,Gastritis,Chronic,Mild,298,Virechana,No Change,Active,Abhyanga
+29,Female,Low Mood,Depression,Chronic,Moderate,316,Shirodhara,Worsened,Stressful,Abhyanga
+75,Female,Breathing Issue,Asthma,Acute,Severe,254,Virechana,No Change,Sedentary,Nasya
+36,Female,Knee Pain,Osteoarthritis,Chronic,Mild,122,Udvartana,Improved,Stressful,Janu Basti
+43,Female,Low Mood,Depression,Acute,Moderate,166,Shirodhara,Improved,Active,Shirodhara
+28,Female,Skin Problems,Psoriasis,Acute,Severe,105,Abhyanga,Worsened,Sedentary,Nasya
+49,Male,Stress,Anxiety,Chronic,Severe,253,Vamana,Improved,Sedentary,Shirodhara
+73,Male,Stress,Anxiety,Chronic,Moderate,122,Kati Basti,No Change,Active,Nasya
+62,Male,Low BP,Hypotension,Chronic,Severe,31,Takradhara,Improved,Active,Abhyanga
+22,Female,Back Pain,Spondylitis,Chronic,Moderate,112,Shirodhara,Worsened,Sedentary,Abhyanga
+47,Male,Skin Problems,Psoriasis,Chronic,Severe,199,Shirodhara,No Change,Sedentary,Virechana
+55,Female,Joint Pain,Arthritis,Chronic,Severe,136,Kati Basti,Worsened,Active,Basti
+42,Female,Acidity,Gastritis,Chronic,Moderate,315,Udvartana,Improved,Sedentary,Virechana
+35,Male,High BP,Hypertension,Chronic,Moderate,122,Shirodhara,No Change,Active,Nasya
+66,Male,Joint Pain,Arthritis,Acute,Severe,114,Basti,Improved,Stressful,Basti
+24,Male,Fatigue,Chronic Fatigue,Acute,Severe,124,Nasya,Worsened,Stressful,Shirodhara
+51,Male,Skin Problems,Psoriasis,Acute,Moderate,293,Udvartana,Improved,Stressful,Virechana
+65,Male,Skin Problems,Psoriasis,Acute,Severe,85,Takradhara,Worsened,Active,Abhyanga
+28,Male,Low Mood,Depression,Acute,Severe,274,Abhyanga,Worsened,Stressful,Nasya
+41,Male,High Sugar,Diabetes Mellitus,Acute,Mild,325,Nasya,Improved,Sedentary,Vamana
+18,Female,Breathing Issue,Asthma,Chronic,Severe,129,Nasya,Worsened,Sedentary,Nasya
+47,Male,Low Mood,Depression,Chronic,Severe,206,Takradhara,Worsened,Stressful,Shirodhara
+49,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,328,Abhyanga,No Change,Sedentary,Vamana
+26,Male,Headache,Migraine Disorder,Acute,Mild,164,Vamana,Improved,Active,Nasya
+42,Male,Low Mood,Depression,Chronic,Mild,261,Vamana,No Change,Stressful,Janu Basti
+46,Male,Low BP,Hypotension,Acute,Severe,81,Abhyanga,Worsened,Stressful,Nasya
+43,Female,Low BP,Hypotension,Acute,Moderate,200,Abhyanga,No Change,Stressful,Shirodhara
+66,Male,Headache,Migraine Disorder,Chronic,Mild,15,Shirodhara,Worsened,Active,Nasya
+54,Male,Breathing Issue,Asthma,Chronic,Mild,158,Basti,Worsened,Sedentary,Basti
+52,Female,Fatigue,Chronic Fatigue,Acute,Moderate,261,Virechana,Improved,Sedentary,Abhyanga
+56,Female,Headache,Migraine Disorder,Acute,Severe,223,Kati Basti,Improved,Sedentary,Nasya
+55,Male,Low Mood,Depression,Acute,Severe,317,Janu Basti,No Change,Stressful,Virechana
+31,Male,High BP,Hypertension,Chronic,Mild,306,Shirodhara,No Change,Sedentary,Abhyanga
+40,Male,Weight Gain,Obesity,Acute,Moderate,25,Janu Basti,Worsened,Active,Shirodhara
+66,Female,Low BP,Hypotension,Acute,Mild,26,Takradhara,No Change,Stressful,Nasya
+39,Male,Low Mood,Depression,Chronic,Moderate,254,Virechana,No Change,Active,Udvartana
+26,Female,Weight Gain,Obesity,Acute,Moderate,263,Janu Basti,Worsened,Active,Nasya
+64,Female,High Sugar,Diabetes Mellitus,Acute,Mild,4,Kati Basti,No Change,Sedentary,Abhyanga
+70,Male,Fatigue,Chronic Fatigue,Acute,Mild,149,Vamana,Improved,Sedentary,Abhyanga
+18,Male,Breathing Issue,Asthma,Acute,Moderate,45,Abhyanga,No Change,Stressful,Udvartana
+66,Female,Knee Pain,Osteoarthritis,Acute,Mild,218,Udvartana,Worsened,Sedentary,Nasya
+44,Male,Breathing Issue,Asthma,Acute,Moderate,184,Shirodhara,No Change,Sedentary,Virechana
+41,Male,Knee Pain,Osteoarthritis,Chronic,Severe,39,Basti,Worsened,Sedentary,Janu Basti
+64,Female,Acidity,Gastritis,Acute,Mild,30,Shirodhara,Worsened,Stressful,Virechana
+22,Male,High BP,Hypertension,Acute,Severe,252,Takradhara,Improved,Stressful,Takradhara
+21,Female,Low Mood,Depression,Chronic,Mild,365,Shirodhara,Worsened,Sedentary,Udvartana
+42,Male,Headache,Migraine Disorder,Acute,Moderate,168,Virechana,Improved,Stressful,Nasya
+61,Female,Headache,Migraine Disorder,Chronic,Moderate,124,Kati Basti,Worsened,Active,Shirodhara
+55,Female,Fatigue,Chronic Fatigue,Chronic,Moderate,355,Abhyanga,Worsened,Active,Takradhara
+72,Female,Low Mood,Depression,Acute,Severe,206,Shirodhara,Improved,Active,Shirodhara
+68,Male,Stress,Anxiety,Chronic,Severe,156,Shirodhara,Improved,Active,Shirodhara
+32,Female,Weight Gain,Obesity,Acute,Mild,306,Nasya,Worsened,Active,Takradhara
+40,Male,High Sugar,Diabetes Mellitus,Acute,Severe,241,Takradhara,Worsened,Sedentary,Shirodhara
+72,Female,Knee Pain,Osteoarthritis,Chronic,Severe,350,Nasya,Worsened,Sedentary,Janu Basti
+70,Male,High BP,Hypertension,Acute,Moderate,175,Nasya,No Change,Stressful,Janu Basti
+57,Female,Stress,Anxiety,Acute,Severe,23,Basti,No Change,Active,Kati Basti
+61,Female,Headache,Migraine Disorder,Acute,Moderate,301,Udvartana,Improved,Stressful,Nasya
+26,Male,Stress,Anxiety,Chronic,Severe,8,Janu Basti,Worsened,Active,Shirodhara
+26,Male,Back Pain,Spondylitis,Acute,Moderate,158,Nasya,Improved,Active,Kati Basti
+67,Female,Low BP,Hypotension,Chronic,Severe,304,Takradhara,Worsened,Sedentary,Abhyanga
+27,Male,Headache,Migraine Disorder,Acute,Moderate,277,Virechana,Worsened,Stressful,Shirodhara
+20,Male,Breathing Issue,Asthma,Acute,Moderate,162,Virechana,No Change,Stressful,Virechana
+60,Female,Weight Gain,Obesity,Acute,Moderate,227,Nasya,Worsened,Stressful,Takradhara
+71,Male,Stress,Anxiety,Chronic,Moderate,33,Virechana,Worsened,Stressful,Nasya
+74,Female,Stress,Anxiety,Chronic,Moderate,41,Abhyanga,No Change,Active,Virechana
+57,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,312,Udvartana,No Change,Active,Vamana
+69,Male,Acidity,Gastritis,Chronic,Moderate,82,Shirodhara,Worsened,Sedentary,Shirodhara
+49,Male,Acidity,Gastritis,Chronic,Moderate,342,Takradhara,Improved,Stressful,Virechana
+52,Female,Knee Pain,Osteoarthritis,Acute,Moderate,286,Kati Basti,Worsened,Active,Nasya
+47,Female,Knee Pain,Osteoarthritis,Chronic,Severe,131,Abhyanga,Improved,Sedentary,Janu Basti
+30,Female,Stress,Anxiety,Acute,Mild,278,Takradhara,No Change,Stressful,Shirodhara
+47,Female,Back Pain,Spondylitis,Chronic,Mild,160,Shirodhara,Worsened,Active,Virechana
+71,Female,Stress,Anxiety,Chronic,Moderate,204,Abhyanga,Improved,Stressful,Shirodhara
+71,Male,Fatigue,Chronic Fatigue,Acute,Severe,332,Takradhara,No Change,Active,Abhyanga
+75,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,125,Udvartana,No Change,Sedentary,Vamana
+42,Female,Back Pain,Spondylitis,Acute,Mild,76,Abhyanga,Worsened,Sedentary,Virechana
+42,Male,Knee Pain,Osteoarthritis,Acute,Severe,157,Basti,No Change,Stressful,Virechana
+35,Female,Low BP,Hypotension,Acute,Moderate,359,Nasya,No Change,Stressful,Nasya
+34,Female,Weight Gain,Obesity,Acute,Mild,318,Udvartana,Improved,Stressful,Udvartana
+32,Male,Low Mood,Depression,Chronic,Moderate,162,Basti,Worsened,Active,Kati Basti
+62,Female,Weight Gain,Obesity,Chronic,Mild,205,Basti,No Change,Active,Nasya
+63,Female,Acidity,Gastritis,Chronic,Moderate,302,Nasya,No Change,Sedentary,Vamana
+26,Female,Low BP,Hypotension,Chronic,Mild,223,Basti,Worsened,Active,Abhyanga
+41,Female,Back Pain,Spondylitis,Chronic,Moderate,233,Abhyanga,Worsened,Active,Shirodhara
+63,Male,Low BP,Hypotension,Acute,Severe,288,Shirodhara,No Change,Active,Takradhara
+75,Male,Stress,Anxiety,Acute,Severe,179,Abhyanga,Improved,Stressful,Shirodhara
+59,Female,Headache,Migraine Disorder,Acute,Severe,80,Nasya,Improved,Active,Nasya
+33,Male,Breathing Issue,Asthma,Acute,Severe,24,Shirodhara,Improved,Sedentary,Nasya
+34,Male,Back Pain,Spondylitis,Acute,Moderate,101,Virechana,Worsened,Sedentary,Basti
+45,Female,Back Pain,Spondylitis,Chronic,Severe,300,Shirodhara,Improved,Sedentary,Kati Basti
+45,Female,Low BP,Hypotension,Acute,Mild,115,Abhyanga,Worsened,Sedentary,Kati Basti
+69,Female,Low BP,Hypotension,Acute,Moderate,317,Janu Basti,Improved,Stressful,Abhyanga
+31,Female,High Sugar,Diabetes Mellitus,Acute,Severe,102,Abhyanga,Improved,Active,Vamana
+57,Male,Fatigue,Chronic Fatigue,Acute,Mild,300,Basti,No Change,Active,Abhyanga
+34,Female,Low BP,Hypotension,Acute,Severe,36,Basti,No Change,Stressful,Virechana
+27,Male,Acidity,Gastritis,Chronic,Moderate,165,Abhyanga,Worsened,Stressful,Shirodhara
+71,Female,Headache,Migraine Disorder,Chronic,Moderate,75,Shirodhara,No Change,Active,Shirodhara
+75,Male,Acidity,Gastritis,Acute,Severe,179,Nasya,Worsened,Active,Shirodhara
+59,Male,Weight Gain,Obesity,Acute,Severe,95,Kati Basti,Improved,Active,Udvartana
+39,Male,Headache,Migraine Disorder,Acute,Severe,311,Abhyanga,No Change,Active,Takradhara
+62,Female,Acidity,Gastritis,Acute,Severe,19,Abhyanga,Worsened,Active,Virechana
+70,Male,High BP,Hypertension,Acute,Moderate,271,Shirodhara,Worsened,Sedentary,Udvartana
+47,Male,Low BP,Hypotension,Acute,Mild,65,Abhyanga,No Change,Active,Kati Basti
+41,Female,Stress,Anxiety,Chronic,Moderate,227,Udvartana,Improved,Sedentary,Shirodhara
+44,Male,Acidity,Gastritis,Chronic,Moderate,328,Takradhara,Worsened,Active,Vamana
+36,Female,Knee Pain,Osteoarthritis,Acute,Severe,149,Nasya,Worsened,Stressful,Abhyanga
+74,Male,Back Pain,Spondylitis,Acute,Severe,72,Nasya,Worsened,Active,Shirodhara
+35,Female,Skin Problems,Psoriasis,Chronic,Moderate,12,Basti,Improved,Sedentary,Virechana
+49,Male,Acidity,Gastritis,Acute,Severe,139,Shirodhara,Worsened,Active,Shirodhara
+44,Female,Knee Pain,Osteoarthritis,Acute,Severe,218,Vamana,Improved,Sedentary,Janu Basti
+47,Male,Weight Gain,Obesity,Chronic,Severe,26,Vamana,No Change,Sedentary,Udvartana
+50,Male,Headache,Migraine Disorder,Chronic,Mild,270,Udvartana,No Change,Sedentary,Shirodhara
+54,Male,Stress,Anxiety,Chronic,Moderate,13,Virechana,Worsened,Sedentary,Takradhara
+73,Female,Low BP,Hypotension,Acute,Moderate,346,Virechana,Worsened,Stressful,Vamana
+18,Male,Joint Pain,Arthritis,Acute,Moderate,58,Virechana,Worsened,Sedentary,Shirodhara
+38,Female,Joint Pain,Arthritis,Acute,Moderate,300,Janu Basti,Worsened,Stressful,Vamana
+67,Female,High Sugar,Diabetes Mellitus,Chronic,Severe,298,Shirodhara,No Change,Sedentary,Vamana
+51,Male,Low BP,Hypotension,Chronic,Severe,127,Udvartana,No Change,Active,Abhyanga
+52,Male,High Sugar,Diabetes Mellitus,Acute,Severe,322,Janu Basti,No Change,Sedentary,Shirodhara
+19,Male,Knee Pain,Osteoarthritis,Chronic,Severe,148,Takradhara,No Change,Stressful,Janu Basti
+27,Female,Low Mood,Depression,Acute,Severe,349,Basti,No Change,Stressful,Shirodhara
+25,Male,Fatigue,Chronic Fatigue,Chronic,Severe,10,Shirodhara,Improved,Stressful,Abhyanga
+75,Female,Stress,Anxiety,Acute,Mild,188,Nasya,No Change,Stressful,Virechana
+67,Female,Weight Gain,Obesity,Chronic,Moderate,166,Virechana,Improved,Stressful,Udvartana
+36,Female,Back Pain,Spondylitis,Acute,Severe,175,Virechana,Improved,Active,Kati Basti
+71,Male,Low Mood,Depression,Chronic,Mild,125,Nasya,Worsened,Active,Takradhara
+66,Female,Skin Problems,Psoriasis,Acute,Mild,152,Virechana,Improved,Sedentary,Virechana
+22,Male,Weight Gain,Obesity,Acute,Severe,181,Basti,Worsened,Sedentary,Takradhara
+69,Female,Back Pain,Spondylitis,Acute,Mild,15,Abhyanga,Worsened,Active,Vamana
+43,Male,Back Pain,Spondylitis,Chronic,Severe,83,Nasya,Improved,Active,Kati Basti
+48,Male,Headache,Migraine Disorder,Acute,Mild,232,Nasya,Worsened,Stressful,Shirodhara
+55,Female,Acidity,Gastritis,Chronic,Mild,92,Abhyanga,No Change,Stressful,Virechana
+27,Female,Back Pain,Spondylitis,Acute,Mild,295,Basti,Worsened,Stressful,Udvartana
+60,Male,Back Pain,Spondylitis,Acute,Mild,240,Nasya,Improved,Stressful,Kati Basti
+65,Female,Acidity,Gastritis,Acute,Severe,268,Nasya,No Change,Sedentary,Nasya
+22,Male,Low Mood,Depression,Acute,Severe,185,Basti,No Change,Active,Kati Basti
+48,Female,Joint Pain,Arthritis,Acute,Moderate,328,Janu Basti,Improved,Active,Basti
+58,Female,Acidity,Gastritis,Acute,Moderate,314,Shirodhara,Worsened,Active,Shirodhara
+27,Male,Low Mood,Depression,Chronic,Severe,176,Kati Basti,Improved,Sedentary,Shirodhara
+28,Male,Skin Problems,Psoriasis,Chronic,Moderate,256,Basti,Improved,Stressful,Virechana
+33,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,36,Virechana,Improved,Active,Janu Basti
+35,Male,Breathing Issue,Asthma,Acute,Moderate,315,Janu Basti,Improved,Stressful,Nasya
+40,Male,Fatigue,Chronic Fatigue,Acute,Mild,313,Janu Basti,Worsened,Active,Basti
+24,Male,Back Pain,Spondylitis,Acute,Mild,6,Kati Basti,Improved,Stressful,Kati Basti
+48,Female,Breathing Issue,Asthma,Acute,Mild,180,Udvartana,Worsened,Active,Shirodhara
+68,Female,Weight Gain,Obesity,Acute,Severe,85,Udvartana,Worsened,Stressful,Abhyanga
+34,Male,Stress,Anxiety,Chronic,Moderate,8,Virechana,Worsened,Stressful,Virechana
+59,Female,Stress,Anxiety,Chronic,Severe,328,Virechana,No Change,Sedentary,Shirodhara
+59,Male,Stress,Anxiety,Acute,Moderate,109,Takradhara,Improved,Stressful,Shirodhara
+74,Male,Weight Gain,Obesity,Acute,Severe,67,Udvartana,Improved,Stressful,Udvartana
+74,Male,Breathing Issue,Asthma,Chronic,Mild,202,Abhyanga,Improved,Active,Nasya
+70,Male,Breathing Issue,Asthma,Acute,Severe,233,Shirodhara,Worsened,Active,Kati Basti
+47,Male,Joint Pain,Arthritis,Chronic,Moderate,117,Nasya,Worsened,Stressful,Vamana
+44,Female,High BP,Hypertension,Chronic,Mild,161,Abhyanga,No Change,Active,Vamana
+63,Male,Acidity,Gastritis,Acute,Severe,34,Takradhara,Worsened,Sedentary,Virechana
+51,Female,Headache,Migraine Disorder,Chronic,Severe,307,Basti,Worsened,Sedentary,Nasya
+46,Female,Low Mood,Depression,Chronic,Severe,159,Virechana,No Change,Stressful,Shirodhara
+20,Female,Weight Gain,Obesity,Chronic,Severe,130,Udvartana,Improved,Active,Udvartana
+33,Female,Knee Pain,Osteoarthritis,Acute,Mild,323,Abhyanga,Worsened,Active,Kati Basti
+51,Male,Joint Pain,Arthritis,Chronic,Severe,214,Shirodhara,Worsened,Sedentary,Basti
+34,Female,Acidity,Gastritis,Chronic,Mild,90,Abhyanga,No Change,Stressful,Abhyanga
+46,Male,Weight Gain,Obesity,Chronic,Mild,237,Virechana,No Change,Sedentary,Virechana
+66,Female,Acidity,Gastritis,Chronic,Severe,180,Abhyanga,No Change,Sedentary,Virechana
+43,Female,Acidity,Gastritis,Acute,Moderate,157,Udvartana,Worsened,Active,Janu Basti
+62,Female,Back Pain,Spondylitis,Chronic,Mild,59,Abhyanga,Improved,Sedentary,Kati Basti
+73,Female,Low BP,Hypotension,Acute,Moderate,96,Shirodhara,No Change,Active,Shirodhara
+71,Male,Headache,Migraine Disorder,Acute,Mild,113,Kati Basti,No Change,Stressful,Abhyanga
+68,Female,Headache,Migraine Disorder,Acute,Mild,259,Nasya,Improved,Active,Nasya
+21,Male,High BP,Hypertension,Chronic,Moderate,140,Virechana,Worsened,Sedentary,Shirodhara
+46,Male,Low BP,Hypotension,Chronic,Mild,338,Basti,No Change,Stressful,Kati Basti
+53,Male,Weight Gain,Obesity,Acute,Mild,237,Udvartana,Worsened,Sedentary,Nasya
+29,Male,High BP,Hypertension,Chronic,Severe,89,Takradhara,Worsened,Stressful,Takradhara
+73,Female,Weight Gain,Obesity,Chronic,Mild,304,Kati Basti,Improved,Stressful,Udvartana
+61,Male,Weight Gain,Obesity,Chronic,Severe,201,Janu Basti,No Change,Stressful,Udvartana
+71,Male,High Sugar,Diabetes Mellitus,Chronic,Moderate,220,Shirodhara,Worsened,Stressful,Nasya
+48,Male,Breathing Issue,Asthma,Chronic,Moderate,61,Janu Basti,No Change,Active,Takradhara
+54,Female,Stress,Anxiety,Acute,Mild,68,Virechana,No Change,Active,Udvartana
+33,Female,High BP,Hypertension,Acute,Moderate,89,Udvartana,Worsened,Sedentary,Basti
+56,Male,Low Mood,Depression,Chronic,Moderate,60,Shirodhara,No Change,Sedentary,Udvartana
+31,Male,High BP,Hypertension,Acute,Severe,342,Janu Basti,Improved,Stressful,Takradhara
+68,Female,Low BP,Hypotension,Acute,Severe,277,Basti,No Change,Stressful,Shirodhara
+69,Male,Acidity,Gastritis,Acute,Severe,179,Nasya,Improved,Sedentary,Virechana
+38,Female,Weight Gain,Obesity,Acute,Severe,119,Kati Basti,No Change,Stressful,Takradhara
+51,Male,Stress,Anxiety,Chronic,Severe,165,Abhyanga,Worsened,Sedentary,Shirodhara
+55,Female,Back Pain,Spondylitis,Chronic,Severe,219,Shirodhara,Improved,Stressful,Kati Basti
+42,Male,Joint Pain,Arthritis,Chronic,Moderate,332,Nasya,Improved,Active,Basti
+18,Male,High Sugar,Diabetes Mellitus,Acute,Mild,283,Shirodhara,Improved,Sedentary,Vamana
+29,Male,Back Pain,Spondylitis,Chronic,Moderate,346,Abhyanga,Worsened,Sedentary,Abhyanga
+72,Female,Back Pain,Spondylitis,Acute,Moderate,245,Virechana,Worsened,Active,Janu Basti
+28,Female,Back Pain,Spondylitis,Chronic,Mild,31,Shirodhara,No Change,Stressful,Shirodhara
+29,Male,Fatigue,Chronic Fatigue,Chronic,Severe,228,Janu Basti,No Change,Stressful,Abhyanga
+21,Male,Fatigue,Chronic Fatigue,Chronic,Moderate,115,Virechana,Worsened,Active,Abhyanga
+45,Male,High Sugar,Diabetes Mellitus,Acute,Severe,104,Kati Basti,No Change,Active,Basti
+31,Male,Weight Gain,Obesity,Chronic,Mild,42,Shirodhara,No Change,Sedentary,Shirodhara
+39,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,256,Takradhara,Worsened,Active,Vamana
+28,Female,Skin Problems,Psoriasis,Acute,Severe,145,Nasya,Worsened,Active,Virechana
+39,Male,Low BP,Hypotension,Chronic,Mild,219,Abhyanga,Worsened,Sedentary,Udvartana
+42,Female,Back Pain,Spondylitis,Acute,Mild,58,Basti,Worsened,Active,Takradhara
+56,Male,Breathing Issue,Asthma,Acute,Moderate,339,Virechana,No Change,Active,Shirodhara
+30,Female,High Sugar,Diabetes Mellitus,Chronic,Severe,318,Abhyanga,Improved,Active,Vamana
+30,Male,Skin Problems,Psoriasis,Acute,Severe,314,Vamana,Worsened,Active,Abhyanga
+27,Male,Low Mood,Depression,Acute,Moderate,295,Virechana,No Change,Active,Abhyanga
+55,Male,Acidity,Gastritis,Chronic,Severe,240,Shirodhara,No Change,Stressful,Virechana
+55,Male,Stress,Anxiety,Acute,Moderate,153,Basti,Worsened,Active,Kati Basti
+55,Female,Breathing Issue,Asthma,Chronic,Mild,259,Nasya,Improved,Stressful,Nasya
+27,Male,Back Pain,Spondylitis,Acute,Moderate,46,Kati Basti,Improved,Stressful,Kati Basti
+33,Male,Breathing Issue,Asthma,Acute,Severe,78,Basti,Improved,Active,Nasya
+43,Male,High Sugar,Diabetes Mellitus,Acute,Moderate,271,Shirodhara,Improved,Active,Vamana
+39,Female,Stress,Anxiety,Acute,Moderate,115,Abhyanga,No Change,Sedentary,Udvartana
+59,Male,High BP,Hypertension,Acute,Moderate,114,Takradhara,Worsened,Sedentary,Takradhara
+33,Male,High BP,Hypertension,Chronic,Severe,358,Nasya,Worsened,Active,Takradhara
+35,Female,Breathing Issue,Asthma,Chronic,Severe,257,Kati Basti,Improved,Active,Nasya
+35,Female,Low Mood,Depression,Acute,Moderate,149,Nasya,Worsened,Sedentary,Shirodhara
+59,Female,Acidity,Gastritis,Acute,Severe,29,Basti,Improved,Stressful,Virechana
+24,Male,Knee Pain,Osteoarthritis,Acute,Severe,198,Vamana,Worsened,Active,Abhyanga
+69,Female,Skin Problems,Psoriasis,Chronic,Moderate,338,Nasya,No Change,Active,Abhyanga
+48,Female,Knee Pain,Osteoarthritis,Acute,Severe,103,Shirodhara,No Change,Active,Nasya
+24,Male,Low Mood,Depression,Chronic,Severe,87,Virechana,Improved,Active,Shirodhara
+24,Female,Fatigue,Chronic Fatigue,Acute,Moderate,232,Udvartana,No Change,Sedentary,Shirodhara
+50,Female,High BP,Hypertension,Chronic,Severe,233,Kati Basti,No Change,Stressful,Takradhara
+40,Female,Back Pain,Spondylitis,Acute,Mild,200,Nasya,No Change,Stressful,Shirodhara
+32,Male,Breathing Issue,Asthma,Chronic,Moderate,12,Takradhara,No Change,Stressful,Virechana
+69,Male,Fatigue,Chronic Fatigue,Acute,Severe,362,Virechana,Improved,Stressful,Abhyanga
+75,Male,Weight Gain,Obesity,Chronic,Mild,314,Shirodhara,Improved,Sedentary,Udvartana
+65,Male,High Sugar,Diabetes Mellitus,Acute,Severe,357,Janu Basti,Worsened,Sedentary,Vamana
+69,Female,Acidity,Gastritis,Acute,Moderate,245,Udvartana,Worsened,Active,Nasya
+24,Male,Low BP,Hypotension,Chronic,Severe,329,Virechana,Improved,Sedentary,Abhyanga
+30,Male,Headache,Migraine Disorder,Chronic,Severe,79,Shirodhara,Improved,Stressful,Nasya
+22,Male,High Sugar,Diabetes Mellitus,Acute,Moderate,341,Shirodhara,No Change,Active,Kati Basti
+56,Female,Stress,Anxiety,Chronic,Severe,66,Takradhara,Worsened,Stressful,Shirodhara
+47,Female,Acidity,Gastritis,Chronic,Mild,271,Vamana,Worsened,Sedentary,Takradhara
+64,Female,Acidity,Gastritis,Chronic,Moderate,31,Virechana,Worsened,Active,Abhyanga
+67,Male,Low Mood,Depression,Acute,Severe,65,Nasya,Worsened,Active,Vamana
+57,Male,Low BP,Hypotension,Acute,Severe,30,Vamana,Worsened,Sedentary,Vamana
+19,Male,Low Mood,Depression,Acute,Moderate,3,Abhyanga,No Change,Active,Takradhara
+61,Male,Stress,Anxiety,Chronic,Severe,182,Abhyanga,Worsened,Active,Shirodhara
+47,Female,Joint Pain,Arthritis,Acute,Moderate,161,Kati Basti,No Change,Stressful,Abhyanga
+25,Female,Acidity,Gastritis,Acute,Mild,113,Basti,No Change,Sedentary,Udvartana
+63,Male,Acidity,Gastritis,Chronic,Mild,358,Basti,Improved,Active,Virechana
+53,Male,Knee Pain,Osteoarthritis,Chronic,Severe,109,Vamana,Improved,Active,Janu Basti
+20,Female,High BP,Hypertension,Acute,Mild,331,Abhyanga,No Change,Active,Kati Basti
+41,Female,Back Pain,Spondylitis,Acute,Moderate,291,Janu Basti,Worsened,Stressful,Vamana
+22,Female,Low BP,Hypotension,Acute,Moderate,192,Abhyanga,No Change,Stressful,Shirodhara
+67,Female,Weight Gain,Obesity,Chronic,Mild,290,Kati Basti,Improved,Sedentary,Udvartana
+22,Female,Knee Pain,Osteoarthritis,Acute,Severe,42,Abhyanga,No Change,Active,Virechana
+34,Male,High BP,Hypertension,Acute,Mild,102,Shirodhara,Worsened,Stressful,Virechana
+60,Male,Joint Pain,Arthritis,Chronic,Moderate,185,Shirodhara,Improved,Active,Basti
+33,Female,Breathing Issue,Asthma,Acute,Severe,341,Basti,Improved,Sedentary,Nasya
+27,Female,Knee Pain,Osteoarthritis,Acute,Mild,179,Shirodhara,Improved,Stressful,Janu Basti
+41,Male,Fatigue,Chronic Fatigue,Chronic,Severe,113,Abhyanga,Improved,Sedentary,Abhyanga
+75,Male,Back Pain,Spondylitis,Acute,Moderate,351,Takradhara,No Change,Sedentary,Udvartana
+41,Male,Acidity,Gastritis,Chronic,Mild,70,Nasya,Worsened,Sedentary,Shirodhara
+29,Female,Joint Pain,Arthritis,Acute,Moderate,5,Nasya,Worsened,Stressful,Nasya
+64,Male,Breathing Issue,Asthma,Chronic,Severe,20,Udvartana,No Change,Sedentary,Nasya
+57,Male,Low BP,Hypotension,Chronic,Severe,271,Kati Basti,No Change,Stressful,Abhyanga
+44,Female,Stress,Anxiety,Chronic,Mild,153,Kati Basti,Improved,Stressful,Shirodhara
+41,Male,High BP,Hypertension,Acute,Mild,107,Shirodhara,Improved,Active,Takradhara
+43,Female,Skin Problems,Psoriasis,Acute,Moderate,306,Virechana,No Change,Stressful,Vamana
+38,Female,Weight Gain,Obesity,Chronic,Moderate,98,Janu Basti,Worsened,Sedentary,Nasya
+31,Female,Back Pain,Spondylitis,Acute,Moderate,266,Virechana,Worsened,Sedentary,Abhyanga
+46,Male,Low BP,Hypotension,Acute,Mild,20,Shirodhara,Improved,Stressful,Abhyanga
+49,Male,High BP,Hypertension,Chronic,Mild,111,Virechana,Improved,Active,Takradhara
+63,Female,Fatigue,Chronic Fatigue,Chronic,Mild,275,Udvartana,Worsened,Stressful,Shirodhara
+64,Female,Breathing Issue,Asthma,Acute,Severe,153,Virechana,Worsened,Sedentary,Nasya
+29,Female,Back Pain,Spondylitis,Acute,Mild,237,Vamana,Improved,Active,Kati Basti
+66,Male,Weight Gain,Obesity,Acute,Mild,133,Takradhara,Worsened,Sedentary,Shirodhara
+49,Female,Stress,Anxiety,Chronic,Severe,62,Takradhara,Worsened,Stressful,Shirodhara
+28,Male,Headache,Migraine Disorder,Chronic,Mild,327,Abhyanga,Worsened,Stressful,Abhyanga
+31,Female,High Sugar,Diabetes Mellitus,Acute,Moderate,116,Takradhara,Improved,Active,Vamana
+50,Male,Knee Pain,Osteoarthritis,Chronic,Severe,195,Nasya,Worsened,Sedentary,Janu Basti
+70,Female,High Sugar,Diabetes Mellitus,Acute,Severe,8,Kati Basti,Worsened,Stressful,Basti
+32,Male,Headache,Migraine Disorder,Acute,Moderate,335,Virechana,Improved,Stressful,Nasya
+49,Male,High Sugar,Diabetes Mellitus,Acute,Severe,6,Abhyanga,Worsened,Active,Virechana
+55,Female,Headache,Migraine Disorder,Acute,Moderate,111,Janu Basti,No Change,Stressful,Vamana
+38,Male,Breathing Issue,Asthma,Acute,Mild,197,Udvartana,Improved,Stressful,Nasya
+21,Female,Knee Pain,Osteoarthritis,Acute,Moderate,43,Kati Basti,Worsened,Stressful,Nasya
+43,Female,Weight Gain,Obesity,Acute,Mild,305,Shirodhara,No Change,Stressful,Nasya
+26,Female,Stress,Anxiety,Acute,Severe,171,Nasya,No Change,Sedentary,Udvartana
+37,Female,Acidity,Gastritis,Acute,Severe,5,Virechana,Worsened,Stressful,Kati Basti
+24,Female,Back Pain,Spondylitis,Acute,Mild,320,Nasya,Improved,Sedentary,Kati Basti
+58,Male,Weight Gain,Obesity,Chronic,Mild,320,Basti,Worsened,Stressful,Kati Basti
+25,Female,High BP,Hypertension,Acute,Mild,48,Virechana,Improved,Sedentary,Takradhara
+52,Female,Headache,Migraine Disorder,Chronic,Severe,204,Abhyanga,Worsened,Stressful,Nasya
+74,Male,Skin Problems,Psoriasis,Acute,Mild,71,Shirodhara,No Change,Stressful,Basti
+45,Female,High BP,Hypertension,Chronic,Moderate,318,Basti,Improved,Stressful,Takradhara
+43,Male,Fatigue,Chronic Fatigue,Acute,Moderate,311,Abhyanga,No Change,Stressful,Kati Basti
+71,Male,Knee Pain,Osteoarthritis,Chronic,Moderate,182,Kati Basti,Worsened,Active,Shirodhara
+25,Male,Low BP,Hypotension,Chronic,Moderate,147,Virechana,Worsened,Stressful,Basti
+61,Male,Breathing Issue,Asthma,Acute,Moderate,346,Takradhara,No Change,Sedentary,Abhyanga
+36,Male,Low BP,Hypotension,Chronic,Moderate,292,Abhyanga,Worsened,Stressful,Abhyanga
+45,Male,Acidity,Gastritis,Chronic,Moderate,163,Vamana,Improved,Stressful,Virechana
+43,Female,High BP,Hypertension,Acute,Mild,106,Virechana,Improved,Active,Takradhara
+34,Male,Stress,Anxiety,Chronic,Moderate,249,Janu Basti,No Change,Sedentary,Abhyanga
+64,Female,Low BP,Hypotension,Chronic,Mild,175,Shirodhara,Improved,Stressful,Abhyanga
+72,Female,Breathing Issue,Asthma,Chronic,Mild,287,Vamana,Worsened,Stressful,Virechana
+40,Male,Breathing Issue,Asthma,Acute,Severe,243,Abhyanga,Worsened,Sedentary,Udvartana
+46,Male,Skin Problems,Psoriasis,Acute,Severe,332,Udvartana,Worsened,Active,Nasya
+65,Male,Acidity,Gastritis,Chronic,Mild,148,Abhyanga,Improved,Active,Virechana
+44,Female,Skin Problems,Psoriasis,Chronic,Severe,258,Virechana,Worsened,Active,Virechana
+20,Female,High BP,Hypertension,Chronic,Moderate,64,Shirodhara,Worsened,Active,Janu Basti
+62,Female,Fatigue,Chronic Fatigue,Chronic,Mild,176,Janu Basti,Worsened,Stressful,Shirodhara
+43,Female,High BP,Hypertension,Acute,Mild,227,Udvartana,No Change,Stressful,Virechana
+24,Male,High Sugar,Diabetes Mellitus,Chronic,Mild,334,Abhyanga,Improved,Sedentary,Vamana
+43,Male,Low Mood,Depression,Acute,Mild,278,Nasya,Improved,Stressful,Shirodhara
+40,Female,Breathing Issue,Asthma,Chronic,Moderate,263,Basti,Worsened,Stressful,Nasya
+30,Male,Breathing Issue,Asthma,Acute,Moderate,247,Abhyanga,Improved,Active,Nasya
+34,Female,High Sugar,Diabetes Mellitus,Acute,Mild,269,Abhyanga,Improved,Active,Vamana
+63,Female,Acidity,Gastritis,Acute,Moderate,344,Nasya,Improved,Sedentary,Virechana
+19,Female,Breathing Issue,Asthma,Acute,Moderate,340,Basti,No Change,Stressful,Basti
+61,Male,High BP,Hypertension,Acute,Severe,101,Kati Basti,Worsened,Active,Abhyanga
+43,Male,Joint Pain,Arthritis,Chronic,Mild,279,Janu Basti,Worsened,Active,Janu Basti
+57,Female,Breathing Issue,Asthma,Chronic,Mild,337,Janu Basti,No Change,Sedentary,Virechana
+26,Female,Joint Pain,Arthritis,Chronic,Mild,315,Virechana,No Change,Active,Nasya
+71,Female,Breathing Issue,Asthma,Acute,Severe,278,Nasya,Worsened,Active,Abhyanga
+50,Female,Knee Pain,Osteoarthritis,Chronic,Mild,4,Nasya,Worsened,Stressful,Udvartana
+47,Male,Low Mood,Depression,Acute,Mild,290,Udvartana,Improved,Stressful,Shirodhara
+75,Male,Low Mood,Depression,Chronic,Severe,361,Virechana,Improved,Active,Shirodhara
+37,Female,High BP,Hypertension,Acute,Moderate,118,Shirodhara,Improved,Active,Takradhara
+47,Female,Breathing Issue,Asthma,Chronic,Mild,200,Takradhara,Improved,Stressful,Nasya
+42,Male,Headache,Migraine Disorder,Chronic,Moderate,112,Udvartana,Improved,Active,Nasya
+53,Female,High Sugar,Diabetes Mellitus,Acute,Severe,334,Kati Basti,No Change,Sedentary,Virechana
+36,Female,Fatigue,Chronic Fatigue,Acute,Moderate,155,Basti,Improved,Stressful,Abhyanga
+72,Female,Low Mood,Depression,Chronic,Severe,289,Abhyanga,Worsened,Stressful,Shirodhara
+61,Male,Stress,Anxiety,Acute,Mild,284,Kati Basti,No Change,Active,Vamana
+75,Male,High Sugar,Diabetes Mellitus,Chronic,Moderate,152,Kati Basti,Improved,Stressful,Vamana
+21,Female,Knee Pain,Osteoarthritis,Chronic,Severe,219,Nasya,Worsened,Stressful,Janu Basti
+47,Male,Low Mood,Depression,Acute,Severe,198,Udvartana,Improved,Sedentary,Shirodhara
+57,Male,Acidity,Gastritis,Chronic,Severe,102,Shirodhara,Worsened,Sedentary,Virechana
+53,Female,Knee Pain,Osteoarthritis,Chronic,Severe,60,Kati Basti,Improved,Stressful,Janu Basti
+24,Female,Knee Pain,Osteoarthritis,Chronic,Severe,234,Udvartana,Worsened,Sedentary,Janu Basti
+70,Female,Breathing Issue,Asthma,Acute,Severe,311,Shirodhara,Improved,Active,Nasya
+29,Male,Fatigue,Chronic Fatigue,Acute,Severe,40,Virechana,Worsened,Sedentary,Nasya
+27,Female,Acidity,Gastritis,Acute,Severe,297,Abhyanga,Worsened,Stressful,Kati Basti
+54,Female,Low Mood,Depression,Acute,Severe,328,Nasya,No Change,Active,Virechana
+21,Male,Fatigue,Chronic Fatigue,Acute,Mild,221,Abhyanga,Improved,Active,Abhyanga
+69,Female,High BP,Hypertension,Chronic,Moderate,4,Vamana,No Change,Sedentary,Janu Basti
+43,Male,Weight Gain,Obesity,Acute,Moderate,85,Basti,No Change,Active,Shirodhara
+35,Male,Low BP,Hypotension,Acute,Severe,365,Nasya,Worsened,Active,Takradhara
+45,Male,Knee Pain,Osteoarthritis,Chronic,Mild,253,Virechana,Improved,Stressful,Janu Basti
+45,Female,Headache,Migraine Disorder,Acute,Mild,265,Nasya,No Change,Stressful,Basti
+23,Male,Back Pain,Spondylitis,Chronic,Severe,289,Udvartana,Improved,Stressful,Kati Basti
+23,Male,Knee Pain,Osteoarthritis,Acute,Moderate,100,Shirodhara,No Change,Stressful,Basti
+47,Female,Fatigue,Chronic Fatigue,Chronic,Moderate,190,Takradhara,Worsened,Sedentary,Basti
+21,Female,Low Mood,Depression,Chronic,Moderate,289,Nasya,Improved,Stressful,Shirodhara
+35,Female,Skin Problems,Psoriasis,Chronic,Severe,150,Shirodhara,Worsened,Sedentary,Virechana
+65,Female,Headache,Migraine Disorder,Acute,Moderate,250,Abhyanga,No Change,Sedentary,Abhyanga
+24,Male,High BP,Hypertension,Acute,Severe,150,Virechana,No Change,Stressful,Abhyanga
+22,Female,Stress,Anxiety,Chronic,Severe,97,Nasya,Worsened,Sedentary,Shirodhara
+40,Female,Acidity,Gastritis,Acute,Mild,21,Shirodhara,No Change,Active,Kati Basti
+25,Female,Acidity,Gastritis,Chronic,Severe,53,Abhyanga,Improved,Active,Virechana
+75,Female,Fatigue,Chronic Fatigue,Acute,Mild,350,Takradhara,Improved,Active,Abhyanga
+18,Female,Skin Problems,Psoriasis,Chronic,Mild,156,Vamana,No Change,Stressful,Shirodhara
+37,Female,Back Pain,Spondylitis,Acute,Mild,275,Shirodhara,Improved,Active,Kati Basti
+64,Male,Knee Pain,Osteoarthritis,Chronic,Mild,195,Kati Basti,Worsened,Active,Vamana
+32,Female,Breathing Issue,Asthma,Chronic,Mild,17,Virechana,No Change,Active,Virechana
+53,Male,Acidity,Gastritis,Chronic,Severe,48,Takradhara,No Change,Stressful,Virechana
+25,Female,Knee Pain,Osteoarthritis,Acute,Severe,296,Abhyanga,Improved,Stressful,Janu Basti
+49,Female,Stress,Anxiety,Acute,Mild,333,Udvartana,Worsened,Active,Nasya
+65,Female,High Sugar,Diabetes Mellitus,Chronic,Moderate,218,Virechana,Worsened,Stressful,Basti
+68,Female,Weight Gain,Obesity,Chronic,Mild,155,Janu Basti,Improved,Sedentary,Udvartana
+36,Female,Headache,Migraine Disorder,Chronic,Moderate,328,Nasya,Worsened,Stressful,Shirodhara
+32,Male,Breathing Issue,Asthma,Chronic,Mild,301,Virechana,Worsened,Active,Abhyanga
+29,Male,Breathing Issue,Asthma,Acute,Mild,70,Virechana,Worsened,Active,Takradhara
+26,Male,Weight Gain,Obesity,Acute,Mild,359,Nasya,Worsened,Sedentary,Shirodhara
+18,Female,Stress,Anxiety,Acute,Severe,265,Nasya,Improved,Sedentary,Shirodhara
+72,Male,Breathing Issue,Asthma,Acute,Mild,21,Udvartana,Improved,Stressful,Nasya
+33,Female,High BP,Hypertension,Chronic,Mild,98,Nasya,Worsened,Active,Virechana
+27,Male,Low BP,Hypotension,Chronic,Mild,5,Nasya,No Change,Sedentary,Takradhara
+29,Female,Fatigue,Chronic Fatigue,Acute,Mild,15,Udvartana,Improved,Active,Abhyanga
+44,Male,Weight Gain,Obesity,Acute,Mild,22,Takradhara,No Change,Stressful,Virechana
+25,Male,Fatigue,Chronic Fatigue,Chronic,Severe,137,Janu Basti,Worsened,Sedentary,Abhyanga
+35,Female,Weight Gain,Obesity,Chronic,Severe,203,Shirodhara,No Change,Active,Udvartana
+75,Female,High BP,Hypertension,Chronic,Mild,244,Shirodhara,Improved,Stressful,Takradhara
+42,Female,Skin Problems,Psoriasis,Acute,Mild,185,Shirodhara,Worsened,Active,Basti
+36,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,77,Basti,No Change,Stressful,Udvartana
+71,Male,Stress,Anxiety,Acute,Mild,110,Nasya,Worsened,Sedentary,Nasya
+55,Male,High Sugar,Diabetes Mellitus,Acute,Moderate,38,Nasya,Improved,Stressful,Vamana
+20,Male,Headache,Migraine Disorder,Acute,Mild,159,Basti,Worsened,Stressful,Abhyanga
+48,Male,Fatigue,Chronic Fatigue,Chronic,Moderate,361,Nasya,No Change,Stressful,Shirodhara
+28,Female,Skin Problems,Psoriasis,Acute,Moderate,263,Vamana,Improved,Sedentary,Virechana
+21,Male,High BP,Hypertension,Chronic,Moderate,115,Takradhara,Worsened,Active,Kati Basti
+42,Male,Low Mood,Depression,Acute,Mild,126,Nasya,No Change,Sedentary,Takradhara
+42,Female,High BP,Hypertension,Acute,Moderate,83,Nasya,Improved,Stressful,Takradhara
+65,Male,High BP,Hypertension,Chronic,Mild,160,Abhyanga,No Change,Stressful,Nasya
+63,Female,Back Pain,Spondylitis,Acute,Severe,134,Nasya,Improved,Sedentary,Kati Basti
+30,Female,Knee Pain,Osteoarthritis,Acute,Mild,232,Shirodhara,Improved,Stressful,Janu Basti
+28,Male,Acidity,Gastritis,Chronic,Moderate,45,Shirodhara,Improved,Active,Virechana
+72,Female,High Sugar,Diabetes Mellitus,Acute,Moderate,284,Udvartana,No Change,Active,Udvartana
+55,Male,Acidity,Gastritis,Acute,Moderate,301,Kati Basti,No Change,Active,Nasya
+36,Male,Stress,Anxiety,Chronic,Moderate,190,Abhyanga,Improved,Stressful,Shirodhara
+27,Male,Low Mood,Depression,Chronic,Moderate,346,Basti,No Change,Active,Nasya
+23,Male,Weight Gain,Obesity,Chronic,Mild,172,Shirodhara,Improved,Stressful,Udvartana
+72,Male,High Sugar,Diabetes Mellitus,Acute,Moderate,97,Abhyanga,Improved,Stressful,Vamana
+31,Male,High BP,Hypertension,Chronic,Moderate,54,Abhyanga,Improved,Stressful,Takradhara
+34,Male,Headache,Migraine Disorder,Chronic,Mild,282,Takradhara,No Change,Stressful,Abhyanga
+65,Male,High BP,Hypertension,Acute,Severe,229,Shirodhara,Worsened,Stressful,Virechana
+19,Male,Acidity,Gastritis,Chronic,Mild,286,Shirodhara,Improved,Sedentary,Virechana
+20,Female,Low BP,Hypotension,Acute,Moderate,217,Janu Basti,No Change,Sedentary,Udvartana
+66,Female,Back Pain,Spondylitis,Chronic,Severe,243,Basti,Worsened,Active,Kati Basti
+41,Male,Knee Pain,Osteoarthritis,Acute,Mild,21,Abhyanga,Improved,Active,Janu Basti
+53,Male,Knee Pain,Osteoarthritis,Acute,Mild,251,Shirodhara,Improved,Stressful,Janu Basti
+52,Female,Weight Gain,Obesity,Chronic,Severe,121,Nasya,No Change,Stressful,Udvartana
+18,Female,Headache,Migraine Disorder,Chronic,Severe,300,Nasya,Improved,Active,Nasya
+30,Female,Headache,Migraine Disorder,Chronic,Mild,145,Shirodhara,Worsened,Sedentary,Virechana
+40,Female,Low Mood,Depression,Acute,Severe,243,Abhyanga,Worsened,Active,Takradhara
+63,Male,Weight Gain,Obesity,Chronic,Mild,141,Nasya,Worsened,Active,Virechana
+47,Female,Fatigue,Chronic Fatigue,Chronic,Severe,171,Abhyanga,Worsened,Active,Abhyanga
+63,Male,Headache,Migraine Disorder,Acute,Severe,33,Virechana,Improved,Sedentary,Nasya
+73,Female,Weight Gain,Obesity,Acute,Moderate,260,Kati Basti,Worsened,Sedentary,Janu Basti
+27,Male,Joint Pain,Arthritis,Chronic,Moderate,250,Shirodhara,Worsened,Active,Vamana
+39,Female,Skin Problems,Psoriasis,Chronic,Severe,126,Abhyanga,No Change,Stressful,Virechana
+32,Female,Skin Problems,Psoriasis,Acute,Moderate,82,Shirodhara,Improved,Stressful,Virechana
+57,Male,Headache,Migraine Disorder,Acute,Severe,241,Kati Basti,Worsened,Sedentary,Shirodhara
+38,Male,Headache,Migraine Disorder,Chronic,Moderate,352,Janu Basti,Worsened,Stressful,Shirodhara
+74,Female,Back Pain,Spondylitis,Acute,Moderate,251,Abhyanga,Worsened,Sedentary,Janu Basti
+22,Female,Fatigue,Chronic Fatigue,Acute,Severe,59,Abhyanga,No Change,Sedentary,Nasya
+21,Female,Joint Pain,Arthritis,Chronic,Severe,155,Abhyanga,Worsened,Stressful,Basti
+34,Male,Back Pain,Spondylitis,Acute,Moderate,54,Nasya,Worsened,Active,Udvartana
+39,Male,Back Pain,Spondylitis,Acute,Moderate,285,Nasya,Improved,Active,Kati Basti
+74,Male,Skin Problems,Psoriasis,Chronic,Mild,361,Janu Basti,Improved,Stressful,Virechana
+37,Female,Acidity,Gastritis,Acute,Severe,338,Kati Basti,Improved,Active,Virechana
+65,Male,Skin Problems,Psoriasis,Chronic,Mild,19,Abhyanga,Worsened,Active,Janu Basti
+51,Female,Back Pain,Spondylitis,Acute,Severe,177,Virechana,Worsened,Active,Basti
+39,Male,Stress,Anxiety,Acute,Mild,267,Kati Basti,No Change,Active,Shirodhara
+50,Female,Joint Pain,Arthritis,Acute,Mild,343,Shirodhara,Improved,Stressful,Basti
+68,Female,Headache,Migraine Disorder,Chronic,Severe,148,Abhyanga,Improved,Stressful,Nasya
+57,Female,Skin Problems,Psoriasis,Chronic,Mild,215,Takradhara,Improved,Active,Virechana
+73,Female,Low Mood,Depression,Acute,Mild,337,Nasya,No Change,Active,Virechana
+49,Male,Breathing Issue,Asthma,Chronic,Moderate,361,Janu Basti,No Change,Active,Janu Basti
+18,Female,Knee Pain,Osteoarthritis,Acute,Severe,36,Nasya,Improved,Active,Janu Basti
+60,Male,Low Mood,Depression,Acute,Moderate,13,Shirodhara,Improved,Sedentary,Shirodhara
+49,Female,Breathing Issue,Asthma,Acute,Mild,89,Nasya,No Change,Sedentary,Nasya
+30,Female,Headache,Migraine Disorder,Acute,Moderate,115,Shirodhara,Improved,Sedentary,Nasya
+18,Female,Stress,Anxiety,Chronic,Moderate,172,Janu Basti,Worsened,Stressful,Udvartana
+56,Female,High Sugar,Diabetes Mellitus,Chronic,Severe,237,Shirodhara,No Change,Sedentary,Vamana
+41,Male,Back Pain,Spondylitis,Chronic,Moderate,42,Takradhara,No Change,Active,Kati Basti
+68,Male,Joint Pain,Arthritis,Chronic,Mild,249,Shirodhara,No Change,Active,Abhyanga
+32,Female,Skin Problems,Psoriasis,Acute,Mild,185,Abhyanga,Improved,Stressful,Virechana
+70,Female,Stress,Anxiety,Acute,Mild,113,Nasya,Improved,Sedentary,Shirodhara
+48,Male,Skin Problems,Psoriasis,Chronic,Mild,80,Kati Basti,Worsened,Active,Takradhara
+69,Male,Knee Pain,Osteoarthritis,Chronic,Severe,96,Udvartana,Improved,Sedentary,Janu Basti
+39,Male,Weight Gain,Obesity,Chronic,Severe,192,Virechana,No Change,Stressful,Udvartana
+34,Female,Stress,Anxiety,Chronic,Moderate,90,Janu Basti,Improved,Active,Shirodhara
+46,Female,Low Mood,Depression,Acute,Mild,77,Abhyanga,Improved,Active,Shirodhara
+28,Female,Headache,Migraine Disorder,Acute,Mild,204,Basti,No Change,Stressful,Shirodhara
+27,Male,Low Mood,Depression,Chronic,Severe,10,Basti,No Change,Active,Shirodhara
+69,Female,Low BP,Hypotension,Chronic,Severe,85,Takradhara,Worsened,Stressful,Abhyanga
+41,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,284,Virechana,Improved,Active,Vamana
+18,Female,High BP,Hypertension,Acute,Mild,184,Nasya,Improved,Stressful,Takradhara
+51,Female,High Sugar,Diabetes Mellitus,Acute,Moderate,264,Kati Basti,No Change,Sedentary,Takradhara
+20,Male,Fatigue,Chronic Fatigue,Chronic,Severe,299,Vamana,No Change,Stressful,Abhyanga
+45,Female,Stress,Anxiety,Chronic,Moderate,135,Takradhara,Worsened,Sedentary,Nasya
+25,Male,Breathing Issue,Asthma,Acute,Moderate,5,Takradhara,Improved,Sedentary,Nasya
+60,Male,Headache,Migraine Disorder,Acute,Severe,264,Nasya,Worsened,Stressful,Shirodhara
+72,Female,Knee Pain,Osteoarthritis,Acute,Moderate,260,Shirodhara,No Change,Stressful,Janu Basti
+45,Female,Skin Problems,Psoriasis,Acute,Mild,312,Shirodhara,No Change,Stressful,Abhyanga
+40,Male,Low BP,Hypotension,Acute,Severe,65,Abhyanga,No Change,Active,Nasya
+44,Female,Headache,Migraine Disorder,Chronic,Moderate,325,Abhyanga,Worsened,Stressful,Shirodhara
+37,Female,Skin Problems,Psoriasis,Acute,Severe,34,Janu Basti,No Change,Stressful,Virechana
+23,Female,Weight Gain,Obesity,Acute,Moderate,359,Basti,Improved,Sedentary,Udvartana
+48,Male,Stress,Anxiety,Acute,Mild,312,Virechana,Improved,Active,Shirodhara
+66,Female,Skin Problems,Psoriasis,Chronic,Severe,6,Abhyanga,No Change,Stressful,Virechana
+56,Male,Stress,Anxiety,Acute,Severe,60,Virechana,Improved,Stressful,Shirodhara
+58,Female,Fatigue,Chronic Fatigue,Chronic,Mild,40,Kati Basti,Worsened,Active,Nasya
+62,Female,Headache,Migraine Disorder,Chronic,Mild,57,Virechana,Improved,Active,Nasya
+71,Female,Stress,Anxiety,Acute,Mild,322,Nasya,Improved,Active,Shirodhara
+38,Male,Fatigue,Chronic Fatigue,Chronic,Moderate,152,Takradhara,Worsened,Sedentary,Shirodhara
+28,Female,Fatigue,Chronic Fatigue,Acute,Moderate,265,Virechana,No Change,Sedentary,Virechana
+50,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,312,Abhyanga,No Change,Active,Kati Basti
+73,Female,Headache,Migraine Disorder,Chronic,Mild,69,Virechana,No Change,Stressful,Vamana
+19,Female,Low BP,Hypotension,Chronic,Severe,351,Takradhara,No Change,Stressful,Abhyanga
+35,Male,Fatigue,Chronic Fatigue,Chronic,Moderate,144,Basti,No Change,Active,Janu Basti
+54,Female,High BP,Hypertension,Acute,Moderate,270,Janu Basti,No Change,Active,Basti
+67,Female,Stress,Anxiety,Acute,Mild,145,Virechana,No Change,Stressful,Nasya
+65,Male,Headache,Migraine Disorder,Chronic,Severe,281,Udvartana,No Change,Sedentary,Nasya
+19,Male,Knee Pain,Osteoarthritis,Acute,Severe,337,Takradhara,No Change,Sedentary,Virechana
+39,Female,Skin Problems,Psoriasis,Acute,Severe,330,Shirodhara,Worsened,Sedentary,Virechana
+18,Female,High Sugar,Diabetes Mellitus,Acute,Severe,27,Shirodhara,Worsened,Stressful,Udvartana
+25,Male,Low Mood,Depression,Chronic,Moderate,42,Abhyanga,No Change,Sedentary,Basti
+50,Male,Headache,Migraine Disorder,Chronic,Mild,239,Vamana,Improved,Sedentary,Nasya
+50,Female,Knee Pain,Osteoarthritis,Acute,Moderate,105,Takradhara,Improved,Sedentary,Janu Basti
+61,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,144,Basti,Improved,Stressful,Vamana
+22,Female,Back Pain,Spondylitis,Acute,Severe,129,Virechana,Worsened,Sedentary,Virechana
+75,Female,High BP,Hypertension,Chronic,Severe,292,Shirodhara,Worsened,Stressful,Takradhara
+45,Female,Low Mood,Depression,Chronic,Moderate,136,Abhyanga,Worsened,Stressful,Basti
+20,Female,Headache,Migraine Disorder,Acute,Severe,309,Shirodhara,Improved,Sedentary,Nasya
+20,Male,Stress,Anxiety,Chronic,Mild,77,Shirodhara,No Change,Stressful,Shirodhara
+19,Male,Knee Pain,Osteoarthritis,Chronic,Mild,332,Takradhara,Worsened,Active,Virechana
+23,Female,High BP,Hypertension,Acute,Severe,123,Janu Basti,Improved,Sedentary,Takradhara
+24,Male,High Sugar,Diabetes Mellitus,Chronic,Mild,11,Nasya,No Change,Active,Virechana
+41,Male,Fatigue,Chronic Fatigue,Chronic,Moderate,250,Shirodhara,No Change,Sedentary,Abhyanga
+38,Male,Skin Problems,Psoriasis,Chronic,Mild,133,Janu Basti,No Change,Sedentary,Takradhara
+50,Male,Back Pain,Spondylitis,Acute,Severe,339,Nasya,Improved,Active,Kati Basti
+61,Female,High Sugar,Diabetes Mellitus,Chronic,Severe,221,Vamana,Improved,Stressful,Vamana
+52,Female,Back Pain,Spondylitis,Chronic,Severe,199,Shirodhara,Worsened,Sedentary,Kati Basti
+49,Female,Fatigue,Chronic Fatigue,Acute,Severe,156,Abhyanga,No Change,Active,Vamana
+35,Female,High BP,Hypertension,Chronic,Severe,194,Kati Basti,Improved,Stressful,Takradhara
+57,Male,Stress,Anxiety,Acute,Severe,141,Abhyanga,Improved,Active,Shirodhara
+39,Male,Acidity,Gastritis,Chronic,Severe,179,Janu Basti,Improved,Sedentary,Virechana
+54,Female,Acidity,Gastritis,Chronic,Severe,52,Shirodhara,Improved,Stressful,Virechana
+19,Male,Knee Pain,Osteoarthritis,Acute,Mild,134,Nasya,Improved,Stressful,Janu Basti
+67,Female,High BP,Hypertension,Acute,Mild,291,Basti,Worsened,Sedentary,Virechana
+56,Male,Weight Gain,Obesity,Chronic,Moderate,100,Janu Basti,Worsened,Stressful,Vamana
+27,Male,High Sugar,Diabetes Mellitus,Chronic,Moderate,200,Shirodhara,Worsened,Active,Udvartana
+69,Male,Knee Pain,Osteoarthritis,Chronic,Severe,202,Abhyanga,Worsened,Sedentary,Janu Basti
+19,Female,Back Pain,Spondylitis,Acute,Moderate,255,Abhyanga,No Change,Stressful,Udvartana
+21,Female,Fatigue,Chronic Fatigue,Acute,Moderate,51,Nasya,Worsened,Stressful,Basti
+68,Male,High Sugar,Diabetes Mellitus,Acute,Moderate,155,Basti,Improved,Sedentary,Vamana
+75,Female,High Sugar,Diabetes Mellitus,Chronic,Severe,339,Basti,Worsened,Sedentary,Vamana
+70,Female,Joint Pain,Arthritis,Chronic,Moderate,146,Basti,Improved,Sedentary,Basti
+74,Female,Skin Problems,Psoriasis,Chronic,Mild,131,Virechana,No Change,Sedentary,Vamana
+60,Female,Skin Problems,Psoriasis,Chronic,Severe,141,Abhyanga,No Change,Sedentary,Virechana
+19,Male,Joint Pain,Arthritis,Chronic,Mild,129,Basti,Improved,Active,Basti
+68,Female,Fatigue,Chronic Fatigue,Chronic,Mild,9,Nasya,Worsened,Active,Nasya
+33,Female,Breathing Issue,Asthma,Acute,Moderate,33,Janu Basti,No Change,Stressful,Virechana
+66,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,163,Abhyanga,Improved,Sedentary,Vamana
+57,Male,Low BP,Hypotension,Chronic,Severe,61,Abhyanga,No Change,Sedentary,Abhyanga
+23,Male,Back Pain,Spondylitis,Acute,Mild,151,Udvartana,Improved,Sedentary,Kati Basti
+74,Female,Fatigue,Chronic Fatigue,Chronic,Mild,279,Abhyanga,Improved,Stressful,Abhyanga
+68,Male,Skin Problems,Psoriasis,Acute,Mild,165,Basti,Improved,Sedentary,Virechana
+64,Male,Skin Problems,Psoriasis,Chronic,Mild,63,Virechana,No Change,Sedentary,Vamana
+67,Female,Headache,Migraine Disorder,Acute,Mild,122,Udvartana,No Change,Stressful,Janu Basti
+61,Male,Low Mood,Depression,Chronic,Severe,296,Vamana,Worsened,Stressful,Shirodhara
+48,Male,Stress,Anxiety,Acute,Severe,266,Abhyanga,Worsened,Active,Shirodhara
+23,Female,Joint Pain,Arthritis,Acute,Mild,4,Abhyanga,Worsened,Stressful,Nasya
+34,Male,Back Pain,Spondylitis,Acute,Severe,61,Janu Basti,Worsened,Active,Abhyanga
+58,Male,Headache,Migraine Disorder,Chronic,Mild,214,Abhyanga,Improved,Active,Nasya
+71,Female,Back Pain,Spondylitis,Acute,Mild,346,Virechana,Worsened,Stressful,Virechana
+67,Female,High BP,Hypertension,Acute,Mild,320,Nasya,No Change,Sedentary,Janu Basti
+21,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,119,Virechana,No Change,Stressful,Shirodhara
+45,Female,Back Pain,Spondylitis,Acute,Mild,105,Vamana,Improved,Active,Kati Basti
+37,Male,Joint Pain,Arthritis,Acute,Severe,224,Kati Basti,Improved,Sedentary,Basti
+63,Male,Weight Gain,Obesity,Chronic,Severe,296,Virechana,Improved,Sedentary,Udvartana
+43,Male,High BP,Hypertension,Acute,Severe,167,Virechana,Improved,Active,Takradhara
+60,Male,High BP,Hypertension,Acute,Mild,255,Shirodhara,Worsened,Stressful,Shirodhara
+33,Male,Acidity,Gastritis,Acute,Mild,75,Nasya,Improved,Sedentary,Virechana
+54,Male,Low Mood,Depression,Chronic,Moderate,36,Shirodhara,Improved,Stressful,Shirodhara
+59,Male,Acidity,Gastritis,Chronic,Severe,160,Vamana,No Change,Sedentary,Virechana
+42,Female,High Sugar,Diabetes Mellitus,Acute,Moderate,319,Shirodhara,Worsened,Stressful,Basti
+18,Male,Breathing Issue,Asthma,Chronic,Moderate,38,Udvartana,Worsened,Sedentary,Udvartana
+28,Male,Knee Pain,Osteoarthritis,Acute,Severe,5,Vamana,Worsened,Sedentary,Virechana
+23,Male,Low BP,Hypotension,Acute,Moderate,163,Shirodhara,No Change,Active,Udvartana
+48,Female,Weight Gain,Obesity,Acute,Moderate,313,Udvartana,Improved,Sedentary,Udvartana
+58,Male,Skin Problems,Psoriasis,Chronic,Mild,158,Shirodhara,Worsened,Stressful,Shirodhara
+47,Female,Low BP,Hypotension,Acute,Moderate,13,Kati Basti,Worsened,Active,Shirodhara
+51,Male,Breathing Issue,Asthma,Acute,Mild,287,Udvartana,Improved,Active,Nasya
+26,Female,High BP,Hypertension,Chronic,Mild,348,Kati Basti,Improved,Stressful,Takradhara
+73,Female,High Sugar,Diabetes Mellitus,Acute,Moderate,157,Shirodhara,Improved,Active,Vamana
+32,Female,Joint Pain,Arthritis,Chronic,Severe,333,Janu Basti,Worsened,Stressful,Basti
+34,Female,Knee Pain,Osteoarthritis,Acute,Mild,39,Nasya,Worsened,Active,Janu Basti
+49,Female,Low BP,Hypotension,Acute,Moderate,22,Basti,Worsened,Active,Abhyanga
+69,Male,Back Pain,Spondylitis,Acute,Mild,75,Virechana,Worsened,Sedentary,Virechana
+64,Female,Breathing Issue,Asthma,Chronic,Moderate,38,Virechana,No Change,Sedentary,Kati Basti
+34,Female,Breathing Issue,Asthma,Chronic,Moderate,76,Basti,No Change,Sedentary,Janu Basti
+31,Male,Skin Problems,Psoriasis,Chronic,Mild,218,Nasya,Improved,Active,Virechana
+61,Female,Stress,Anxiety,Chronic,Severe,288,Abhyanga,Improved,Sedentary,Shirodhara
+38,Male,Low BP,Hypotension,Chronic,Moderate,321,Virechana,No Change,Stressful,Vamana
+54,Male,Skin Problems,Psoriasis,Chronic,Mild,112,Basti,Worsened,Sedentary,Vamana
+73,Female,Low BP,Hypotension,Chronic,Mild,151,Abhyanga,No Change,Sedentary,Abhyanga
+39,Male,Knee Pain,Osteoarthritis,Chronic,Mild,143,Virechana,Improved,Active,Janu Basti
+63,Male,Back Pain,Spondylitis,Chronic,Severe,168,Janu Basti,Worsened,Stressful,Kati Basti
+74,Male,Acidity,Gastritis,Chronic,Mild,360,Kati Basti,Improved,Stressful,Virechana
+28,Male,Knee Pain,Osteoarthritis,Acute,Moderate,162,Nasya,Worsened,Stressful,Janu Basti
+56,Female,Headache,Migraine Disorder,Chronic,Moderate,262,Virechana,No Change,Active,Virechana
+41,Male,Fatigue,Chronic Fatigue,Acute,Mild,274,Virechana,Worsened,Stressful,Virechana
+50,Male,Weight Gain,Obesity,Acute,Mild,130,Nasya,Worsened,Active,Shirodhara
+60,Female,High BP,Hypertension,Chronic,Severe,285,Janu Basti,No Change,Active,Takradhara
+55,Male,Joint Pain,Arthritis,Acute,Severe,56,Shirodhara,Improved,Stressful,Basti
+59,Female,Joint Pain,Arthritis,Chronic,Severe,332,Kati Basti,Improved,Sedentary,Basti
+73,Male,High Sugar,Diabetes Mellitus,Acute,Severe,225,Vamana,Worsened,Sedentary,Shirodhara
+31,Female,Breathing Issue,Asthma,Chronic,Mild,57,Takradhara,No Change,Stressful,Virechana
+55,Female,Joint Pain,Arthritis,Acute,Severe,269,Basti,Worsened,Active,Shirodhara
+19,Male,Weight Gain,Obesity,Acute,Severe,349,Virechana,Worsened,Stressful,Shirodhara
+43,Male,Weight Gain,Obesity,Chronic,Severe,206,Shirodhara,No Change,Sedentary,Udvartana
+22,Female,Stress,Anxiety,Acute,Mild,166,Virechana,Worsened,Active,Vamana
+21,Female,High BP,Hypertension,Acute,Mild,15,Virechana,Improved,Stressful,Takradhara
+62,Female,High BP,Hypertension,Chronic,Moderate,82,Virechana,Worsened,Stressful,Shirodhara
+57,Female,Fatigue,Chronic Fatigue,Acute,Severe,57,Nasya,Improved,Active,Abhyanga
+36,Male,High Sugar,Diabetes Mellitus,Acute,Severe,166,Abhyanga,Improved,Stressful,Vamana
+60,Female,Weight Gain,Obesity,Chronic,Severe,90,Kati Basti,Improved,Sedentary,Udvartana
+74,Female,Fatigue,Chronic Fatigue,Acute,Mild,165,Nasya,Worsened,Sedentary,Nasya
+43,Female,High BP,Hypertension,Chronic,Severe,295,Vamana,Worsened,Stressful,Takradhara
+48,Female,Headache,Migraine Disorder,Acute,Severe,27,Udvartana,No Change,Active,Abhyanga
+21,Male,Skin Problems,Psoriasis,Chronic,Severe,232,Shirodhara,Worsened,Stressful,Virechana
+37,Female,Joint Pain,Arthritis,Acute,Mild,193,Nasya,Improved,Sedentary,Basti
+51,Female,Breathing Issue,Asthma,Acute,Mild,220,Takradhara,Improved,Stressful,Nasya
+64,Male,Low BP,Hypotension,Chronic,Severe,303,Janu Basti,Worsened,Active,Abhyanga
+71,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,356,Vamana,Worsened,Active,Janu Basti
+28,Female,Back Pain,Spondylitis,Chronic,Severe,248,Vamana,Worsened,Active,Kati Basti
+26,Male,Low Mood,Depression,Acute,Severe,246,Abhyanga,Improved,Active,Shirodhara
+61,Male,High BP,Hypertension,Chronic,Moderate,321,Virechana,Improved,Stressful,Takradhara
+64,Male,Headache,Migraine Disorder,Chronic,Mild,37,Abhyanga,No Change,Sedentary,Nasya
+65,Male,Stress,Anxiety,Chronic,Mild,115,Vamana,No Change,Stressful,Takradhara
+59,Female,Back Pain,Spondylitis,Chronic,Mild,287,Vamana,Improved,Active,Kati Basti
+29,Female,Weight Gain,Obesity,Acute,Moderate,257,Shirodhara,Improved,Active,Udvartana
+58,Male,Headache,Migraine Disorder,Chronic,Moderate,300,Basti,Worsened,Sedentary,Janu Basti
+30,Female,Breathing Issue,Asthma,Acute,Severe,168,Vamana,Worsened,Stressful,Abhyanga
+43,Male,Back Pain,Spondylitis,Chronic,Moderate,40,Abhyanga,Worsened,Sedentary,Shirodhara
+55,Female,Low Mood,Depression,Chronic,Mild,241,Virechana,No Change,Sedentary,Abhyanga
+52,Male,Skin Problems,Psoriasis,Chronic,Moderate,232,Abhyanga,No Change,Stressful,Basti
+27,Male,Low BP,Hypotension,Acute,Mild,49,Kati Basti,Improved,Stressful,Abhyanga
+27,Male,High BP,Hypertension,Acute,Moderate,303,Abhyanga,No Change,Sedentary,Nasya
+44,Female,Skin Problems,Psoriasis,Acute,Moderate,346,Abhyanga,No Change,Sedentary,Kati Basti
+39,Female,Headache,Migraine Disorder,Acute,Severe,340,Takradhara,Improved,Stressful,Nasya
+48,Female,Low BP,Hypotension,Chronic,Severe,216,Vamana,No Change,Stressful,Abhyanga
+33,Male,Acidity,Gastritis,Acute,Mild,298,Vamana,Worsened,Stressful,Basti
+60,Male,Low Mood,Depression,Acute,Moderate,111,Janu Basti,No Change,Active,Shirodhara
+28,Male,Knee Pain,Osteoarthritis,Chronic,Severe,295,Kati Basti,Worsened,Stressful,Janu Basti
+18,Male,Low Mood,Depression,Chronic,Mild,173,Nasya,No Change,Stressful,Nasya
+47,Male,Headache,Migraine Disorder,Chronic,Moderate,147,Virechana,No Change,Sedentary,Nasya
+36,Female,Fatigue,Chronic Fatigue,Acute,Moderate,28,Virechana,No Change,Sedentary,Abhyanga
+19,Male,High Sugar,Diabetes Mellitus,Chronic,Moderate,13,Basti,No Change,Sedentary,Nasya
+62,Male,High BP,Hypertension,Chronic,Mild,35,Shirodhara,Worsened,Active,Nasya
+58,Male,Low Mood,Depression,Acute,Moderate,174,Virechana,Improved,Stressful,Shirodhara
+21,Female,Headache,Migraine Disorder,Chronic,Moderate,188,Takradhara,Worsened,Active,Vamana
+20,Male,Joint Pain,Arthritis,Acute,Mild,241,Kati Basti,Improved,Sedentary,Basti
+20,Male,Breathing Issue,Asthma,Chronic,Mild,260,Abhyanga,Worsened,Stressful,Abhyanga
+63,Female,High BP,Hypertension,Acute,Mild,353,Abhyanga,Worsened,Sedentary,Abhyanga
+72,Female,Low BP,Hypotension,Acute,Mild,254,Janu Basti,Worsened,Stressful,Abhyanga
+37,Female,Weight Gain,Obesity,Acute,Mild,315,Udvartana,Worsened,Sedentary,Virechana
+45,Male,Stress,Anxiety,Chronic,Moderate,329,Nasya,Worsened,Stressful,Nasya
+38,Male,Low Mood,Depression,Chronic,Moderate,81,Udvartana,Improved,Sedentary,Shirodhara
+22,Male,High BP,Hypertension,Acute,Moderate,152,Shirodhara,Worsened,Active,Takradhara
+52,Male,High BP,Hypertension,Acute,Mild,52,Abhyanga,Worsened,Active,Nasya
+20,Male,Acidity,Gastritis,Chronic,Moderate,201,Udvartana,Worsened,Active,Shirodhara
+60,Female,Back Pain,Spondylitis,Chronic,Moderate,276,Takradhara,Improved,Stressful,Kati Basti
+66,Male,High BP,Hypertension,Chronic,Mild,149,Abhyanga,No Change,Sedentary,Nasya
+39,Female,Low Mood,Depression,Acute,Mild,354,Virechana,Improved,Stressful,Shirodhara
+24,Male,Acidity,Gastritis,Acute,Mild,118,Virechana,Improved,Stressful,Virechana
+68,Female,Back Pain,Spondylitis,Chronic,Mild,65,Basti,Improved,Stressful,Kati Basti
+43,Male,High BP,Hypertension,Chronic,Moderate,244,Shirodhara,Improved,Stressful,Takradhara
+24,Female,Skin Problems,Psoriasis,Chronic,Severe,274,Janu Basti,Worsened,Sedentary,Virechana
+45,Male,Joint Pain,Arthritis,Chronic,Severe,178,Janu Basti,Improved,Stressful,Basti
+47,Female,Low Mood,Depression,Chronic,Moderate,56,Kati Basti,Improved,Stressful,Shirodhara
+30,Male,Fatigue,Chronic Fatigue,Chronic,Severe,148,Virechana,Worsened,Stressful,Abhyanga
+18,Male,Skin Problems,Psoriasis,Chronic,Severe,93,Vamana,Worsened,Sedentary,Virechana
+21,Female,Low Mood,Depression,Chronic,Mild,266,Udvartana,Worsened,Sedentary,Nasya
+39,Female,High BP,Hypertension,Acute,Severe,150,Abhyanga,Improved,Sedentary,Takradhara
+20,Female,Weight Gain,Obesity,Chronic,Severe,158,Kati Basti,No Change,Active,Udvartana
+67,Female,Skin Problems,Psoriasis,Acute,Moderate,137,Virechana,Improved,Sedentary,Virechana
+28,Male,Joint Pain,Arthritis,Acute,Moderate,300,Shirodhara,No Change,Sedentary,Udvartana
+19,Female,High Sugar,Diabetes Mellitus,Acute,Severe,130,Kati Basti,Improved,Active,Vamana
+59,Female,Breathing Issue,Asthma,Chronic,Mild,40,Virechana,No Change,Sedentary,Virechana
+65,Male,Weight Gain,Obesity,Chronic,Moderate,42,Kati Basti,Improved,Active,Udvartana
+43,Female,Joint Pain,Arthritis,Acute,Moderate,114,Abhyanga,Worsened,Stressful,Nasya
+18,Female,Knee Pain,Osteoarthritis,Chronic,Mild,320,Basti,No Change,Sedentary,Takradhara
+35,Female,Stress,Anxiety,Chronic,Severe,173,Udvartana,No Change,Stressful,Shirodhara
+59,Female,Skin Problems,Psoriasis,Chronic,Moderate,194,Abhyanga,No Change,Active,Virechana
+43,Male,Knee Pain,Osteoarthritis,Chronic,Severe,116,Nasya,Worsened,Active,Janu Basti
+55,Female,High Sugar,Diabetes Mellitus,Chronic,Moderate,328,Virechana,No Change,Sedentary,Basti
+43,Female,Stress,Anxiety,Chronic,Mild,129,Takradhara,Worsened,Sedentary,Udvartana
+47,Female,High BP,Hypertension,Acute,Mild,251,Vamana,Worsened,Stressful,Virechana
+31,Male,Low BP,Hypotension,Acute,Severe,59,Kati Basti,Worsened,Sedentary,Udvartana
+33,Male,Low BP,Hypotension,Acute,Severe,143,Abhyanga,Improved,Sedentary,Abhyanga
+54,Male,Low BP,Hypotension,Acute,Severe,205,Shirodhara,No Change,Stressful,Abhyanga
+50,Male,Skin Problems,Psoriasis,Chronic,Moderate,102,Nasya,Improved,Sedentary,Virechana
+59,Male,Low Mood,Depression,Acute,Severe,58,Kati Basti,Worsened,Sedentary,Basti
+65,Male,Skin Problems,Psoriasis,Chronic,Severe,172,Nasya,Improved,Stressful,Virechana
+47,Female,Knee Pain,Osteoarthritis,Chronic,Severe,154,Shirodhara,No Change,Active,Janu Basti
+25,Female,Low BP,Hypotension,Chronic,Mild,209,Virechana,No Change,Active,Takradhara
+35,Male,Low Mood,Depression,Acute,Mild,15,Shirodhara,Worsened,Stressful,Nasya
+61,Male,High BP,Hypertension,Acute,Mild,230,Janu Basti,No Change,Sedentary,Vamana
+42,Male,Low BP,Hypotension,Acute,Severe,117,Udvartana,No Change,Stressful,Janu Basti
+41,Male,High Sugar,Diabetes Mellitus,Acute,Severe,216,Shirodhara,Worsened,Active,Udvartana
+27,Male,Low Mood,Depression,Chronic,Mild,194,Kati Basti,No Change,Sedentary,Takradhara
+70,Male,Skin Problems,Psoriasis,Chronic,Moderate,186,Abhyanga,Improved,Stressful,Virechana
+48,Female,Stress,Anxiety,Chronic,Moderate,26,Virechana,Worsened,Active,Virechana
+73,Female,Breathing Issue,Asthma,Chronic,Severe,5,Udvartana,Improved,Stressful,Nasya
+21,Male,Back Pain,Spondylitis,Acute,Mild,210,Shirodhara,No Change,Stressful,Vamana
+69,Female,Weight Gain,Obesity,Chronic,Mild,108,Basti,No Change,Stressful,Shirodhara
+19,Male,Acidity,Gastritis,Chronic,Mild,165,Abhyanga,Worsened,Stressful,Shirodhara
+23,Female,Weight Gain,Obesity,Acute,Mild,283,Nasya,Improved,Stressful,Udvartana
+20,Male,Acidity,Gastritis,Chronic,Severe,182,Shirodhara,Improved,Active,Virechana
+42,Male,Stress,Anxiety,Acute,Mild,36,Abhyanga,Improved,Stressful,Shirodhara
+60,Male,Weight Gain,Obesity,Chronic,Mild,35,Janu Basti,Improved,Sedentary,Udvartana
+21,Female,Low BP,Hypotension,Acute,Severe,326,Takradhara,Improved,Active,Abhyanga
+65,Male,Joint Pain,Arthritis,Acute,Severe,189,Vamana,Worsened,Active,Shirodhara
+26,Male,Joint Pain,Arthritis,Chronic,Moderate,308,Abhyanga,Worsened,Sedentary,Kati Basti
+27,Male,High Sugar,Diabetes Mellitus,Acute,Moderate,293,Janu Basti,Improved,Active,Vamana
+27,Male,Skin Problems,Psoriasis,Acute,Mild,217,Shirodhara,Improved,Sedentary,Virechana
+42,Male,High BP,Hypertension,Chronic,Mild,320,Abhyanga,No Change,Sedentary,Basti
+37,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,276,Virechana,Improved,Sedentary,Vamana
+74,Male,Fatigue,Chronic Fatigue,Acute,Mild,234,Basti,Worsened,Active,Nasya
+48,Female,Weight Gain,Obesity,Acute,Severe,108,Shirodhara,Improved,Stressful,Udvartana
+32,Female,Low BP,Hypotension,Chronic,Moderate,113,Nasya,No Change,Active,Shirodhara
+62,Female,Headache,Migraine Disorder,Acute,Mild,295,Basti,Improved,Sedentary,Nasya
+50,Male,Stress,Anxiety,Chronic,Severe,298,Janu Basti,No Change,Active,Shirodhara
+58,Female,Stress,Anxiety,Chronic,Moderate,143,Kati Basti,Worsened,Stressful,Janu Basti
+75,Male,Joint Pain,Arthritis,Chronic,Moderate,78,Abhyanga,Improved,Sedentary,Basti
+24,Male,Weight Gain,Obesity,Acute,Severe,304,Basti,Worsened,Sedentary,Abhyanga
+37,Male,Back Pain,Spondylitis,Chronic,Moderate,128,Nasya,Worsened,Sedentary,Virechana
+54,Female,Breathing Issue,Asthma,Acute,Severe,126,Abhyanga,Worsened,Sedentary,Virechana
+56,Male,High BP,Hypertension,Acute,Moderate,170,Janu Basti,Improved,Active,Takradhara
+63,Male,High BP,Hypertension,Acute,Mild,97,Udvartana,No Change,Stressful,Takradhara
+36,Female,Stress,Anxiety,Acute,Moderate,95,Janu Basti,Improved,Sedentary,Shirodhara
+25,Male,Headache,Migraine Disorder,Acute,Severe,83,Basti,Worsened,Sedentary,Abhyanga
+37,Female,Fatigue,Chronic Fatigue,Acute,Moderate,123,Shirodhara,No Change,Sedentary,Nasya
+74,Female,Joint Pain,Arthritis,Chronic,Mild,352,Janu Basti,No Change,Active,Basti
+24,Female,Skin Problems,Psoriasis,Chronic,Severe,197,Abhyanga,Worsened,Active,Virechana
+65,Male,Stress,Anxiety,Acute,Severe,329,Nasya,Worsened,Active,Janu Basti
+20,Female,Back Pain,Spondylitis,Chronic,Mild,328,Takradhara,Worsened,Sedentary,Basti
+70,Female,Joint Pain,Arthritis,Acute,Severe,60,Abhyanga,Improved,Sedentary,Basti
+31,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,348,Abhyanga,No Change,Active,Vamana
+47,Female,Low BP,Hypotension,Acute,Moderate,175,Vamana,Worsened,Active,Udvartana
+40,Male,Skin Problems,Psoriasis,Chronic,Severe,62,Kati Basti,Worsened,Sedentary,Virechana
+51,Male,Fatigue,Chronic Fatigue,Chronic,Mild,118,Shirodhara,Worsened,Active,Nasya
+45,Female,Skin Problems,Psoriasis,Acute,Severe,111,Abhyanga,Worsened,Stressful,Virechana
+24,Male,Weight Gain,Obesity,Chronic,Mild,11,Abhyanga,Worsened,Stressful,Nasya
+46,Female,Stress,Anxiety,Chronic,Severe,342,Janu Basti,Improved,Sedentary,Shirodhara
+57,Male,Weight Gain,Obesity,Chronic,Moderate,349,Abhyanga,No Change,Sedentary,Nasya
+63,Female,High Sugar,Diabetes Mellitus,Acute,Mild,158,Nasya,Worsened,Active,Abhyanga
+59,Male,Headache,Migraine Disorder,Chronic,Severe,302,Janu Basti,Worsened,Stressful,Nasya
+18,Male,High BP,Hypertension,Acute,Severe,117,Abhyanga,Worsened,Stressful,Vamana
+75,Female,Knee Pain,Osteoarthritis,Chronic,Severe,8,Abhyanga,No Change,Active,Janu Basti
+69,Female,High Sugar,Diabetes Mellitus,Chronic,Severe,333,Shirodhara,Worsened,Active,Vamana
+65,Male,Weight Gain,Obesity,Chronic,Severe,164,Basti,No Change,Sedentary,Udvartana
+65,Female,Joint Pain,Arthritis,Chronic,Mild,336,Shirodhara,No Change,Stressful,Abhyanga
+51,Male,Stress,Anxiety,Chronic,Mild,349,Udvartana,Improved,Active,Shirodhara
+63,Female,Fatigue,Chronic Fatigue,Acute,Severe,319,Vamana,Worsened,Active,Abhyanga
+42,Female,Stress,Anxiety,Chronic,Mild,67,Virechana,Improved,Sedentary,Shirodhara
+55,Male,Knee Pain,Osteoarthritis,Acute,Mild,54,Basti,Improved,Sedentary,Janu Basti
+32,Female,Acidity,Gastritis,Chronic,Moderate,78,Abhyanga,No Change,Sedentary,Shirodhara
+48,Female,Acidity,Gastritis,Acute,Mild,119,Kati Basti,Worsened,Sedentary,Shirodhara
+44,Female,Knee Pain,Osteoarthritis,Acute,Mild,162,Nasya,No Change,Active,Janu Basti
+75,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,234,Virechana,No Change,Active,Basti
+20,Female,Stress,Anxiety,Acute,Severe,263,Vamana,No Change,Sedentary,Virechana
+58,Female,High BP,Hypertension,Chronic,Mild,89,Nasya,No Change,Sedentary,Abhyanga
+50,Female,Skin Problems,Psoriasis,Chronic,Severe,246,Shirodhara,Worsened,Stressful,Virechana
+51,Male,Skin Problems,Psoriasis,Acute,Mild,274,Abhyanga,Worsened,Stressful,Kati Basti
+24,Male,High Sugar,Diabetes Mellitus,Acute,Moderate,127,Abhyanga,Worsened,Stressful,Shirodhara
+68,Male,Headache,Migraine Disorder,Chronic,Severe,346,Shirodhara,No Change,Stressful,Nasya
+40,Male,Joint Pain,Arthritis,Chronic,Mild,187,Shirodhara,Improved,Sedentary,Basti
+58,Male,Breathing Issue,Asthma,Acute,Moderate,207,Shirodhara,Improved,Active,Nasya
+58,Female,Stress,Anxiety,Acute,Moderate,38,Virechana,Improved,Active,Shirodhara
+41,Female,High Sugar,Diabetes Mellitus,Acute,Mild,201,Takradhara,No Change,Stressful,Takradhara
+29,Female,Stress,Anxiety,Chronic,Mild,325,Nasya,Worsened,Stressful,Abhyanga
+24,Female,Skin Problems,Psoriasis,Chronic,Mild,171,Vamana,Worsened,Active,Shirodhara
+54,Female,Weight Gain,Obesity,Chronic,Severe,180,Nasya,No Change,Sedentary,Udvartana
+38,Male,Fatigue,Chronic Fatigue,Acute,Moderate,252,Udvartana,Improved,Stressful,Abhyanga
+26,Male,Breathing Issue,Asthma,Chronic,Severe,290,Shirodhara,Improved,Active,Nasya
+34,Male,Stress,Anxiety,Acute,Severe,92,Janu Basti,Worsened,Stressful,Vamana
+61,Male,Fatigue,Chronic Fatigue,Chronic,Mild,21,Virechana,No Change,Stressful,Nasya
+31,Female,Fatigue,Chronic Fatigue,Acute,Severe,340,Janu Basti,Improved,Sedentary,Abhyanga
+41,Male,Knee Pain,Osteoarthritis,Chronic,Moderate,224,Shirodhara,Improved,Active,Janu Basti
+73,Female,Low BP,Hypotension,Chronic,Mild,230,Takradhara,No Change,Stressful,Abhyanga
+20,Female,Stress,Anxiety,Chronic,Mild,42,Abhyanga,No Change,Active,Shirodhara
+20,Male,Knee Pain,Osteoarthritis,Acute,Severe,51,Kati Basti,No Change,Stressful,Shirodhara
+66,Male,High BP,Hypertension,Acute,Moderate,257,Abhyanga,Worsened,Stressful,Abhyanga
+71,Male,High BP,Hypertension,Chronic,Moderate,14,Janu Basti,No Change,Stressful,Nasya
+64,Male,Skin Problems,Psoriasis,Acute,Moderate,318,Takradhara,No Change,Sedentary,Virechana
+51,Female,Headache,Migraine Disorder,Acute,Mild,210,Takradhara,Worsened,Sedentary,Shirodhara
+36,Female,Breathing Issue,Asthma,Acute,Severe,184,Shirodhara,Worsened,Stressful,Virechana
+63,Male,Low Mood,Depression,Chronic,Mild,3,Basti,Worsened,Sedentary,Janu Basti
+36,Female,High Sugar,Diabetes Mellitus,Acute,Mild,202,Basti,No Change,Active,Takradhara
+64,Male,Acidity,Gastritis,Acute,Severe,158,Virechana,Improved,Stressful,Virechana
+18,Female,Knee Pain,Osteoarthritis,Chronic,Mild,131,Shirodhara,No Change,Active,Udvartana
+48,Female,Stress,Anxiety,Acute,Moderate,305,Nasya,No Change,Active,Udvartana
+63,Male,Stress,Anxiety,Chronic,Severe,73,Kati Basti,No Change,Sedentary,Shirodhara
+65,Female,Joint Pain,Arthritis,Acute,Severe,30,Takradhara,Worsened,Sedentary,Janu Basti
+18,Male,Knee Pain,Osteoarthritis,Chronic,Mild,107,Nasya,No Change,Sedentary,Basti
+55,Female,Headache,Migraine Disorder,Chronic,Mild,108,Basti,No Change,Sedentary,Nasya
+63,Female,High Sugar,Diabetes Mellitus,Chronic,Moderate,341,Takradhara,Improved,Stressful,Vamana
+63,Female,Low Mood,Depression,Acute,Mild,259,Nasya,Improved,Stressful,Shirodhara
+37,Male,High Sugar,Diabetes Mellitus,Acute,Mild,333,Abhyanga,No Change,Stressful,Nasya
+31,Female,Skin Problems,Psoriasis,Chronic,Severe,102,Nasya,Worsened,Sedentary,Virechana
+49,Male,High BP,Hypertension,Acute,Moderate,54,Basti,No Change,Sedentary,Basti
+32,Female,Low BP,Hypotension,Chronic,Moderate,23,Udvartana,No Change,Stressful,Udvartana
+75,Male,High BP,Hypertension,Acute,Moderate,204,Kati Basti,Improved,Sedentary,Takradhara
+56,Male,High BP,Hypertension,Chronic,Moderate,327,Nasya,Worsened,Active,Nasya
+75,Male,Joint Pain,Arthritis,Chronic,Severe,252,Shirodhara,Worsened,Active,Basti
+27,Male,Stress,Anxiety,Chronic,Moderate,247,Nasya,Improved,Active,Shirodhara
+43,Male,Headache,Migraine Disorder,Chronic,Severe,82,Janu Basti,Worsened,Active,Nasya
+24,Male,Low BP,Hypotension,Acute,Moderate,145,Takradhara,Improved,Sedentary,Abhyanga
+60,Male,Low Mood,Depression,Acute,Mild,165,Kati Basti,No Change,Stressful,Janu Basti
+45,Male,Headache,Migraine Disorder,Chronic,Moderate,8,Vamana,Worsened,Active,Nasya
+36,Female,High BP,Hypertension,Acute,Severe,159,Takradhara,Improved,Stressful,Takradhara
+75,Female,Low BP,Hypotension,Acute,Severe,64,Shirodhara,Worsened,Sedentary,Shirodhara
+30,Female,Skin Problems,Psoriasis,Chronic,Mild,166,Abhyanga,Improved,Sedentary,Virechana
+63,Female,Breathing Issue,Asthma,Acute,Moderate,228,Shirodhara,Improved,Sedentary,Nasya
+68,Female,Headache,Migraine Disorder,Acute,Mild,182,Nasya,No Change,Active,Takradhara
+31,Male,Joint Pain,Arthritis,Chronic,Moderate,94,Shirodhara,Improved,Sedentary,Basti
+68,Male,Acidity,Gastritis,Chronic,Severe,253,Nasya,Improved,Active,Virechana
+27,Female,Stress,Anxiety,Chronic,Mild,168,Abhyanga,No Change,Active,Nasya
+52,Female,Stress,Anxiety,Chronic,Mild,314,Shirodhara,Improved,Sedentary,Shirodhara
+58,Female,Breathing Issue,Asthma,Acute,Moderate,155,Virechana,Improved,Active,Nasya
+56,Female,Low BP,Hypotension,Chronic,Severe,357,Nasya,Improved,Active,Abhyanga
+74,Male,Knee Pain,Osteoarthritis,Chronic,Mild,206,Virechana,Improved,Stressful,Janu Basti
+49,Female,Weight Gain,Obesity,Acute,Moderate,129,Vamana,No Change,Stressful,Udvartana
+52,Female,Knee Pain,Osteoarthritis,Acute,Moderate,32,Shirodhara,No Change,Active,Nasya
+72,Female,Headache,Migraine Disorder,Chronic,Moderate,23,Udvartana,Improved,Stressful,Nasya
+73,Female,Skin Problems,Psoriasis,Chronic,Moderate,272,Shirodhara,Worsened,Stressful,Virechana
+75,Male,Breathing Issue,Asthma,Acute,Severe,288,Takradhara,Improved,Stressful,Nasya
+56,Male,Acidity,Gastritis,Acute,Mild,192,Basti,No Change,Active,Abhyanga
+37,Male,Joint Pain,Arthritis,Acute,Mild,346,Janu Basti,Improved,Active,Basti
+75,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,146,Janu Basti,Improved,Sedentary,Vamana
+59,Female,Fatigue,Chronic Fatigue,Acute,Mild,46,Vamana,Worsened,Active,Udvartana
+72,Male,High BP,Hypertension,Chronic,Severe,250,Takradhara,Improved,Stressful,Takradhara
+43,Male,Low Mood,Depression,Acute,Moderate,306,Nasya,Worsened,Sedentary,Janu Basti
+40,Female,Knee Pain,Osteoarthritis,Acute,Moderate,358,Virechana,Worsened,Sedentary,Abhyanga
+71,Female,Back Pain,Spondylitis,Chronic,Moderate,8,Shirodhara,No Change,Active,Shirodhara
+47,Male,Low BP,Hypotension,Acute,Mild,209,Vamana,Improved,Stressful,Abhyanga
+45,Male,Skin Problems,Psoriasis,Chronic,Mild,275,Shirodhara,No Change,Sedentary,Udvartana
+58,Female,Skin Problems,Psoriasis,Chronic,Severe,41,Vamana,Improved,Active,Virechana
+72,Male,Knee Pain,Osteoarthritis,Chronic,Severe,18,Abhyanga,No Change,Active,Janu Basti
+18,Female,Acidity,Gastritis,Acute,Severe,326,Janu Basti,Improved,Stressful,Virechana
+59,Female,Joint Pain,Arthritis,Acute,Mild,185,Janu Basti,Worsened,Sedentary,Basti
+53,Male,Stress,Anxiety,Chronic,Mild,280,Kati Basti,Improved,Sedentary,Shirodhara
+75,Male,Acidity,Gastritis,Acute,Moderate,291,Takradhara,Improved,Sedentary,Virechana
+62,Female,Headache,Migraine Disorder,Chronic,Severe,96,Udvartana,No Change,Stressful,Nasya
+31,Male,Back Pain,Spondylitis,Chronic,Moderate,253,Abhyanga,Improved,Stressful,Kati Basti
+42,Female,Back Pain,Spondylitis,Acute,Moderate,322,Kati Basti,No Change,Sedentary,Janu Basti
+25,Male,Skin Problems,Psoriasis,Acute,Moderate,255,Udvartana,Worsened,Sedentary,Udvartana
+48,Female,Skin Problems,Psoriasis,Chronic,Severe,138,Virechana,No Change,Sedentary,Virechana
+38,Female,Stress,Anxiety,Acute,Mild,81,Nasya,No Change,Stressful,Shirodhara
+44,Male,Acidity,Gastritis,Acute,Severe,310,Vamana,No Change,Stressful,Shirodhara
+32,Male,High Sugar,Diabetes Mellitus,Chronic,Moderate,290,Vamana,No Change,Active,Nasya
+35,Male,Back Pain,Spondylitis,Chronic,Mild,161,Virechana,Improved,Stressful,Kati Basti
+49,Male,Joint Pain,Arthritis,Acute,Mild,121,Basti,Worsened,Stressful,Vamana
+23,Male,Breathing Issue,Asthma,Acute,Severe,53,Basti,No Change,Stressful,Takradhara
+60,Male,Knee Pain,Osteoarthritis,Acute,Mild,326,Shirodhara,Improved,Active,Janu Basti
+43,Male,Acidity,Gastritis,Chronic,Moderate,270,Virechana,No Change,Stressful,Udvartana
+57,Male,Fatigue,Chronic Fatigue,Chronic,Moderate,15,Nasya,No Change,Stressful,Nasya
+72,Female,Low BP,Hypotension,Chronic,Severe,233,Kati Basti,Worsened,Sedentary,Abhyanga
+29,Female,Back Pain,Spondylitis,Acute,Mild,113,Janu Basti,Improved,Stressful,Kati Basti
+63,Female,High Sugar,Diabetes Mellitus,Chronic,Moderate,39,Nasya,Improved,Stressful,Vamana
+20,Male,Knee Pain,Osteoarthritis,Acute,Severe,58,Janu Basti,Improved,Stressful,Janu Basti
+46,Male,Breathing Issue,Asthma,Acute,Mild,269,Nasya,No Change,Sedentary,Takradhara
+74,Female,High Sugar,Diabetes Mellitus,Acute,Moderate,253,Nasya,No Change,Active,Abhyanga
+73,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,10,Kati Basti,No Change,Stressful,Vamana
+23,Female,Headache,Migraine Disorder,Chronic,Mild,364,Nasya,Worsened,Sedentary,Nasya
+74,Female,Stress,Anxiety,Chronic,Severe,260,Takradhara,No Change,Active,Shirodhara
+29,Male,High BP,Hypertension,Acute,Moderate,182,Shirodhara,Worsened,Active,Janu Basti
+68,Female,Breathing Issue,Asthma,Acute,Moderate,354,Shirodhara,No Change,Active,Abhyanga
+69,Male,Knee Pain,Osteoarthritis,Chronic,Severe,245,Takradhara,Improved,Sedentary,Janu Basti
+31,Female,Skin Problems,Psoriasis,Chronic,Moderate,238,Vamana,Improved,Stressful,Virechana
+58,Female,Back Pain,Spondylitis,Chronic,Severe,122,Shirodhara,Worsened,Stressful,Kati Basti
+31,Female,Back Pain,Spondylitis,Chronic,Moderate,98,Vamana,Worsened,Active,Virechana
+66,Male,Skin Problems,Psoriasis,Acute,Mild,25,Basti,No Change,Sedentary,Virechana
+54,Male,Stress,Anxiety,Chronic,Moderate,239,Takradhara,Improved,Sedentary,Shirodhara
+45,Female,Fatigue,Chronic Fatigue,Chronic,Severe,210,Takradhara,Worsened,Active,Abhyanga
+59,Male,Joint Pain,Arthritis,Acute,Moderate,335,Virechana,Worsened,Stressful,Abhyanga
+67,Male,Weight Gain,Obesity,Chronic,Moderate,80,Vamana,No Change,Sedentary,Nasya
+66,Female,High BP,Hypertension,Chronic,Moderate,292,Shirodhara,Improved,Active,Takradhara
+35,Female,Low Mood,Depression,Acute,Moderate,190,Virechana,Improved,Active,Shirodhara
+64,Female,High BP,Hypertension,Chronic,Moderate,196,Kati Basti,Worsened,Sedentary,Vamana
+52,Male,Fatigue,Chronic Fatigue,Acute,Moderate,220,Virechana,Worsened,Sedentary,Nasya
+18,Female,High BP,Hypertension,Acute,Moderate,166,Takradhara,Worsened,Sedentary,Takradhara
+47,Female,Headache,Migraine Disorder,Chronic,Moderate,243,Abhyanga,Improved,Stressful,Nasya
+29,Female,Low Mood,Depression,Chronic,Moderate,119,Basti,No Change,Stressful,Vamana
+58,Male,Back Pain,Spondylitis,Chronic,Mild,227,Abhyanga,Improved,Stressful,Kati Basti
+75,Male,Fatigue,Chronic Fatigue,Acute,Moderate,181,Udvartana,Worsened,Sedentary,Shirodhara
+54,Male,High BP,Hypertension,Acute,Moderate,257,Vamana,Improved,Sedentary,Takradhara
+28,Male,Back Pain,Spondylitis,Chronic,Mild,363,Basti,Improved,Active,Kati Basti
+67,Male,Back Pain,Spondylitis,Acute,Severe,290,Janu Basti,Worsened,Active,Virechana
+62,Female,High Sugar,Diabetes Mellitus,Chronic,Severe,196,Nasya,Improved,Active,Vamana
+53,Male,Stress,Anxiety,Acute,Mild,338,Vamana,No Change,Active,Shirodhara
+72,Male,Headache,Migraine Disorder,Chronic,Severe,357,Nasya,No Change,Stressful,Nasya
+33,Male,Low Mood,Depression,Acute,Severe,306,Nasya,Worsened,Stressful,Virechana
+43,Male,Headache,Migraine Disorder,Acute,Moderate,149,Janu Basti,Worsened,Active,Abhyanga
+71,Male,Stress,Anxiety,Acute,Moderate,248,Virechana,Worsened,Active,Virechana
+32,Female,Skin Problems,Psoriasis,Chronic,Severe,102,Nasya,Worsened,Stressful,Virechana
+72,Female,Stress,Anxiety,Acute,Mild,216,Vamana,Worsened,Stressful,Virechana
+44,Female,Weight Gain,Obesity,Chronic,Mild,319,Takradhara,Worsened,Stressful,Janu Basti
+34,Male,Breathing Issue,Asthma,Acute,Severe,99,Nasya,Improved,Stressful,Nasya
+59,Male,Weight Gain,Obesity,Chronic,Severe,121,Nasya,No Change,Stressful,Udvartana
+68,Female,High BP,Hypertension,Acute,Moderate,224,Nasya,Worsened,Active,Takradhara
+39,Male,High BP,Hypertension,Chronic,Severe,149,Shirodhara,No Change,Stressful,Takradhara
+46,Female,Knee Pain,Osteoarthritis,Chronic,Mild,252,Virechana,No Change,Sedentary,Shirodhara
+71,Male,Joint Pain,Arthritis,Acute,Mild,8,Janu Basti,No Change,Stressful,Janu Basti
+58,Male,High BP,Hypertension,Chronic,Mild,146,Udvartana,No Change,Active,Udvartana
+51,Male,Joint Pain,Arthritis,Acute,Moderate,175,Nasya,No Change,Sedentary,Takradhara
+71,Female,Back Pain,Spondylitis,Acute,Mild,85,Shirodhara,No Change,Active,Virechana
+65,Female,Acidity,Gastritis,Chronic,Severe,275,Janu Basti,Worsened,Active,Virechana
+58,Female,Joint Pain,Arthritis,Chronic,Mild,172,Takradhara,Worsened,Active,Takradhara
+33,Female,Low BP,Hypotension,Chronic,Severe,313,Shirodhara,Improved,Sedentary,Abhyanga
+54,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,159,Kati Basti,No Change,Stressful,Abhyanga
+32,Female,High Sugar,Diabetes Mellitus,Acute,Moderate,92,Udvartana,No Change,Stressful,Janu Basti
+40,Male,Low BP,Hypotension,Chronic,Severe,7,Virechana,Improved,Stressful,Abhyanga
+29,Female,Back Pain,Spondylitis,Acute,Severe,199,Udvartana,No Change,Stressful,Virechana
+18,Female,Fatigue,Chronic Fatigue,Acute,Severe,244,Virechana,Worsened,Stressful,Kati Basti
+51,Male,Fatigue,Chronic Fatigue,Acute,Moderate,142,Shirodhara,Improved,Sedentary,Abhyanga
+64,Male,Weight Gain,Obesity,Acute,Moderate,60,Nasya,Improved,Active,Udvartana
+61,Female,High BP,Hypertension,Chronic,Severe,322,Janu Basti,No Change,Stressful,Takradhara
+28,Male,Back Pain,Spondylitis,Acute,Moderate,7,Kati Basti,No Change,Active,Shirodhara
+33,Female,Low Mood,Depression,Acute,Severe,237,Basti,Improved,Sedentary,Shirodhara
+55,Male,Skin Problems,Psoriasis,Acute,Severe,236,Virechana,No Change,Active,Virechana
+26,Male,Knee Pain,Osteoarthritis,Chronic,Severe,135,Kati Basti,No Change,Sedentary,Janu Basti
+41,Male,Weight Gain,Obesity,Chronic,Mild,211,Virechana,Improved,Stressful,Udvartana
+42,Male,Knee Pain,Osteoarthritis,Chronic,Severe,225,Shirodhara,No Change,Sedentary,Janu Basti
+21,Female,Headache,Migraine Disorder,Chronic,Mild,235,Shirodhara,Improved,Sedentary,Nasya
+66,Female,High BP,Hypertension,Acute,Moderate,10,Kati Basti,Worsened,Active,Abhyanga
+50,Male,Acidity,Gastritis,Chronic,Moderate,163,Nasya,Worsened,Stressful,Basti
+72,Female,Knee Pain,Osteoarthritis,Acute,Mild,12,Basti,Improved,Sedentary,Janu Basti
+40,Female,Acidity,Gastritis,Chronic,Mild,312,Abhyanga,Improved,Sedentary,Virechana
+39,Male,High BP,Hypertension,Chronic,Mild,300,Nasya,Worsened,Sedentary,Abhyanga
+46,Female,High BP,Hypertension,Acute,Moderate,32,Virechana,No Change,Sedentary,Shirodhara
+35,Female,Headache,Migraine Disorder,Acute,Severe,180,Abhyanga,No Change,Sedentary,Abhyanga
+55,Female,Headache,Migraine Disorder,Acute,Severe,31,Takradhara,Worsened,Sedentary,Abhyanga
+38,Male,Fatigue,Chronic Fatigue,Acute,Moderate,232,Takradhara,No Change,Sedentary,Basti
+75,Male,Knee Pain,Osteoarthritis,Acute,Moderate,28,Shirodhara,No Change,Stressful,Vamana
+29,Female,Fatigue,Chronic Fatigue,Chronic,Mild,30,Shirodhara,Worsened,Active,Abhyanga
+47,Male,Weight Gain,Obesity,Chronic,Mild,11,Nasya,Worsened,Stressful,Shirodhara
+41,Male,Back Pain,Spondylitis,Acute,Severe,292,Virechana,Improved,Stressful,Kati Basti
+72,Female,Stress,Anxiety,Acute,Moderate,245,Nasya,Improved,Active,Shirodhara
+60,Female,Headache,Migraine Disorder,Chronic,Mild,261,Basti,No Change,Sedentary,Vamana
+19,Male,High Sugar,Diabetes Mellitus,Chronic,Mild,197,Vamana,No Change,Active,Udvartana
+48,Female,Low BP,Hypotension,Acute,Mild,96,Abhyanga,No Change,Active,Vamana
+52,Male,Fatigue,Chronic Fatigue,Chronic,Mild,19,Abhyanga,Improved,Sedentary,Abhyanga
+48,Male,Headache,Migraine Disorder,Acute,Severe,342,Udvartana,Worsened,Active,Shirodhara
+27,Male,Acidity,Gastritis,Acute,Moderate,80,Shirodhara,No Change,Active,Udvartana
+28,Female,Back Pain,Spondylitis,Chronic,Severe,341,Nasya,Improved,Active,Kati Basti
+27,Female,Joint Pain,Arthritis,Acute,Mild,66,Nasya,Improved,Sedentary,Basti
+23,Male,Stress,Anxiety,Acute,Moderate,52,Virechana,No Change,Sedentary,Abhyanga
+68,Female,High Sugar,Diabetes Mellitus,Acute,Mild,52,Kati Basti,Improved,Active,Vamana
+64,Male,Fatigue,Chronic Fatigue,Chronic,Mild,25,Shirodhara,Worsened,Sedentary,Kati Basti
+24,Female,Acidity,Gastritis,Chronic,Mild,203,Vamana,Improved,Stressful,Virechana
+32,Female,Acidity,Gastritis,Acute,Mild,253,Kati Basti,No Change,Stressful,Abhyanga
+20,Male,Stress,Anxiety,Chronic,Moderate,263,Virechana,No Change,Stressful,Nasya
+37,Female,Back Pain,Spondylitis,Chronic,Severe,99,Shirodhara,Worsened,Stressful,Kati Basti
+23,Female,Stress,Anxiety,Acute,Severe,82,Janu Basti,No Change,Sedentary,Shirodhara
+67,Female,Breathing Issue,Asthma,Chronic,Moderate,105,Takradhara,Worsened,Active,Janu Basti
+30,Female,Skin Problems,Psoriasis,Chronic,Severe,111,Nasya,Improved,Sedentary,Virechana
+24,Male,Acidity,Gastritis,Acute,Mild,13,Shirodhara,Improved,Sedentary,Virechana
+37,Female,Joint Pain,Arthritis,Acute,Severe,337,Shirodhara,No Change,Stressful,Takradhara
+18,Male,Weight Gain,Obesity,Chronic,Moderate,180,Abhyanga,No Change,Stressful,Vamana
+51,Male,Weight Gain,Obesity,Chronic,Mild,63,Virechana,Improved,Active,Udvartana
+52,Male,High Sugar,Diabetes Mellitus,Acute,Mild,157,Virechana,Improved,Active,Vamana
+26,Male,Headache,Migraine Disorder,Chronic,Severe,317,Takradhara,Worsened,Sedentary,Nasya
+65,Male,Headache,Migraine Disorder,Chronic,Mild,48,Udvartana,Worsened,Stressful,Shirodhara
+25,Female,Weight Gain,Obesity,Chronic,Mild,12,Abhyanga,Worsened,Stressful,Virechana
+34,Male,Fatigue,Chronic Fatigue,Chronic,Severe,158,Virechana,No Change,Sedentary,Abhyanga
+63,Female,Headache,Migraine Disorder,Chronic,Mild,340,Abhyanga,Worsened,Stressful,Virechana
+74,Female,Joint Pain,Arthritis,Acute,Severe,319,Shirodhara,No Change,Stressful,Virechana
+61,Male,Back Pain,Spondylitis,Acute,Severe,288,Nasya,Worsened,Sedentary,Nasya
+61,Male,Knee Pain,Osteoarthritis,Acute,Severe,253,Abhyanga,Worsened,Sedentary,Virechana
+58,Female,High BP,Hypertension,Acute,Severe,172,Virechana,Improved,Stressful,Takradhara
+72,Female,Knee Pain,Osteoarthritis,Acute,Mild,99,Kati Basti,Improved,Stressful,Janu Basti
+75,Female,Skin Problems,Psoriasis,Chronic,Moderate,85,Virechana,Improved,Stressful,Virechana
+73,Female,High BP,Hypertension,Acute,Mild,354,Vamana,Improved,Active,Takradhara
+42,Female,Stress,Anxiety,Chronic,Moderate,190,Takradhara,Improved,Sedentary,Shirodhara
+45,Female,Fatigue,Chronic Fatigue,Chronic,Mild,136,Takradhara,No Change,Stressful,Virechana
+65,Female,Joint Pain,Arthritis,Chronic,Mild,36,Kati Basti,Improved,Stressful,Basti
+40,Male,High BP,Hypertension,Acute,Mild,15,Takradhara,No Change,Stressful,Shirodhara
+40,Female,Skin Problems,Psoriasis,Acute,Moderate,40,Takradhara,Worsened,Active,Nasya
+75,Female,High BP,Hypertension,Chronic,Moderate,143,Udvartana,Worsened,Sedentary,Janu Basti
+42,Male,Weight Gain,Obesity,Acute,Moderate,285,Basti,Improved,Stressful,Udvartana
+74,Male,Joint Pain,Arthritis,Acute,Severe,330,Virechana,No Change,Active,Abhyanga
+24,Male,Stress,Anxiety,Acute,Severe,339,Basti,Worsened,Sedentary,Kati Basti
+25,Male,Joint Pain,Arthritis,Acute,Mild,243,Abhyanga,Improved,Stressful,Basti
+52,Female,Low BP,Hypotension,Chronic,Moderate,19,Udvartana,No Change,Active,Vamana
+21,Female,Low Mood,Depression,Chronic,Severe,97,Basti,Worsened,Active,Shirodhara
+22,Female,Headache,Migraine Disorder,Acute,Moderate,171,Janu Basti,Improved,Sedentary,Nasya
+64,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,134,Shirodhara,Worsened,Active,Takradhara
+31,Male,Headache,Migraine Disorder,Acute,Severe,334,Shirodhara,Improved,Sedentary,Nasya
+57,Male,Joint Pain,Arthritis,Chronic,Moderate,21,Kati Basti,Worsened,Active,Nasya
+46,Female,Low Mood,Depression,Acute,Severe,152,Takradhara,Improved,Sedentary,Shirodhara
+34,Female,High BP,Hypertension,Acute,Severe,296,Abhyanga,No Change,Sedentary,Shirodhara
+71,Male,Skin Problems,Psoriasis,Acute,Moderate,166,Abhyanga,Improved,Stressful,Virechana
+52,Female,Fatigue,Chronic Fatigue,Chronic,Moderate,169,Nasya,No Change,Stressful,Virechana
+30,Male,Back Pain,Spondylitis,Chronic,Severe,143,Vamana,No Change,Active,Kati Basti
+55,Male,High BP,Hypertension,Acute,Moderate,273,Basti,Worsened,Active,Udvartana
+54,Male,Joint Pain,Arthritis,Acute,Mild,255,Janu Basti,Improved,Sedentary,Basti
+53,Male,Back Pain,Spondylitis,Chronic,Moderate,271,Shirodhara,No Change,Active,Shirodhara
+31,Male,Low BP,Hypotension,Acute,Mild,52,Abhyanga,Improved,Active,Abhyanga
+36,Female,Headache,Migraine Disorder,Chronic,Severe,10,Virechana,Worsened,Sedentary,Nasya
+33,Female,Stress,Anxiety,Acute,Moderate,168,Shirodhara,Improved,Sedentary,Shirodhara
+47,Female,Headache,Migraine Disorder,Chronic,Mild,106,Basti,Improved,Active,Nasya
+23,Female,High Sugar,Diabetes Mellitus,Acute,Moderate,69,Virechana,Worsened,Stressful,Vamana
+70,Female,High Sugar,Diabetes Mellitus,Acute,Mild,127,Abhyanga,Improved,Sedentary,Vamana
+33,Female,Low BP,Hypotension,Chronic,Severe,271,Abhyanga,No Change,Active,Abhyanga
+19,Female,Stress,Anxiety,Acute,Severe,232,Vamana,Improved,Sedentary,Shirodhara
+44,Male,Acidity,Gastritis,Chronic,Mild,142,Janu Basti,No Change,Sedentary,Udvartana
+38,Female,Headache,Migraine Disorder,Acute,Mild,286,Janu Basti,No Change,Stressful,Basti
+40,Male,Breathing Issue,Asthma,Acute,Moderate,177,Shirodhara,Improved,Stressful,Nasya
+27,Male,Headache,Migraine Disorder,Chronic,Mild,277,Janu Basti,No Change,Sedentary,Shirodhara
+27,Male,High BP,Hypertension,Chronic,Severe,354,Virechana,Worsened,Active,Takradhara
+54,Male,Low Mood,Depression,Acute,Mild,248,Abhyanga,Worsened,Sedentary,Vamana
+42,Male,Stress,Anxiety,Acute,Severe,81,Nasya,Improved,Stressful,Shirodhara
+22,Female,Joint Pain,Arthritis,Acute,Severe,349,Basti,No Change,Stressful,Basti
+54,Male,Low BP,Hypotension,Chronic,Mild,277,Shirodhara,No Change,Sedentary,Shirodhara
+49,Male,Breathing Issue,Asthma,Acute,Mild,194,Virechana,Improved,Stressful,Nasya
+62,Female,Joint Pain,Arthritis,Chronic,Mild,283,Abhyanga,Worsened,Active,Nasya
+30,Female,Stress,Anxiety,Acute,Severe,33,Shirodhara,Improved,Sedentary,Shirodhara
+51,Male,Headache,Migraine Disorder,Chronic,Mild,315,Udvartana,No Change,Active,Virechana
+23,Male,Stress,Anxiety,Chronic,Mild,136,Virechana,No Change,Sedentary,Vamana
+25,Female,Headache,Migraine Disorder,Acute,Severe,262,Abhyanga,Worsened,Sedentary,Nasya
+32,Female,Weight Gain,Obesity,Chronic,Moderate,86,Udvartana,Worsened,Sedentary,Shirodhara
+67,Male,Low BP,Hypotension,Acute,Moderate,257,Virechana,Improved,Stressful,Abhyanga
+43,Male,Knee Pain,Osteoarthritis,Chronic,Mild,281,Shirodhara,No Change,Stressful,Janu Basti
+65,Female,Back Pain,Spondylitis,Chronic,Severe,126,Nasya,No Change,Sedentary,Kati Basti
+42,Male,Stress,Anxiety,Chronic,Severe,228,Udvartana,Worsened,Active,Shirodhara
+44,Female,High BP,Hypertension,Chronic,Moderate,121,Nasya,Worsened,Active,Basti
+22,Female,High BP,Hypertension,Acute,Mild,91,Udvartana,Worsened,Stressful,Abhyanga
+51,Male,Headache,Migraine Disorder,Chronic,Severe,206,Nasya,Worsened,Stressful,Nasya
+40,Female,Weight Gain,Obesity,Chronic,Moderate,131,Udvartana,Worsened,Sedentary,Abhyanga
+24,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,249,Shirodhara,No Change,Active,Shirodhara
+39,Male,Headache,Migraine Disorder,Chronic,Severe,156,Takradhara,Worsened,Sedentary,Nasya
+67,Female,Fatigue,Chronic Fatigue,Acute,Mild,209,Abhyanga,Worsened,Stressful,Vamana
+23,Female,Low Mood,Depression,Chronic,Severe,144,Shirodhara,Worsened,Stressful,Shirodhara
+41,Male,High BP,Hypertension,Acute,Severe,195,Takradhara,No Change,Active,Abhyanga
+60,Male,Fatigue,Chronic Fatigue,Chronic,Moderate,19,Takradhara,No Change,Active,Udvartana
+31,Male,Headache,Migraine Disorder,Chronic,Moderate,69,Abhyanga,Worsened,Active,Basti
+50,Female,Skin Problems,Psoriasis,Chronic,Mild,167,Vamana,Improved,Active,Virechana
+64,Female,High Sugar,Diabetes Mellitus,Acute,Severe,86,Takradhara,Improved,Active,Vamana
+50,Female,Low BP,Hypotension,Acute,Moderate,193,Abhyanga,Improved,Stressful,Abhyanga
+56,Female,Knee Pain,Osteoarthritis,Acute,Mild,256,Nasya,No Change,Active,Shirodhara
+34,Male,Breathing Issue,Asthma,Chronic,Mild,286,Vamana,Improved,Sedentary,Nasya
+19,Female,Low Mood,Depression,Chronic,Severe,105,Shirodhara,Worsened,Sedentary,Shirodhara
+59,Male,Fatigue,Chronic Fatigue,Acute,Mild,146,Janu Basti,No Change,Sedentary,Virechana
+58,Male,Headache,Migraine Disorder,Chronic,Mild,133,Janu Basti,No Change,Stressful,Janu Basti
+55,Female,Fatigue,Chronic Fatigue,Acute,Moderate,79,Takradhara,Improved,Stressful,Abhyanga
+74,Female,Low BP,Hypotension,Acute,Severe,188,Virechana,Worsened,Sedentary,Virechana
+71,Male,Weight Gain,Obesity,Chronic,Severe,112,Shirodhara,No Change,Sedentary,Udvartana
+59,Female,Skin Problems,Psoriasis,Chronic,Moderate,194,Abhyanga,Improved,Active,Virechana
+37,Female,Stress,Anxiety,Acute,Severe,31,Udvartana,Worsened,Stressful,Virechana
+30,Male,Breathing Issue,Asthma,Acute,Moderate,190,Abhyanga,Worsened,Sedentary,Takradhara
+27,Female,Stress,Anxiety,Chronic,Moderate,235,Abhyanga,No Change,Sedentary,Abhyanga
+56,Female,Fatigue,Chronic Fatigue,Chronic,Moderate,281,Shirodhara,Improved,Sedentary,Abhyanga
+21,Female,Stress,Anxiety,Chronic,Severe,319,Janu Basti,Worsened,Sedentary,Shirodhara
+31,Female,High BP,Hypertension,Acute,Mild,123,Virechana,Improved,Sedentary,Takradhara
+26,Female,Weight Gain,Obesity,Acute,Moderate,51,Janu Basti,No Change,Sedentary,Shirodhara
+48,Female,Knee Pain,Osteoarthritis,Chronic,Mild,96,Janu Basti,Worsened,Sedentary,Abhyanga
+69,Female,High Sugar,Diabetes Mellitus,Chronic,Mild,30,Kati Basti,Improved,Sedentary,Vamana
+26,Male,Joint Pain,Arthritis,Chronic,Severe,303,Takradhara,No Change,Sedentary,Basti
+49,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,168,Takradhara,Worsened,Sedentary,Vamana
+36,Female,Skin Problems,Psoriasis,Chronic,Mild,326,Virechana,Improved,Active,Virechana
+55,Male,High BP,Hypertension,Acute,Moderate,199,Kati Basti,Improved,Active,Takradhara
+21,Female,Acidity,Gastritis,Acute,Moderate,252,Vamana,Improved,Sedentary,Virechana
+53,Male,Breathing Issue,Asthma,Chronic,Moderate,315,Vamana,No Change,Active,Abhyanga
+27,Female,Fatigue,Chronic Fatigue,Acute,Moderate,31,Takradhara,Worsened,Active,Nasya
+45,Female,Acidity,Gastritis,Acute,Mild,361,Virechana,No Change,Stressful,Virechana
+69,Female,Weight Gain,Obesity,Acute,Severe,36,Virechana,No Change,Active,Shirodhara
+28,Female,Stress,Anxiety,Acute,Moderate,22,Vamana,Worsened,Active,Virechana
+23,Female,Low Mood,Depression,Acute,Severe,235,Abhyanga,Worsened,Active,Abhyanga
+29,Female,Low Mood,Depression,Chronic,Mild,184,Udvartana,No Change,Stressful,Kati Basti
+49,Male,Back Pain,Spondylitis,Chronic,Severe,345,Basti,Worsened,Stressful,Kati Basti
+52,Female,Breathing Issue,Asthma,Acute,Severe,7,Virechana,Worsened,Active,Takradhara
+35,Male,Stress,Anxiety,Chronic,Mild,296,Basti,No Change,Sedentary,Shirodhara
+55,Male,Joint Pain,Arthritis,Chronic,Mild,45,Nasya,Improved,Active,Basti
+24,Female,Low Mood,Depression,Chronic,Mild,59,Nasya,Worsened,Stressful,Abhyanga
+71,Female,Breathing Issue,Asthma,Acute,Mild,33,Virechana,No Change,Stressful,Shirodhara
+36,Female,High BP,Hypertension,Acute,Severe,52,Udvartana,Worsened,Stressful,Nasya
+35,Male,High Sugar,Diabetes Mellitus,Chronic,Mild,279,Vamana,Improved,Sedentary,Vamana
+25,Male,Breathing Issue,Asthma,Acute,Moderate,304,Vamana,No Change,Stressful,Basti
+71,Male,Low Mood,Depression,Acute,Severe,254,Nasya,Worsened,Stressful,Shirodhara
+18,Male,Knee Pain,Osteoarthritis,Chronic,Moderate,180,Abhyanga,Worsened,Active,Kati Basti
+21,Female,Fatigue,Chronic Fatigue,Acute,Severe,314,Janu Basti,Improved,Stressful,Abhyanga
+66,Female,Low Mood,Depression,Chronic,Mild,62,Janu Basti,Improved,Sedentary,Shirodhara
+18,Female,Acidity,Gastritis,Chronic,Severe,190,Virechana,No Change,Sedentary,Virechana
+68,Female,Back Pain,Spondylitis,Acute,Moderate,22,Abhyanga,No Change,Sedentary,Janu Basti
+26,Male,Back Pain,Spondylitis,Chronic,Severe,80,Nasya,No Change,Active,Kati Basti
+22,Male,Knee Pain,Osteoarthritis,Acute,Moderate,154,Shirodhara,Worsened,Stressful,Shirodhara
+19,Female,Weight Gain,Obesity,Acute,Moderate,15,Janu Basti,Worsened,Sedentary,Virechana
+54,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,98,Takradhara,Improved,Stressful,Janu Basti
+25,Male,Headache,Migraine Disorder,Acute,Mild,191,Vamana,Worsened,Sedentary,Virechana
+41,Male,Acidity,Gastritis,Chronic,Mild,86,Basti,No Change,Stressful,Basti
+27,Male,Acidity,Gastritis,Acute,Severe,74,Shirodhara,No Change,Stressful,Janu Basti
+61,Male,Weight Gain,Obesity,Chronic,Severe,339,Shirodhara,Worsened,Sedentary,Udvartana
+23,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,141,Shirodhara,No Change,Stressful,Vamana
+71,Male,Back Pain,Spondylitis,Chronic,Moderate,146,Janu Basti,Worsened,Sedentary,Abhyanga
+24,Female,Skin Problems,Psoriasis,Acute,Moderate,290,Basti,Worsened,Sedentary,Virechana
+49,Male,Headache,Migraine Disorder,Acute,Mild,92,Abhyanga,Worsened,Stressful,Takradhara
+58,Female,Low Mood,Depression,Chronic,Moderate,163,Nasya,No Change,Sedentary,Virechana
+47,Male,Stress,Anxiety,Chronic,Mild,357,Basti,Worsened,Active,Virechana
+38,Male,Knee Pain,Osteoarthritis,Acute,Moderate,37,Kati Basti,Improved,Stressful,Janu Basti
+28,Female,Weight Gain,Obesity,Acute,Moderate,16,Abhyanga,Improved,Active,Udvartana
+62,Female,Fatigue,Chronic Fatigue,Chronic,Mild,357,Nasya,Worsened,Stressful,Nasya
+29,Male,Stress,Anxiety,Chronic,Mild,203,Takradhara,Improved,Sedentary,Shirodhara
+56,Male,Headache,Migraine Disorder,Acute,Moderate,335,Abhyanga,Worsened,Active,Abhyanga
+33,Female,Back Pain,Spondylitis,Chronic,Severe,103,Shirodhara,Worsened,Stressful,Kati Basti
+24,Male,Weight Gain,Obesity,Acute,Severe,141,Basti,Worsened,Stressful,Shirodhara
+41,Female,Fatigue,Chronic Fatigue,Acute,Severe,365,Vamana,Worsened,Stressful,Virechana
+60,Male,Breathing Issue,Asthma,Acute,Mild,338,Abhyanga,No Change,Stressful,Vamana
+63,Male,Weight Gain,Obesity,Acute,Moderate,13,Takradhara,Worsened,Stressful,Virechana
+59,Female,High Sugar,Diabetes Mellitus,Acute,Severe,191,Shirodhara,No Change,Stressful,Shirodhara
+39,Female,Low Mood,Depression,Chronic,Mild,245,Udvartana,No Change,Active,Nasya
+57,Female,Knee Pain,Osteoarthritis,Chronic,Moderate,147,Abhyanga,Worsened,Active,Virechana
+25,Male,Stress,Anxiety,Acute,Mild,77,Shirodhara,Worsened,Sedentary,Abhyanga
+40,Male,Skin Problems,Psoriasis,Acute,Mild,277,Nasya,Improved,Active,Virechana
+20,Male,Low Mood,Depression,Acute,Moderate,198,Shirodhara,Improved,Active,Shirodhara
+58,Male,Low BP,Hypotension,Acute,Mild,50,Basti,Improved,Stressful,Abhyanga
+75,Female,Low Mood,Depression,Chronic,Mild,213,Kati Basti,Worsened,Stressful,Shirodhara
+30,Male,Low Mood,Depression,Chronic,Mild,364,Abhyanga,Improved,Sedentary,Shirodhara
+40,Male,High BP,Hypertension,Acute,Moderate,254,Virechana,Worsened,Stressful,Abhyanga
+37,Female,Skin Problems,Psoriasis,Acute,Mild,240,Takradhara,Improved,Active,Virechana
+31,Female,High Sugar,Diabetes Mellitus,Acute,Moderate,357,Udvartana,Improved,Sedentary,Vamana
+44,Male,Stress,Anxiety,Chronic,Mild,306,Shirodhara,Improved,Stressful,Shirodhara
+57,Male,Joint Pain,Arthritis,Chronic,Severe,47,Abhyanga,No Change,Sedentary,Basti
+25,Male,Knee Pain,Osteoarthritis,Chronic,Mild,279,Abhyanga,Improved,Active,Janu Basti
+42,Female,Fatigue,Chronic Fatigue,Chronic,Mild,258,Shirodhara,Worsened,Active,Kati Basti
+19,Male,Joint Pain,Arthritis,Chronic,Mild,287,Virechana,Improved,Active,Basti
+30,Male,Low Mood,Depression,Chronic,Mild,179,Shirodhara,No Change,Stressful,Janu Basti
+61,Female,Back Pain,Spondylitis,Chronic,Moderate,129,Kati Basti,Worsened,Active,Vamana
+29,Female,Knee Pain,Osteoarthritis,Acute,Mild,220,Udvartana,No Change,Stressful,Abhyanga
+45,Male,Skin Problems,Psoriasis,Acute,Mild,346,Takradhara,Improved,Stressful,Virechana
+56,Female,Low BP,Hypotension,Acute,Moderate,14,Abhyanga,No Change,Active,Abhyanga
+64,Female,Breathing Issue,Asthma,Acute,Severe,275,Udvartana,No Change,Stressful,Shirodhara
+43,Female,Fatigue,Chronic Fatigue,Chronic,Mild,353,Abhyanga,No Change,Active,Kati Basti
+24,Female,High Sugar,Diabetes Mellitus,Acute,Severe,73,Shirodhara,No Change,Sedentary,Nasya
+21,Female,Low Mood,Depression,Acute,Mild,211,Takradhara,No Change,Active,Virechana
+69,Female,Breathing Issue,Asthma,Acute,Severe,167,Udvartana,No Change,Sedentary,Takradhara
+67,Female,Knee Pain,Osteoarthritis,Chronic,Severe,341,Virechana,Worsened,Active,Janu Basti
+47,Male,Acidity,Gastritis,Acute,Severe,286,Basti,No Change,Stressful,Udvartana
+23,Female,High BP,Hypertension,Acute,Severe,111,Takradhara,No Change,Active,Nasya
+45,Male,Headache,Migraine Disorder,Chronic,Mild,360,Virechana,Improved,Stressful,Nasya
+43,Male,Fatigue,Chronic Fatigue,Acute,Moderate,359,Shirodhara,No Change,Sedentary,Udvartana
+41,Female,Headache,Migraine Disorder,Acute,Moderate,223,Vamana,No Change,Sedentary,Nasya
+47,Male,High Sugar,Diabetes Mellitus,Acute,Moderate,115,Basti,Worsened,Active,Nasya
+50,Male,Back Pain,Spondylitis,Acute,Moderate,229,Udvartana,No Change,Sedentary,Nasya
+61,Female,Low Mood,Depression,Chronic,Moderate,214,Janu Basti,Worsened,Stressful,Shirodhara
+28,Male,Weight Gain,Obesity,Acute,Mild,358,Shirodhara,Improved,Stressful,Udvartana
+31,Male,Low Mood,Depression,Acute,Moderate,249,Virechana,Worsened,Sedentary,Abhyanga
+46,Female,Fatigue,Chronic Fatigue,Acute,Moderate,245,Kati Basti,Improved,Active,Abhyanga
+31,Male,Back Pain,Spondylitis,Chronic,Severe,265,Shirodhara,No Change,Sedentary,Kati Basti
+31,Male,Acidity,Gastritis,Chronic,Moderate,248,Takradhara,Worsened,Stressful,Kati Basti
+64,Female,Breathing Issue,Asthma,Chronic,Mild,284,Kati Basti,Improved,Sedentary,Nasya
+67,Male,Breathing Issue,Asthma,Chronic,Mild,245,Nasya,No Change,Stressful,Nasya
+30,Female,Knee Pain,Osteoarthritis,Acute,Moderate,32,Kati Basti,No Change,Sedentary,Virechana
+47,Female,High BP,Hypertension,Chronic,Severe,226,Abhyanga,No Change,Stressful,Takradhara
+74,Male,Knee Pain,Osteoarthritis,Acute,Mild,203,Nasya,No Change,Stressful,Virechana
+28,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,242,Udvartana,No Change,Stressful,Vamana
+73,Male,High BP,Hypertension,Acute,Severe,38,Nasya,Improved,Stressful,Takradhara
+32,Male,Back Pain,Spondylitis,Acute,Severe,149,Shirodhara,Worsened,Stressful,Nasya
+59,Male,Breathing Issue,Asthma,Acute,Severe,322,Basti,Worsened,Active,Abhyanga
+56,Female,Stress,Anxiety,Acute,Mild,171,Takradhara,Improved,Stressful,Shirodhara
+18,Female,Stress,Anxiety,Acute,Moderate,55,Abhyanga,No Change,Stressful,Janu Basti
+50,Female,Fatigue,Chronic Fatigue,Acute,Moderate,242,Abhyanga,Worsened,Stressful,Takradhara
+57,Male,Joint Pain,Arthritis,Acute,Severe,284,Janu Basti,No Change,Stressful,Nasya
+57,Female,Joint Pain,Arthritis,Acute,Mild,253,Nasya,No Change,Stressful,Abhyanga
+49,Female,Skin Problems,Psoriasis,Acute,Mild,47,Nasya,Worsened,Stressful,Shirodhara
+41,Male,Low Mood,Depression,Acute,Severe,69,Takradhara,Worsened,Sedentary,Janu Basti
+57,Female,Stress,Anxiety,Chronic,Moderate,80,Abhyanga,No Change,Stressful,Udvartana
+25,Male,Acidity,Gastritis,Chronic,Moderate,268,Nasya,Worsened,Sedentary,Takradhara
+24,Female,Back Pain,Spondylitis,Acute,Severe,202,Takradhara,Worsened,Stressful,Kati Basti
+67,Male,Headache,Migraine Disorder,Acute,Mild,286,Takradhara,No Change,Stressful,Janu Basti
+28,Male,Low Mood,Depression,Acute,Mild,207,Takradhara,Worsened,Stressful,Nasya
+20,Male,High Sugar,Diabetes Mellitus,Acute,Severe,334,Vamana,Worsened,Stressful,Udvartana
+53,Male,Acidity,Gastritis,Acute,Mild,190,Virechana,Improved,Stressful,Virechana
+56,Male,Joint Pain,Arthritis,Chronic,Severe,269,Virechana,Worsened,Stressful,Basti
+30,Male,Low BP,Hypotension,Acute,Severe,242,Shirodhara,No Change,Stressful,Abhyanga
+22,Female,Low BP,Hypotension,Chronic,Severe,222,Takradhara,No Change,Sedentary,Abhyanga
+32,Female,Back Pain,Spondylitis,Acute,Mild,5,Shirodhara,Worsened,Active,Udvartana
+25,Female,Weight Gain,Obesity,Acute,Severe,333,Abhyanga,No Change,Active,Nasya
+44,Male,Knee Pain,Osteoarthritis,Acute,Severe,130,Takradhara,Improved,Stressful,Janu Basti
+42,Female,Stress,Anxiety,Chronic,Mild,104,Shirodhara,Worsened,Stressful,Nasya
+21,Female,Back Pain,Spondylitis,Acute,Mild,217,Janu Basti,Worsened,Sedentary,Abhyanga
+41,Female,Fatigue,Chronic Fatigue,Chronic,Moderate,246,Shirodhara,No Change,Active,Shirodhara
+54,Female,Headache,Migraine Disorder,Acute,Mild,228,Vamana,Improved,Active,Nasya
+39,Male,Weight Gain,Obesity,Chronic,Mild,264,Abhyanga,Worsened,Stressful,Nasya
+73,Female,Skin Problems,Psoriasis,Chronic,Severe,148,Udvartana,No Change,Stressful,Virechana
+58,Male,Low Mood,Depression,Acute,Moderate,30,Abhyanga,No Change,Sedentary,Takradhara
+38,Female,Back Pain,Spondylitis,Acute,Mild,25,Udvartana,Worsened,Active,Basti
+52,Female,Headache,Migraine Disorder,Chronic,Moderate,210,Shirodhara,Improved,Active,Nasya
+51,Female,Headache,Migraine Disorder,Acute,Moderate,337,Vamana,No Change,Stressful,Abhyanga
+69,Female,Knee Pain,Osteoarthritis,Chronic,Severe,297,Virechana,Improved,Sedentary,Janu Basti
+64,Male,Headache,Migraine Disorder,Chronic,Severe,154,Takradhara,Improved,Stressful,Nasya
+28,Male,Stress,Anxiety,Chronic,Severe,211,Janu Basti,Improved,Sedentary,Shirodhara
+61,Male,Knee Pain,Osteoarthritis,Acute,Moderate,30,Abhyanga,Worsened,Active,Virechana
+37,Female,Back Pain,Spondylitis,Chronic,Mild,102,Shirodhara,Improved,Active,Kati Basti
+61,Male,High Sugar,Diabetes Mellitus,Chronic,Severe,249,Janu Basti,Worsened,Stressful,Vamana
+53,Female,High BP,Hypertension,Acute,Moderate,215,Virechana,Worsened,Active,Abhyanga
+53,Female,Breathing Issue,Asthma,Acute,Moderate,62,Takradhara,Worsened,Stressful,Vamana
+24,Male,High Sugar,Diabetes Mellitus,Acute,Moderate,348,Kati Basti,No Change,Active,Basti
